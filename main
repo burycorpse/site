@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Webpage</title>
+  <style>
+    /* Basic reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: #1c0b14; /* Dark background */
+      color: #fff;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh; /* Full-height to center content */
+    }
+
+    /* Container for the two buttons */
+    .button-container {
+      display: flex;
+      gap: 2rem;       /* Space between buttons */
+      margin-bottom: 2rem;
+    }
+
+    .button-container a {
+      text-decoration: none;
+      color: #fff;
+      background-color: #444;
+      padding: 0.75rem 1.5rem;
+      border-radius: 4px;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+
+    .button-container a:hover {
+      background-color: #666; /* Hover effect */
+    }
+
+    /* Image styling */
+    .image-container img {
+      max-width: 300px;  /* Adjust as needed */
+      height: auto;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div class="button-container">
+    <a href="https://discord.gg/mdi" target="_blank">Discord</a>
+    <a href="#" target="_blank">My Deadly Intellect</a>
+  </div>
+
+  <div class="image-container">
+    <img src="your-image.jpg" alt="Custom Image">
+  </div>
+</body>
+</html>
