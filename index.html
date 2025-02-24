@@ -1,64 +1,233 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>My Webpage</title>
-  <style>
-    /* Basic reset */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
-    body {
-      background-color: #1c0b14; /* Dark background */
-      color: #fff;
-      font-family: Arial, sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh; /* Full-height to center content */
-    }
-
-    /* Container for the two buttons */
-    .button-container {
-      display: flex;
-      gap: 2rem;       /* Space between buttons */
-      margin-bottom: 2rem;
-    }
-
-    .button-container a {
-      text-decoration: none;
-      color: #fff;
-      background-color: #444;
-      padding: 0.75rem 1.5rem;
-      border-radius: 4px;
-      font-weight: bold;
-      transition: background-color 0.3s ease;
-    }
-
-    .button-container a:hover {
-      background-color: #666; /* Hover effect */
-    }
-
-    /* Image styling */
-    .image-container img {
-      max-width: 300px;  /* Adjust as needed */
-      height: auto;
-      display: block;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Links</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0a0000;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            color: white;
+            overflow: hidden;
+            position: relative;
+            cursor: none;
+        }
+        
+        .container {
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            z-index: 10;
+        }
+        
+        .buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+        
+        .btn {
+            background-color: transparent;
+            color: white;
+            border: 1px solid #1a1010;
+            padding: 8px 15px;
+            font-size: 14px;
+            cursor: none;
+            text-decoration: none;
+        }
+        
+        .btn:hover {
+            background-color: #1a1010;
+        }
+        
+        .image-container {
+            margin-top: 10px;
+        }
+        
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            max-height: 300px;
+        }
+        
+        .snowflake {
+            color: #fff;
+            position: absolute;
+            top: -20px;
+            z-index: 1;
+            user-select: none;
+            pointer-events: none;
+            animation-name: fall;
+            animation-timing-function: linear;
+        }
+        
+        @keyframes fall {
+            to {
+                transform: translateY(100vh);
+            }
+        }
+        
+        .custom-cursor {
+            position: fixed;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: rgba(255, 255, 255, 0.3);
+            pointer-events: none;
+            z-index: 9999;
+            mix-blend-mode: difference;
+            transform: translate(-50%, -50%);
+            transition: width 0.2s, height 0.2s;
+        }
+        
+        .cursor-trail {
+            position: fixed;
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            background-color: rgba(255, 255, 255, 0.5);
+            pointer-events: none;
+            z-index: 9998;
+            transform: translate(-50%, -50%);
+            transition: opacity 0.5s;
+        }
+    </style>
 </head>
 <body>
-  <div class="button-container">
-    <a href="https://discord.gg/mdi" target="_blank">Discord</a>
-    <a href="#" target="_blank">My Deadly Intellect</a>
-  </div>
+    <div class="custom-cursor"></div>
+    
+    <div class="container">
+        <div class="buttons">
+            <a href="https://discord.gg/your-invite-link" class="btn">Discord</a>
+            <a href="https://your-purchase-link.com" class="btn">Purchase</a>
+        </div>
+        
+        <div class="image-container">
+            <!-- Replace with your actual image -->
+            <img src="/api/placeholder/250/300" alt="Image">
+        </div>
+    </div>
 
-  <div class="image-container">
-    <img src="https://github.com/burycorpse/site/blob/main/3d7d3937f71ae9166d986ace6dc5ce42.jpg" alt="Custom Image">
-  </div>
+    <script>
+        // Snowflake effect
+        function createSnowflakes() {
+            const snowflakes = ['❄', '❅', '❆', '•', '*'];
+            const container = document.body;
+            const windowWidth = window.innerWidth;
+            
+            for (let i = 0; i < 50; i++) {
+                const snowflake = document.createElement('div');
+                const snowflakeChar = snowflakes[Math.floor(Math.random() * snowflakes.length)];
+                const delay = Math.random() * 10;
+                const initialOpacity = Math.random();
+                const duration = Math.random() * 10 + 10;
+                
+                snowflake.innerHTML = snowflakeChar;
+                snowflake.classList.add('snowflake');
+                snowflake.style.left = `${Math.random() * windowWidth}px`;
+                snowflake.style.opacity = initialOpacity;
+                snowflake.style.animation = `fall ${duration}s linear infinite`;
+                snowflake.style.animationDelay = `${delay}s`;
+                snowflake.style.fontSize = `${Math.random() * 15 + 10}px`;
+                
+                container.appendChild(snowflake);
+            }
+        }
+        
+        // Custom cursor effect
+        function setupCursor() {
+            const cursor = document.querySelector('.custom-cursor');
+            const body = document.body;
+            const trails = [];
+            const trailCount = 10;
+            
+            // Create trail elements
+            for (let i = 0; i < trailCount; i++) {
+                const trail = document.createElement('div');
+                trail.classList.add('cursor-trail');
+                body.appendChild(trail);
+                trails.push({
+                    element: trail,
+                    x: 0,
+                    y: 0,
+                    age: i * 2
+                });
+            }
+            
+            // Update cursor position
+            document.addEventListener('mousemove', (e) => {
+                cursor.style.left = `${e.clientX}px`;
+                cursor.style.top = `${e.clientY}px`;
+                
+                // Update the position of the first trail
+                if (trails.length > 0) {
+                    trails[0].x = e.clientX;
+                    trails[0].y = e.clientY;
+                }
+            });
+            
+            // Hover effect on buttons
+            const buttons = document.querySelectorAll('.btn');
+            buttons.forEach(button => {
+                button.addEventListener('mouseenter', () => {
+                    cursor.style.width = '30px';
+                    cursor.style.height = '30px';
+                    cursor.style.backgroundColor = 'rgba(255, 255, 255, 0.5)';
+                });
+                
+                button.addEventListener('mouseleave', () => {
+                    cursor.style.width = '20px';
+                    cursor.style.height = '20px';
+                    cursor.style.backgroundColor = 'rgba(255, 255, 255, 0.3)';
+                });
+            });
+            
+            // Update cursor trails
+            function updateTrails() {
+                // Update trail positions
+                for (let i = trails.length - 1; i > 0; i--) {
+                    trails[i].x = trails[i-1].x;
+                    trails[i].y = trails[i-1].y;
+                }
+                
+                // Apply positions and fading effect
+                trails.forEach((trail, index) => {
+                    const opacity = 1 - (index / trails.length);
+                    trail.element.style.opacity = opacity;
+                    trail.element.style.left = `${trail.x}px`;
+                    trail.element.style.top = `${trail.y}px`;
+                });
+                
+                requestAnimationFrame(updateTrails);
+            }
+            
+            updateTrails();
+        }
+        
+        // Initialize effects when the page loads
+        window.addEventListener('load', () => {
+            createSnowflakes();
+            setupCursor();
+        });
+        
+        // Recreate snowflakes on window resize
+        window.addEventListener('resize', () => {
+            const flakes = document.querySelectorAll('.snowflake');
+            flakes.forEach(flake => flake.remove());
+            createSnowflakes();
+        });
+    </script>
 </body>
 </html>
