@@ -19,7 +19,7 @@
             overflow: hidden;
             position: relative;
         }
-        
+
         .container {
             text-align: center;
             display: flex;
@@ -28,7 +28,7 @@
             width: 100%;
             z-index: 10;
         }
-        
+
         .buttons {
             display: flex;
             justify-content: center;
@@ -36,55 +36,71 @@
             margin-bottom: 20px;
             width: 100%;
         }
-        
+
         .btn {
-            background-color: transparent;
+            background: rgba(255, 255, 255, 0.1);
             color: white;
-            border: 1px solid #1a1010;
-            padding: 8px 15px;
-            font-size: 14px;
+            border: 1px solid #ff0000;
+            padding: 12px 25px;
+            font-size: 16px;
             cursor: pointer;
             text-decoration: none;
+            border-radius: 5px;
+            transition: 0.3s ease-in-out;
+            backdrop-filter: blur(5px);
         }
-        
+
         .btn:hover {
-            background-color: #1a1010;
+            background-color: rgba(255, 0, 0, 0.3);
+            transform: scale(1.1);
+            box-shadow: 0 0 10px rgba(255, 0, 0, 0.6);
         }
-        
+
         .image-container {
-            margin-top: 10px;
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 10px;
+            position: relative;
+            overflow: hidden;
         }
-        
+
         .image-container img {
             max-width: 100%;
             height: auto;
             max-height: 300px;
+            border-radius: 10px;
+            border: 2px solid rgba(255, 0, 0, 0.7);
+            box-shadow: 0 0 15px rgba(255, 0, 0, 0.7);
+            transition: transform 0.3s ease-in-out;
         }
-        
+
+        .image-container img:hover {
+            transform: scale(1.05);
+        }
+
         .raindrop {
             position: absolute;
             top: -20px;
-            background: linear-gradient(to bottom, rgba(255,255,255,0.1), rgba(255,255,255,0.4));
+            background: linear-gradient(to bottom, rgba(255,255,255,0.1), rgba(255,255,255,0.5));
             width: 1px;
             height: 15px;
             z-index: 1;
             user-select: none;
             pointer-events: none;
-            animation-name: rain;
-            animation-timing-function: linear;
+            animation: rain linear infinite;
         }
-        
+
         @keyframes rain {
             to {
                 transform: translateY(100vh);
             }
         }
-        
+
         .cursor-trail {
             position: fixed;
             width: 6px;
             height: 6px;
-            background-color: rgba(255, 255, 255, 0.5);
+            background-color: rgba(255, 0, 0, 0.5);
             border-radius: 50%;
             pointer-events: none;
             z-index: 9998;
@@ -99,22 +115,21 @@
             <a href="https://discord.gg/mdi" class="btn">Discord</a>
             <a href="https://discord.gg/mdi" class="btn">Purchase</a>
         </div>
-        
+
         <div class="image-container">
             <img src="3d7d3937f71ae9166d986ace6dc5ce42.jpg" alt="Image">
         </div>
     </div>
 
     <script>
-        // Rain effect
         function createRain() {
             const container = document.body;
             const windowWidth = window.innerWidth;
             
-            for (let i = 0; i < 100; i++) {
+            for (let i = 0; i < 80; i++) {
                 const raindrop = document.createElement('div');
                 const delay = Math.random() * 10;
-                const duration = Math.random() * 5 + 5;
+                const duration = Math.random() * 6 + 4;
                 const width = Math.random() * 1 + 0.5;
                 const height = Math.random() * 15 + 10;
                 const opacity = Math.random() * 0.3 + 0.1;
@@ -126,18 +141,16 @@
                 raindrop.style.height = `${height}px`;
                 raindrop.style.animation = `rain ${duration}s linear infinite`;
                 raindrop.style.animationDelay = `${delay}s`;
-                
+
                 container.appendChild(raindrop);
             }
         }
-        
-        // Cursor trail effect
+
         function setupCursorTrail() {
             const body = document.body;
             const trails = [];
-            const trailCount = 15;
-            
-            // Create trail elements
+            const trailCount = 12;
+
             for (let i = 0; i < trailCount; i++) {
                 const trail = document.createElement('div');
                 trail.classList.add('cursor-trail');
@@ -149,25 +162,20 @@
                     age: i * 2
                 });
             }
-            
-            // Update cursor position
+
             document.addEventListener('mousemove', (e) => {
-                // Update the position of the first trail
                 if (trails.length > 0) {
                     trails[0].x = e.clientX;
                     trails[0].y = e.clientY;
                 }
             });
-            
-            // Update cursor trails
+
             function updateTrails() {
-                // Update trail positions
                 for (let i = trails.length - 1; i > 0; i--) {
                     trails[i].x = trails[i-1].x;
                     trails[i].y = trails[i-1].y;
                 }
-                
-                // Apply positions and fading effect
+
                 trails.forEach((trail, index) => {
                     const size = 6 - (index * 0.3);
                     const opacity = 1 - (index / trails.length);
@@ -178,23 +186,20 @@
                     trail.element.style.left = `${trail.x}px`;
                     trail.element.style.top = `${trail.y}px`;
                 });
-                
+
                 requestAnimationFrame(updateTrails);
             }
-            
+
             updateTrails();
         }
-        
-        // Initialize effects when the page loads
+
         window.addEventListener('load', () => {
             createRain();
             setupCursorTrail();
         });
-        
-        // Recreate rain on window resize
+
         window.addEventListener('resize', () => {
-            const drops = document.querySelectorAll('.raindrop');
-            drops.forEach(drop => drop.remove());
+            document.querySelectorAll('.raindrop').forEach(drop => drop.remove());
             createRain();
         });
     </script>
