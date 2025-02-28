@@ -1,5 +1,9 @@
 {
-    "announcemeents": [
-        "hi fuckers"
+    "announcements": [
+        {
+            "title": "Testing this shit",
+            "message": "wsp fucking fuckers",
+            "date": "mdibladi tha goat"
+        }
     ]
 }
