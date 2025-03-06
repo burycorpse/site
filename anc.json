@@ -1,9 +1,9 @@
 {
-    "announcements": [
-        {
-            "title": "Please add reviews to configs!",
-            "message": "Right click to add a review to a config you used!!!",
-            "date": "@mdibladi"
-        }
-    ]
+  "announcements": [
+    {
+      "title": "update logs",
+      "message": "Improved loader and rescripted reviews updater.",
+      "date": "@mdibladi"
+    }
+  ]
 }
