@@ -111,9 +111,10 @@
             "expiry": "permanent"
         },
         "1158085809400975411": {
-            "uuid": "b4cc2008-78c8-4965-b2ad-74f21aa776a0",
-            "auto_login": false,
-            "expiry": "permanent"
+            "uuid": "25a1a3b0-158c-4ec9-9728-63696b44b40e",
+            "expiry": "permanent",
+            "added_by": 1158085809400975411,
+            "timestamp": "2025-03-31T23:02:48.925768"
         }
     },
     "1158085809400975411": {
