@@ -39,6 +39,12 @@
             "panel_id": "legacy_entry",
             "hwid": "legacy_entry",
             "ip": "51.211.209.183"
+        },
+        "1220536691492786198": {
+            "reason": "No reason provided",
+            "expiry": "permanent",
+            "moderator": 1158085809400975411,
+            "timestamp": "2025-03-31T23:54:59.243521+00:00"
         }
     }
 }
