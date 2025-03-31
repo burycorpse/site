@@ -84,5 +84,9 @@
             "uuid": "",
             "auto_login": false
         }
+    },
+    "1158085809400975411": {
+        "uuid": "5771ed36-7487-4e78-b9dd-293489ac636a",
+        "auto_login": true
     }
 }
