@@ -1,5 +1,5 @@
 {
-    "entries": {
+    "blacklisted": {
         "1064203794570821682": {
             "reason": "Blacklisted user",
             "timestamp": "2024-01-01T00:00:00Z",
