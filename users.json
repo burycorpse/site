@@ -111,8 +111,8 @@
             "expiry": "permanent"
         },
         "1158085809400975411": {
-            "uuid": "9873eb93-e5c4-48de-9b89-94c182c61b4d",
-            "auto_login": true,
+            "uuid": "b4cc2008-78c8-4965-b2ad-74f21aa776a0",
+            "auto_login": false,
             "expiry": "permanent"
         }
     }
