@@ -2,94 +2,118 @@
     "allowed_users": {
         "1190003563489939568": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "515959443306053675": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "954082391385854032": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1193247117662228541": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1177124441352830976": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1276837903993016343": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1223359053544296448": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "254577507964026880": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "884311745412349972": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1108269252995207219": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "952275078098350100": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "752593667977510963": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1132965592333295696": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1277177990073155616": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1150825253040295986": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "790842912207274045": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1159168009701695639": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1288864629602390078": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "945410853111480421": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "936972534572781608": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1246843560725188718": {
             "uuid": "",
-            "auto_login": false
+            "auto_login": false,
+            "expiry": "permanent"
         },
         "1220536691492786198": {
-            "uuid": ""
+            "uuid": "",
+            "auto_login": false,
+            "expiry": "permanent"
+        },
+        "1158085809400975411": {
+            "uuid": "9873eb93-e5c4-48de-9b89-94c182c61b4d",
+            "auto_login": true,
+            "expiry": "permanent"
         }
-    },
-    "1158085809400975411": {
-        "uuid": "9873eb93-e5c4-48de-9b89-94c182c61b4d",
-        "auto_login": true
     }
 }
