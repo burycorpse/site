@@ -519,5 +519,9 @@
     "1077860805481074728": {
         "uuid": "44e4cb8d-a09b-4663-bf3b-d86a58f4dffd",
         "auto_login": false
+    },
+    "1075946524372107344": {
+        "uuid": "dc26e6c1-f042-4fad-a894-6815f5180b72",
+        "auto_login": false
     }
 }
