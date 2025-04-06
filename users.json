@@ -14,5 +14,9 @@
     "1163021443869708358": {
         "uuid": "3b79edc9-b77e-4564-8a08-d5eca524c12e",
         "auto_login": true
+    },
+    "1343295941632987197": {
+        "uuid": "59eb21c6-f6a2-4a5d-91cb-a48deb22378b",
+        "auto_login": false
     }
 }
