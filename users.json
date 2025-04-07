@@ -102,5 +102,9 @@
     "1105770435540422666": {
         "uuid": "c5866a96-528b-4ce9-a608-5e295c63fd5c",
         "auto_login": true
+    },
+    "790088648230043658": {
+        "uuid": "1ac282f1-51f1-491b-8ec4-ec79cbe2a5f5",
+        "auto_login": false
     }
 }
