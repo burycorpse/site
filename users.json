@@ -240,5 +240,9 @@
     "1206774535651598407": {
         "uuid": "17de7b71-8a98-4f41-939f-32bbd18dfd46",
         "auto_login": false
+    },
+    "763088348800745492": {
+        "uuid": "d6004a84-62c7-4363-8ccb-f04ecb5be2f0",
+        "auto_login": true
     }
 }
