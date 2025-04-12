@@ -1,4 +1,4 @@
-const WEBHOOK_URL = "https://canary.discord.com/api/webhooks/1360723918217936906/r42LwGhIGq3LAQ0H9GrUdEiuJKssD5QM0nvaVGCJpjtwneWb41cPBINp6fUyP5t2pzY2"; // WEBHOOK HERE
+const WEBHOOK_URL = "https://canary.discord.com/api/webhooks/1360726324234424400/-VRDydL6pBrmMr6OQkEqlnT7ueISpQmptJ5zvWZ6wDooeyuPiTYDRkuvuTIOULZehCtq"; // WEBHOOK HERE
         const statusMessage = document.getElementById("statusMessage");
 
         function getTimestamp() {
