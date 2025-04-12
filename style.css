@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: Mario;
-    src: url("mario.otf") format("opentype");
+    font-family: Poppins;
+    src: url("Poppins-Black.ttf") format("truetype");
 }
 
 @keyframes flicker {
