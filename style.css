@@ -4,7 +4,7 @@
 }
 
 @font-face {
-    font-family: Poppins;
+    font-family: 'Poppins';
     src: url("Poppins-Black.ttf") format("truetype");
 }
 
@@ -37,7 +37,7 @@ html, body {
 }
 
 h1 {
-    font-family: 'Mario';
+    font-family: 'Poppins';
     font-size: 50px;
     color: #A9A9A9;
 }
