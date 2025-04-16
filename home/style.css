@@ -1,11 +1,13 @@
 /* --- Global Settings & Theme Variables --- */
 :root {
-    --bg-color: #100f1c;
+    --bg-color: #0d0d1a; /* Slightly darker, bluer base */
+    --bg-color-alt: #100f1c;
     --primary-accent: #e01e79;
-    --secondary-accent: #c0c0d0;
-    --ui-element-color: #4a4a6a;
+    --secondary-accent: #e0e0e0; /* Lighter grey for text */
+    --text-color: #c0c0d0;   /* Standard paragraph text */
+    --ui-element-color: #3a3a5a; /* Subtler border/ui color */
     --glow-color: rgba(224, 30, 121, 0.7);
-    --glow-color-intense: rgba(224, 30, 121, 1); /* For more intense glows */
+    --glow-color-intense: rgba(224, 30, 121, 1);
 
     --sharp-radius: 0px;
     --transition-speed-fast: 0.2s;
@@ -13,435 +15,439 @@
     --transition-speed-slow: 0.6s;
 }
 
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    border-radius: var(--sharp-radius) !important;
-}
-
-/* Add prefers-reduced-motion */
-@media (prefers-reduced-motion: reduce) {
-  *,
-  *::before,
-  *::after {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll-behavior: auto !important;
-  }
-}
-
+/* ... (keep *, body base styles, reduced motion query from previous) ... */
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Example: Inter */
     background-color: var(--bg-color);
-    color: var(--secondary-accent);
-    line-height: 1.6;
+    color: var(--text-color); /* Default to standard text color */
+    line-height: 1.7; /* Slightly increased line height */
     overflow-x: hidden;
-    /* Optional: Subtle animated gradient background */
-    background: linear-gradient(315deg, #1a1a2e, #100f1c, #1a1a2e);
-    background-size: 400% 400%;
-    animation: gradientBG 15s ease infinite; 
 }
-
-/* Optional Keyframes for Background */
- @keyframes gradientBG {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-} 
-
 
 .container {
     width: 90%;
-    max-width: 1100px;
+    max-width: 1100px; /* Can adjust max-width */
     margin: 0 auto;
+    position: relative; /* Needed for z-index stacking with particles */
+    z-index: 2;
 }
 
 h1, h2, h3 {
     color: #ffffff;
     margin-bottom: 0.75em;
-    /* Add subtle text shadow */
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    font-weight: 600; /* Adjust weights */
 }
-
-h1 { font-size: 2.8rem; transform: translateY(20px); opacity: 0; animation: fadeInUp 0.8s ease-out 0.5s forwards; }
-h2 { font-size: 2rem; } /* Apply animation via JS on scroll */
-h3 { font-size: 1.3rem; }
+h2 { font-size: 2.2rem; } /* Section titles slightly larger */
+h3 { font-size: 1.4rem; }
 
 a {
     color: var(--primary-accent);
     text-decoration: none;
     transition: color var(--transition-speed-fast) ease, text-shadow var(--transition-speed-fast) ease;
 }
-
 a:hover {
     color: #ffffff;
-    text-shadow: 0 0 5px var(--glow-color), 0 0 10px var(--glow-color); /* Enhanced glow */
+    text-shadow: 0 0 8px var(--glow-color);
 }
 
-img {
-    max-width: 100%;
-    display: block;
+/* --- Particle Background --- */
+#particles-js {
+    position: fixed; /* Or absolute if container is relative */
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: var(--bg-color); /* Match body */
+    z-index: 0; /* Behind everything */
 }
-
-/* --- Utility Animation Classes --- */
-.reveal-on-scroll {
-    opacity: 0;
-    transform: translateY(30px); /* Start slightly lower */
-    transition: opacity var(--transition-speed-slow) ease-out, transform var(--transition-speed-slow) ease-out;
-}
-
-.reveal-on-scroll.is-visible {
-    opacity: 1;
-    transform: translateY(0);
-}
-
-/* --- Keyframes for Entrance Animations --- */
-@keyframes fadeInUp {
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-@keyframes pulse-glow {
-    0%, 100% { box-shadow: 0 0 10px var(--glow-color); }
-    50% { box-shadow: 0 0 20px var(--glow-color-intense), 0 0 30px var(--glow-color); }
-}
-
 
 /* --- Header --- */
 .main-header {
-    background-color: rgba(16, 15, 28, 0.7); /* Slightly more transparent */
     padding: 1rem 0;
-    position: fixed;
+    position: fixed; /* Changed to fixed */
     width: 100%;
     top: 0;
     left: 0;
     z-index: 100;
-    backdrop-filter: blur(8px); /* Stronger blur */
+    transition: background-color var(--transition-speed-medium) ease, box-shadow var(--transition-speed-medium) ease;
+    border-bottom: 1px solid transparent; /* Add border on scroll */
+}
+/* Style for scrolled header */
+.main-header.scrolled {
+    background-color: rgba(13, 13, 26, 0.85); /* Darker, slightly transparent */
+    backdrop-filter: blur(10px);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
     border-bottom: 1px solid var(--ui-element-color);
-    /* Entrance animation */
-    transform: translateY(-100%);
-    animation: slideDown 0.6s ease-out 0.2s forwards;
 }
 
-@keyframes slideDown {
-    to {
-        transform: translateY(0);
-    }
-}
-
-.main-header .container {
+.header-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .main-header .logo img {
-    height: 40px;
-    filter: drop-shadow(0 0 8px var(--glow-color));
+    height: 35px; /* Slightly smaller */
+    filter: drop-shadow(0 0 5px var(--glow-color));
     transition: filter var(--transition-speed-medium) ease, transform var(--transition-speed-medium) ease;
 }
-.main-header .logo img:hover {
-    filter: drop-shadow(0 0 15px var(--glow-color-intense));
-    transform: scale(1.05); /* Slight scale on hover */
+.main-header .logo img:hover { /* Keep hover */
+    filter: drop-shadow(0 0 10px var(--glow-color-intense));
+    transform: scale(1.05);
 }
 
 .main-header nav ul {
     list-style: none;
     display: flex;
+    align-items: center; /* Align items vertically */
 }
 
 .main-header nav ul li {
-    margin-left: 2rem;
+    margin-left: 2.5rem; /* Increased spacing */
 }
 
 .main-header nav ul li a {
-    font-weight: bold;
+    font-weight: 500; /* Slightly lighter weight */
+    font-size: 0.95rem;
     padding: 0.5rem 0;
-    position: relative; /* Needed for pseudo-element underline */
-    overflow: hidden; /* Hide underline initially */
+    position: relative;
+    color: var(--secondary-accent); /* Lighter grey nav links */
+    transition: color var(--transition-speed-fast) ease, text-shadow var(--transition-speed-fast) ease;
 }
-.main-header nav ul li a::after { /* Animated underline */
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: -100%; /* Start off-screen */
-    width: 100%;
-    height: 2px;
-    background-color: var(--primary-accent);
-    transition: left var(--transition-speed-medium) ease-out;
-}
-
-.main-header nav ul li a:hover::after {
-    left: 0; /* Slide in on hover */
-}
-
 .main-header nav ul li a:hover {
     color: #ffffff;
     text-shadow: 0 0 8px var(--glow-color);
-    border-bottom-color: transparent; /* Remove static border */
 }
+/* Active nav link (can use JS to add class) */
+.main-header nav ul li a.active {
+    color: var(--primary-accent);
+    text-shadow: 0 0 5px var(--glow-color);
+}
+
+/* Navigation CTA Button */
+.nav-cta {
+    background-color: var(--primary-accent);
+    color: #ffffff !important; /* Override default link color */
+    padding: 8px 18px;
+    font-weight: 600;
+    border: 1px solid var(--primary-accent);
+    transition: background-color var(--transition-speed-fast) ease, box-shadow var(--transition-speed-fast) ease, transform var(--transition-speed-fast) ease;
+}
+.nav-cta:hover {
+    background-color: #ff3399;
+    box-shadow: 0 0 15px var(--glow-color);
+    transform: scale(1.03);
+    text-shadow: none !important; /* Remove text-shadow for buttons */
+}
+
 
 /* --- Hero Section --- */
-.hero {
-    padding: 160px 0 100px 0; /* Increased padding */
+.hero-section {
+    min-height: 100vh; /* Full viewport height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    background: linear-gradient(rgba(16, 15, 28, 0.85), rgba(16, 15, 28, 1)),
-                url('your-subtle-tech-pattern.png') center/cover repeat; /* Add a subtle pattern */
+    padding: 150px 0 80px 0; /* Adjust padding, top accounts for header */
     position: relative;
-    overflow: hidden; /* Contain potential pseudo-element effects */
+    overflow: hidden;
+    background: linear-gradient(180deg, rgba(13, 13, 26, 0) 0%, var(--bg-color-alt) 100%); /* Subtle gradient from top */
 }
 
-/* Optional: Add subtle moving lines/grid effect */
- .hero::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background-image: linear-gradient(var(--ui-element-color) 1px, transparent 1px),
-                      linear-gradient(90deg, var(--ui-element-color) 1px, transparent 1px);
-    background-size: 40px 40px;
-    opacity: 0.1;
-    animation: moveGrid 20s linear infinite;
+.hero-content {
+    max-width: 900px; /* Max width for hero text/content */
+    animation: fadeIn 1s ease-out 0.2s forwards; /* Fade in whole section */
+    opacity: 0;
 }
+@keyframes fadeIn { to { opacity: 1; } }
 
-@keyframes moveGrid {
-    from { background-position: 0 0; }
-    to { background-position: 80px 40px; }
-} 
 
-.hero h1 {
-    /* Animation already applied */
+.main-headline {
+    font-size: 3.5rem; /* Larger headline */
+    font-weight: 700;
+    line-height: 1.2;
     margin-bottom: 0.5em;
-}
-
-.hero .tagline {
-    font-size: 1.2rem;
-    margin-bottom: 2.5rem; /* Increased margin */
-    color: var(--secondary-accent);
-    /* Entrance animation */
-    transform: translateY(20px);
-    opacity: 0;
-    animation: fadeInUp 0.8s ease-out 0.7s forwards; /* Delay after H1 */
-}
-
-.hero .product-display {
-    max-width: 700px;
-    margin: 2.5rem auto;
-    border: 1px solid var(--ui-element-color);
-    box-shadow: 0 0 20px rgba(74, 74, 106, 0.6); /* Stronger shadow */
-    /* Entrance animation */
-    transform: scale(0.9);
-    opacity: 0;
-    animation: scaleUp 0.8s ease-out 0.9s forwards;
-    transition: transform var(--transition-speed-fast) ease-out; /* For mouse interaction */
-}
-
-@keyframes scaleUp {
-    to {
-        opacity: 1;
-        transform: scale(1);
-    }
-}
-
-.cta-button {
-    display: inline-block;
-    background-color: var(--primary-accent);
     color: #ffffff;
-    padding: 14px 35px; /* Slightly larger */
-    font-size: 1.1rem;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* Subtle white shadow */
+}
+.main-headline .highlight {
+    color: var(--primary-accent);
+    text-shadow: 0 0 15px var(--glow-color), 0 0 25px var(--glow-color);
+}
+
+.hero-section .tagline {
+    font-size: 1.3rem; /* Larger tagline */
+    margin-bottom: 3rem;
+    color: var(--secondary-accent);
+    opacity: 0.9;
+}
+
+.product-visual-container {
+    max-width: 750px; /* Adjust based on your image */
+    margin: 0 auto 3rem auto; /* Center and add margin */
+    border: 1px solid var(--ui-element-color);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);
+    /* Add the reveal-on-scroll animation */
+    opacity: 0; transform: translateY(20px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+.product-visual-container.is-visible { /* Style from reveal logic */
+    opacity: 1; transform: translateY(0);
+}
+.product-visual-container img {
+    display: block; /* Ensure no extra space below image */
+    width: 100%;
+}
+
+.hero-cta { /* Styles for the main CTA button */
+    padding: 15px 40px; /* Larger padding */
+    font-size: 1.2rem;
     font-weight: bold;
-    border: 1px solid var(--primary-accent);
+    /* Inherit general .cta-button styles */
+    /* Add reveal-on-scroll animation */
+    opacity: 0; transform: translateY(20px);
     transition: background-color var(--transition-speed-fast) ease,
                 box-shadow var(--transition-speed-fast) ease,
-                transform var(--transition-speed-fast) ease;
-    /* Add pulsing glow animation */
-    animation: pulse-glow 2.5s infinite ease-in-out;
-     /* Entrance animation */
-    transform: translateY(20px);
-    opacity: 0;
-    animation: fadeInUp 0.8s ease-out 1.1s forwards; /* Delay after product display */
+                transform var(--transition-speed-fast) ease,
+                opacity 0.8s ease-out 0.2s, /* Delay CTA reveal slightly */
+                transform 0.8s ease-out 0.2s;
 }
-
-.cta-button:hover {
-    background-color: #ff3399;
-    box-shadow: 0 0 20px var(--glow-color-intense), 0 0 30px var(--glow-color); /* Intense glow on hover */
-    transform: scale(1.05) translateY(0); /* Ensure transform overrides entry animation */
-    animation-play-state: paused; /* Pause pulse on hover */
-    color: #ffffff;
-    text-shadow: none;
+.hero-cta.is-visible {
+     opacity: 1; transform: translateY(0);
 }
+/* --- (Keep existing .cta-button, :hover, :active styles if desired) --- */
 
-.cta-button:active { /* Press effect */
-    transform: scale(0.98);
-    box-shadow: 0 0 8px var(--glow-color);
+
+/* --- Section Base Styles & Titles --- */
+section { /* Add padding to all sections except hero */
+    padding: 80px 0;
 }
-
-/* --- Details / Features Section --- */
-.details-section {
-    padding: 80px 0; /* Increased padding */
-    background-color: var(--bg-color);
-}
-
-.details-section h2 {
+.section-title { /* Main centered section title */
     text-align: center;
-    margin-bottom: 4rem; /* Increased margin */
+    font-size: 2.5rem;
+    margin-bottom: 4rem;
+    color: #fff;
+}
+.section-title-subtle { /* Optional quieter title */
+    text-align: center;
+    font-size: 1rem;
+    margin-bottom: 3rem;
+    color: var(--secondary-accent);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: 0.6;
 }
 
-.features-grid {
+/* --- Key Selling Points Section --- */
+.selling-points-section {
+    background-color: var(--bg-color-alt); /* Slightly different bg */
+    border-top: 1px solid var(--ui-element-color);
+    border-bottom: 1px solid var(--ui-element-color);
+}
+.points-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Slightly larger minmax */
-    gap: 2.5rem; /* Increased gap */
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 3rem; /* Increased gap */
+    max-width: 1000px; /* Limit width */
+    margin: 0 auto; /* Center grid */
 }
-
-.feature-item {
-    background-color: rgba(74, 74, 106, 0.15); /* Slightly adjusted */
-    padding: 2.5rem; /* Increased padding */
+.point-item {
     text-align: center;
-    border: 1px solid var(--ui-element-color);
+    padding: 2rem;
+    border: 1px solid transparent; /* Placeholder for hover */
     transition: transform var(--transition-speed-medium) ease,
-                box-shadow var(--transition-speed-medium) ease,
-                background-color var(--transition-speed-medium) ease;
-    /* Add reveal-on-scroll class in HTML */
-    /* Stagger animation via JS */
+                border-color var(--transition-speed-medium) ease,
+                box-shadow var(--transition-speed-medium) ease;
+    /* Add reveal-on-scroll animation */
+    opacity: 0; transform: translateY(20px);
 }
+.point-item.is-visible { opacity: 1; transform: translateY(0); }
 
-.feature-item:hover {
-    transform: translateY(-8px) scale(1.02); /* More pronounced hover */
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4), 0 0 15px var(--glow-color); /* Add glow to item */
-    background-color: rgba(74, 74, 106, 0.3);
-    border-color: var(--primary-accent); /* Highlight border on hover */
+.point-icon {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto 1.5rem auto;
 }
-
-.feature-icon {
-    width: 65px; /* Slightly larger */
-    height: 65px;
-    margin: 0 auto 1.8rem auto; /* Increased margin */
-    transition: transform var(--transition-speed-medium) cubic-bezier(0.68, -0.55, 0.27, 1.55);
-}
-
-.feature-icon svg {
+.point-icon svg {
     width: 100%;
     height: 100%;
     fill: var(--primary-accent);
     filter: drop-shadow(0 0 8px var(--glow-color));
     transition: filter var(--transition-speed-medium) ease, transform var(--transition-speed-medium) ease;
 }
-
-.feature-item:hover .feature-icon {
-     transform: scale(1.15) rotate(10deg); /* More dynamic icon animation */
+.point-item h3 {
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+    color: #fff;
+}
+.point-item p {
+    font-size: 0.95rem;
+    color: var(--text-color);
+    line-height: 1.6;
+}
+.point-item:hover {
+    transform: translateY(-5px);
+    border-color: var(--ui-element-color);
+    box-shadow: 0 5px 15px rgba(0,0,0, 0.2);
+}
+.point-item:hover .point-icon svg {
+    filter: drop-shadow(0 0 15px var(--glow-color-intense));
+    transform: scale(1.1);
 }
 
-.feature-item:hover .feature-icon svg {
-     filter: drop-shadow(0 0 15px var(--glow-color-intense));
-     transform: rotate(-10deg); /* Counter-rotate SVG for effect */
+/* --- Detailed Features Section (Updated Styles) --- */
+.details-section {
+    background-color: var(--bg-color); /* Match body */
+}
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Adjust minmax */
+    gap: 2.5rem;
+}
+.feature-item { /* More minimal feature items */
+    background-color: transparent;
+    padding: 1.5rem; /* Reduced padding */
+    border: 1px solid var(--ui-element-color);
+    transition: background-color var(--transition-speed-fast) ease, border-color var(--transition-speed-fast) ease;
+     /* Add reveal-on-scroll animation */
+    opacity: 0; transform: translateY(20px);
+}
+.feature-item.is-visible { opacity: 1; transform: translateY(0); }
+
+.feature-item h3 {
+    color: var(--primary-accent); /* Use accent for heading */
+    font-size: 1.2rem;
+    margin-bottom: 0.8rem;
+}
+.feature-item p {
+    font-size: 1rem;
+    color: var(--secondary-accent);
+}
+.feature-item:hover {
+    background-color: rgba(74, 74, 106, 0.1);
+    border-color: var(--primary-accent);
 }
 
 
-/* --- FAQ Section --- */
+/* --- FAQ Section (Updated Styles) --- */
 .faq-section {
-    padding: 80px 0;
-    background-color: rgba(16, 15, 28, 0.9);
+    background-color: var(--bg-color-alt);
+    border-top: 1px solid var(--ui-element-color);
 }
-
-.faq-section h2 {
-    text-align: center;
-    margin-bottom: 4rem;
-}
-
 .faq-list {
-    max-width: 800px;
+    max-width: 850px; /* Slightly wider */
     margin: 0 auto;
 }
-
 .faq-item {
     border: 1px solid var(--ui-element-color);
-    margin-bottom: 1.2rem; /* Increased margin */
-    background-color: rgba(74, 74, 106, 0.1);
-    overflow: hidden; /* Needed for max-height transition */
-    /* Add reveal-on-scroll class in HTML */
+    margin-bottom: 1rem;
+    background-color: transparent; /* Cleaner background */
+    transition: background-color var(--transition-speed-fast) ease;
+     /* Add reveal-on-scroll animation */
+     opacity: 0; transform: translateY(20px);
 }
+.faq-item.is-visible { opacity: 1; transform: translateY(0); }
 
 .faq-item summary {
-    padding: 1.2rem 1.8rem; /* Increased padding */
-    font-size: 1.1rem;
-    font-weight: bold;
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    color: #ffffff;
-    list-style: none;
-    transition: background-color var(--transition-speed-fast) ease;
-    position: relative; /* For potential indicator */
+    padding: 1.3rem 2rem; /* Adjust padding */
+    font-size: 1.15rem;
+    /* ... (keep rest from previous: flex, cursor, list-style, etc.) ... */
 }
-
-.faq-item summary::-webkit-details-marker { display: none; }
-.faq-item summary::marker { display: none; } /* Standard */
-
-
 .faq-item summary:hover {
-    background-color: rgba(74, 74, 106, 0.3);
-    color: var(--primary-accent); /* Change text color on hover */
+    background-color: rgba(74, 74, 106, 0.15);
+    color: var(--primary-accent);
 }
-
-/* Smooth open/close using max-height */
+.faq-item[open] summary {
+    background-color: rgba(74, 74, 106, 0.1); /* Subtle open bg */
+    border-bottom: 1px solid var(--ui-element-color);
+}
 .faq-item .faq-content {
+    padding: 0 2rem; /* Match summary horizontal padding */
+    /* ... (keep max-height transition) ... */
     max-height: 0;
     overflow: hidden;
     transition: max-height var(--transition-speed-medium) ease-out,
-                padding var(--transition-speed-medium) ease-out; /* Also transition padding */
-    padding: 0 1.8rem; /* Match summary padding L/R */
+                padding var(--transition-speed-medium) ease-out;
 }
-
 .faq-item[open] .faq-content {
-    max-height: 300px; /* Adjust if content is very long */
-    padding: 1.5rem 1.8rem; /* Add padding when open */
-    border-top: 1px solid var(--ui-element-color);
+    max-height: 300px;
+    padding: 1.8rem 2rem; /* Vertical padding when open */
+    /* border-top: 1px solid var(--ui-element-color); Removed, handled by summary border */
 }
+.faq-item .faq-content p {
+    color: var(--text-color);
+    font-size: 1rem;
+}
+/* --- (Keep FAQ icon styles) --- */
 
-.faq-item[open] summary {
-    background-color: rgba(74, 74, 106, 0.2);
-    /* border-bottom: 1px solid var(--ui-element-color); Remove this, handled by content border */
-}
 
-.faq-icon {
-    display: inline-block;
-    width: 10px;
-    height: 10px;
-    border-right: 2px solid var(--primary-accent);
-    border-bottom: 2px solid var(--primary-accent);
-    transform: rotate(45deg);
-    transition: transform var(--transition-speed-medium) ease, border-color var(--transition-speed-fast) ease;
-    margin-left: 1rem; /* Add some space */
+/* --- Floating Action Element --- */
+.floating-action {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    z-index: 50;
+    background-color: rgba(30, 30, 50, 0.8); /* Darker background */
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--ui-element-color);
+    padding: 10px 15px;
+    transition: transform var(--transition-speed-medium) ease,
+                opacity var(--transition-speed-slow) ease-out,
+                box-shadow var(--transition-speed-medium) ease;
+     /* Add reveal-on-scroll animation (can delay significantly) */
+     opacity: 0; transform: translateY(20px);
 }
-.faq-item summary:hover .faq-icon {
-    border-color: #fff; /* Change icon color with summary hover */
-}
+.floating-action.is-visible { opacity: 1; transform: translateY(0); }
 
-.faq-item[open] summary .faq-icon {
-    transform: rotate(-135deg);
+.floating-action a {
+    display: flex;
+    align-items: center;
+    color: var(--secondary-accent);
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-shadow: none;
 }
-
+.floating-action .discord-icon {
+    width: 20px;
+    height: 20px;
+    fill: #7289DA; /* Discord brand color */
+    margin-right: 10px;
+    transition: transform var(--transition-speed-fast) ease;
+}
+.floating-action a:hover {
+    color: #ffffff;
+}
+.floating-action:hover {
+     border-color: var(--primary-accent);
+     box-shadow: 0 0 15px rgba(74, 74, 106, 0.5);
+     transform: scale(1.03); /* Slight scale on hover */
+}
+.floating-action:hover .discord-icon {
+     transform: scale(1.1) rotate(-5deg);
+}
 
 /* --- Footer --- */
 .main-footer {
-    padding: 3rem 0; /* Increased padding */
+    padding: 4rem 0 2rem 0; /* More top padding */
     text-align: center;
-    margin-top: 60px;
+    margin-top: 40px;
     border-top: 1px solid var(--ui-element-color);
-    color: var(--secondary-accent);
+    color: var(--text-color); /* Use standard text color */
     font-size: 0.9rem;
+    background-color: var(--bg-color-alt); /* Match other sections */
 }
-
 .main-footer p {
-     opacity: 0.7;
+     opacity: 0.6; /* More subtle */
      transition: opacity var(--transition-speed-fast) ease;
 }
+.main-footer p:hover { opacity: 1; }
 
-.main-footer p:hover {
-     opacity: 1;
+/* --- Utility Animation Classes (Keep from previous) --- */
+.reveal-on-scroll {
+    /* ... */
+}
+.reveal-on-scroll.is-visible {
+    /* ... */
 }
