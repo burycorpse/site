@@ -5,108 +5,96 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Product Name</title>
     <link rel="stylesheet" href="style.css">
-    <!-- Link to an icon library if needed, e.g., Font Awesome (ensure sharp style if possible) -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.x.x/css/all.min.css"> 
 </head>
 <body>
 
     <header class="main-header">
-        <div class="container">
-            <div class="logo">
-                <!-- Use your actual logo image -->
-                <img src="your-logo.png" alt="Product Logo">
-            </div>
-            <nav>
-                <!-- Optional Navigation -->
-                <ul>
-                    <li><a href="#features">Features</a></li>
-                    <li><a href="#faq">FAQ</a></li>
-                    <li><a href="#">Download</a></li> <!-- Example Link -->
-                </ul>
-            </nav>
-        </div>
+        <!-- ... (header content same as before) ... -->
     </header>
 
     <main>
         <section class="hero">
             <div class="container">
-                <h1>My Deadly Intellect</h1>
-                <p class="tagline">The ultimate solution for config vaults.</p>
-                <div class="product-display">
-                    <!-- Placeholder for your product visual - could be image, video, animation -->
+                <h1>Your Awesome Product</h1>
+                <p class="tagline">The ultimate solution for [what your product does].</p>
+                <div class="product-display" id="product-display"> <!-- Added ID for JS -->
                     <img src="product-showcase.png" alt="Product Showcase">
                  </div>
-                <a href="#" class="cta-button">Purchase</a>
+                <a href="#" class="cta-button">Get Started Now</a>
             </div>
         </section>
 
-        <section id="features" class="details-section">
+        <!-- Add reveal-on-scroll to sections -->
+        <section id="features" class="details-section reveal-on-scroll">
             <div class="container">
-                <h2>Key Features</h2>
+                <h2 class="reveal-on-scroll">Key Features</h2> <!-- Can reveal heading separately -->
                 <div class="features-grid">
-                    <div class="feature-item">
+                    <!-- Add reveal-on-scroll to each item -->
+                    <div class="feature-item reveal-on-scroll">
                         <div class="feature-icon animated-icon">
-                            <!-- Placeholder for Icon (SVG preferred for animation) -->
-                            <svg viewBox="0 0 24 24"> <!-- Example Icon -->
-                                <path d="M12 2 L2 22 L22 22 Z" />
-                            </svg>
+                            <svg viewBox="0 0 24 24"> <path d="M12 2 L2 22 L22 22 Z" /> </svg>
                         </div>
-                        <h3>All in One</h3>
-                        <p>The vault panel include configs for all of your favorite externals. If it's not there simply make a suggestion and we will update asap.</p>
+                        <h3>Feature One</h3>
+                        <p>Brief description of the first amazing feature.</p>
                     </div>
-                    <div class="feature-item">
-                        <div class="feature-icon animated-icon">
-                             <svg viewBox="0 0 24 24"> <!-- Example Icon -->
-                                <rect x="4" y="4" width="16" height="16" />
-                             </svg>
+                    <div class="feature-item reveal-on-scroll">
+                         <div class="feature-icon animated-icon">
+                             <svg viewBox="0 0 24 24"> <rect x="4" y="4" width="16" height="16" /> </svg>
                         </div>
-                        <h3>Search Filters</h3>
-                        <p>With our filtering feature you can quickly find configs for any game.</p>
+                        <h3>Feature Two</h3>
+                        <p>Brief description of the second compelling feature.</p>
                     </div>
-                    <div class="feature-item">
-                        <div class="feature-icon animated-icon">
-                             <svg viewBox="0 0 24 24"> <!-- Example Icon -->
-                                <polygon points="12,2 15,9 22,9 17,14 19,21 12,17 5,21 7,14 2,9 9,9" />
-                             </svg>
+                    <div class="feature-item reveal-on-scroll">
+                         <div class="feature-icon animated-icon">
+                              <svg viewBox="0 0 24 24"> <polygon points="12,2 15,9 22,9 17,14 19,21 12,17 5,21 7,14 2,9 9,9" /> </svg>
                         </div>
-                        <h3>Anti-Leak</h3>
-                        <p>Worried our product will be leaked to the public, the development team has beem working on anti-leak has the main focus of this panel so all of your configs are safe!</p>
+                        <h3>Feature Three</h3>
+                        <p>Brief description of the third essential feature.</p>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="faq" class="faq-section">
+        <section id="faq" class="faq-section reveal-on-scroll">
             <div class="container">
-                <h2>Frequently Asked Questions</h2>
+                <h2 class="reveal-on-scroll">Frequently Asked Questions</h2>
                 <div class="faq-list">
-                    <details class="faq-item">
+                    <!-- Add reveal-on-scroll and wrap content -->
+                    <details class="faq-item reveal-on-scroll">
                         <summary>
                             <span>What is this product?</span>
-                            <span class="faq-icon"></span> <!-- Icon managed by CSS -->
+                            <span class="faq-icon"></span>
                         </summary>
-                        <p>This product is designed to improve config vault's by providing a single place to download them all. It offers features like Search, Filters, and Reviewing.</p>
+                        <div class="faq-content"> <!-- Wrap content -->
+                            <p>This product is designed to solve [problem] by providing [solution]. It offers features like X, Y, and Z.</p>
+                        </div>
                     </details>
-                    <details class="faq-item">
+                    <details class="faq-item reveal-on-scroll">
                         <summary>
                             <span>How do I get started?</span>
                              <span class="faq-icon"></span>
                         </summary>
-                        <p>Getting started is easy! Just click the 'Get Started' or 'Download' button, follow the installation steps, and you'll be up and running.</p>
+                        <div class="faq-content">
+                            <p>Getting started is easy! Just click the 'Get Started' or 'Download' button, follow the installation steps, and you'll be up and running.</p>
+                        </div>
                     </details>
-                     <details class="faq-item">
+                     <details class="faq-item reveal-on-scroll">
                         <summary>
                             <span>Is there a trial version?</span>
                             <span class="faq-icon"></span>
                         </summary>
-                        <p>Yes, we offer a free trial so you can experience the full power of the product before committing.</p>
+                         <div class="faq-content">
+                            <p>Yes, we offer a free trial so you can experience the full power of the product before committing.</p>
+                        </div>
                     </details>
-                     <details class="faq-item">
+                     <details class="faq-item reveal-on-scroll">
                         <summary>
                             <span>What are the system requirements?</span>
                             <span class="faq-icon"></span>
                         </summary>
-                        <p>The product requires python 3.10.5. Please check the documentation for detailed specifications.</p>
+                         <div class="faq-content">
+                            <p>The product requires python. Please check the documentation for detailed specifications.</p>
+                        </div>
                     </details>
                 </div>
             </div>
