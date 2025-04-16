@@ -1,0 +1,287 @@
+/* --- Global Settings & Theme Variables --- */
+:root {
+    --bg-color: #100f1c; /* Dark purple/black */
+    --primary-accent: #e01e79; /* Neon pink/magenta */
+    --secondary-accent: #c0c0d0; /* Light grey text */
+    --ui-element-color: #4a4a6a; /* Medium grey/purple */
+    --glow-color: rgba(224, 30, 121, 0.7); /* Glow effect color */
+
+    --sharp-radius: 0px; /* Enforce sharp corners */
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border-radius: var(--sharp-radius) !important; /* Force sharp corners */
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Choose a clean sans-serif font */
+    background-color: var(--bg-color);
+    color: var(--secondary-accent);
+    line-height: 1.6;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    color: #ffffff; /* Brighter headings */
+    margin-bottom: 0.75em;
+}
+
+h1 { font-size: 2.8rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.3rem; }
+
+a {
+    color: var(--primary-accent);
+    text-decoration: none;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+a:hover {
+    color: #ffffff;
+    text-shadow: 0 0 8px var(--glow-color);
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/* --- Header --- */
+.main-header {
+    background-color: rgba(16, 15, 28, 0.8); /* Slightly transparent */
+    padding: 1rem 0;
+    position: fixed; /* Or sticky */
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    backdrop-filter: blur(5px);
+    border-bottom: 1px solid var(--ui-element-color);
+}
+
+.main-header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-header .logo img {
+    height: 40px; /* Adjust as needed */
+    filter: drop-shadow(0 0 5px var(--glow-color)); /* Subtle glow on logo */
+}
+
+.main-header nav ul {
+    list-style: none;
+    display: flex;
+}
+
+.main-header nav ul li {
+    margin-left: 2rem;
+}
+
+.main-header nav ul li a {
+    font-weight: bold;
+    padding: 0.5rem 0;
+    border-bottom: 2px solid transparent; /* For hover effect */
+    transition: border-color 0.3s ease, color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.main-header nav ul li a:hover {
+    border-bottom-color: var(--primary-accent);
+    color: #ffffff;
+    text-shadow: 0 0 8px var(--glow-color);
+}
+
+/* --- Hero Section --- */
+.hero {
+    padding: 150px 0 80px 0; /* Adjust top padding based on fixed header height */
+    text-align: center;
+    background: linear-gradient(rgba(16, 15, 28, 0.8), rgba(16, 15, 28, 1)),
+                /* Optional: Add a subtle background pattern/image */
+                url('path/to/subtle-background.png') center/cover no-repeat;
+}
+
+.hero h1 {
+    color: var(--primary-accent);
+    text-shadow: 0 0 15px var(--glow-color), 0 0 25px var(--glow-color);
+    margin-bottom: 0.5em;
+}
+
+.hero .tagline {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    color: var(--secondary-accent);
+}
+
+.hero .product-display {
+    max-width: 700px; /* Adjust as needed */
+    margin: 2rem auto;
+    border: 1px solid var(--ui-element-color);
+    box-shadow: 0 0 15px rgba(74, 74, 106, 0.5); /* Subtle shadow */
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: var(--primary-accent);
+    color: #ffffff;
+    padding: 12px 30px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: 1px solid var(--primary-accent);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 0 10px var(--glow-color);
+}
+
+.cta-button:hover {
+    background-color: #ff3399; /* Slightly lighter pink */
+    box-shadow: 0 0 20px var(--glow-color);
+    transform: scale(1.05);
+    color: #ffffff; /* Keep text color */
+    text-shadow: none;
+}
+
+/* --- Details / Features Section --- */
+.details-section {
+    padding: 60px 0;
+    background-color: var(--bg-color); /* Same as body or slightly different */
+}
+
+.details-section h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.feature-item {
+    background-color: rgba(74, 74, 106, 0.2); /* Subtle background */
+    padding: 2rem;
+    text-align: center;
+    border: 1px solid var(--ui-element-color);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.feature-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.feature-icon {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto 1.5rem auto;
+    transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55); /* Example smooth bounce */
+}
+
+.feature-icon svg {
+    width: 100%;
+    height: 100%;
+    fill: var(--primary-accent); /* Icon color */
+    filter: drop-shadow(0 0 5px var(--glow-color));
+    transition: filter 0.3s ease;
+}
+
+/* --- Icon Animation Example (add more complex ones with @keyframes if needed) --- */
+.feature-item:hover .feature-icon {
+     transform: scale(1.1) rotate(5deg); /* Simple hover animation */
+}
+
+.feature-item:hover .feature-icon svg {
+     filter: drop-shadow(0 0 10px var(--glow-color));
+}
+
+
+/* --- FAQ Section --- */
+.faq-section {
+    padding: 60px 0;
+    background-color: rgba(16, 15, 28, 0.9); /* Slightly different background */
+}
+
+.faq-section h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.faq-list {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.faq-item {
+    border: 1px solid var(--ui-element-color);
+    margin-bottom: 1rem;
+    background-color: rgba(74, 74, 106, 0.1);
+}
+
+.faq-item summary {
+    padding: 1rem 1.5rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex; /* Use flexbox for alignment */
+    justify-content: space-between; /* Push icon to the right */
+    align-items: center;
+    color: #ffffff;
+    list-style: none; /* Remove default marker */
+    transition: background-color 0.3s ease;
+}
+
+.faq-item summary::-webkit-details-marker {
+    display: none; /* Hide default marker for Chrome/Safari */
+}
+
+.faq-item summary:hover {
+    background-color: rgba(74, 74, 106, 0.3);
+}
+
+.faq-item p {
+    padding: 0 1.5rem 1.5rem 1.5rem;
+    border-top: 1px solid var(--ui-element-color);
+    margin-top: 1rem;
+    color: var(--secondary-accent);
+}
+
+/* Style the open state */
+.faq-item[open] summary {
+    background-color: rgba(74, 74, 106, 0.2);
+    border-bottom: 1px solid var(--ui-element-color); /* Add line when open */
+}
+
+/* FAQ Icon - using CSS pseudo-elements for a sharp chevron */
+.faq-icon {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-right: 2px solid var(--primary-accent);
+    border-bottom: 2px solid var(--primary-accent);
+    transform: rotate(45deg); /* Pointing down initially */
+    transition: transform 0.3s ease;
+}
+
+.faq-item[open] summary .faq-icon {
+    transform: rotate(-135deg); /* Pointing up when open */
+}
+
+
+/* --- Footer --- */
+.main-footer {
+    padding: 2rem 0;
+    text-align: center;
+    margin-top: 40px;
+    border-top: 1px solid var(--ui-element-color);
+    color: var(--secondary-accent);
+    font-size: 0.9rem;
+}
