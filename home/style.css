@@ -40,17 +40,17 @@ body {
     line-height: 1.6;
     overflow-x: hidden;
     /* Optional: Subtle animated gradient background */
-    /* background: linear-gradient(315deg, #1a1a2e, #100f1c, #1a1a2e);
+    background: linear-gradient(315deg, #1a1a2e, #100f1c, #1a1a2e);
     background-size: 400% 400%;
-    animation: gradientBG 15s ease infinite; */
+    animation: gradientBG 15s ease infinite; 
 }
 
 /* Optional Keyframes for Background */
-/* @keyframes gradientBG {
+ @keyframes gradientBG {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
-} */
+} 
 
 
 .container {
@@ -197,7 +197,7 @@ img {
 }
 
 /* Optional: Add subtle moving lines/grid effect */
-/* .hero::before {
+ .hero::before {
     content: '';
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
@@ -211,7 +211,7 @@ img {
 @keyframes moveGrid {
     from { background-position: 0 0; }
     to { background-position: 80px 40px; }
-} */
+} 
 
 .hero h1 {
     /* Animation already applied */
