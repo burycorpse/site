@@ -135,6 +135,12 @@
             "expiry": "permanent",
             "moderator": 1316234003170201640,
             "timestamp": "2025-04-26T23:07:42.638995+00:00"
+        },
+        "947230755128479865": {
+            "reason": "No reason provided",
+            "expiry": "permanent",
+            "moderator": 1158085809400975411,
+            "timestamp": "2025-04-29T23:13:50.349766+00:00"
         }
     }
 }
