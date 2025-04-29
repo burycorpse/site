@@ -137,10 +137,10 @@
             "timestamp": "2025-04-26T23:07:42.638995+00:00"
         },
         "947230755128479865": {
-            "reason": "No reason provided",
-            "expiry": "permanent",
+            "reason": "leak detection - no unblacklist.",
+            "expiry": "2052-09-13T23:14:24.952298+00:00",
             "moderator": 1158085809400975411,
-            "timestamp": "2025-04-29T23:13:50.349766+00:00"
+            "timestamp": "2025-04-29T23:14:24.952318+00:00"
         }
     }
 }
