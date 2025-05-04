@@ -1318,5 +1318,9 @@
     "521854579696992257": {
         "uuid": "af055340-a76a-4ce1-9783-a1c3226cd8c0",
         "auto_login": false
+    },
+    "1150825253040295986": {
+        "uuid": "bf4d4f59-8c5f-4e6c-afc7-d62dae0091c5",
+        "auto_login": true
     }
 }
