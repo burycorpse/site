@@ -1,5 +1,12 @@
 {
-    "allowed_users": {},
+    "allowed_users": {
+        "941506883326476298": {
+            "uuid": "a7ef74e5-a319-47f4-aad3-c47732570c77",
+            "expiry": "permanent",
+            "added_by": 1336489586276175902,
+            "timestamp": "2025-05-05T03:04:35.964440+00:00"
+        }
+    },
     "941506883326476298": {
         "uuid": "24a47fe3-3de1-4a30-8c34-82d3fe567d10",
         "auto_login": false
