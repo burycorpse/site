@@ -136,14 +136,6 @@
             "expiry": "permanent",
             "added_by": 1158085809400975411,
             "timestamp": "2025-05-09T10:35:35.955186+00:00"
-        },
-        "628505008719003648": {
-            "uuid": "ad10b1f3-c3d5-4f28-aaea-d52970c1b3ab",
-            "auto_login": false
         }
-    },
-    "628505008719003648": {
-        "uuid": "f0060984-f209-42e2-8503-8c5aaa385d3b",
-        "auto_login": false
     }
 }
