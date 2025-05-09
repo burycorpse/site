@@ -81,11 +81,11 @@
             "timestamp": "2025-05-06T22:58:25.538901+00:00"
         },
         "1311480141997674496": {
-            "uuid": "5f2dd1c4-e22f-45b2-a968-f0b0bfcc8c9b",
+            "uuid": "478a7abc-8112-4730-8d30-88a1acfdf4fc",
             "expiry": "permanent",
             "added_by": 1158085809400975411,
             "timestamp": "2025-05-09T01:36:31.362757+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "1356094450534842601": {
             "uuid": "50d6d740-559b-4088-bf36-a5e1330aee7e",
