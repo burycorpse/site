@@ -109,5 +109,9 @@
             "uuid": "e6816e08-36d1-44ae-a25e-071a2480a18b",
             "auto_login": true
         }
+    },
+    "1310728512809865326": {
+        "uuid": "b91fdb42-d307-412c-bcd4-a1e4cd85b39f",
+        "auto_login": true
     }
 }
