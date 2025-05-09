@@ -111,18 +111,6 @@
             "added_by": 1158085809400975411,
             "timestamp": "2025-05-09T02:50:34.553342+00:00",
             "auto_login": true
-        },
-        "1202378977239646228": {
-            "uuid": "1b2af5de-1c65-4892-a7ce-6baa7df967a4",
-            "auto_login": false
         }
-    },
-    "1310728512809865326": {
-        "uuid": "2b0fc04d-5264-4db4-804c-04bfd8f48dd2",
-        "auto_login": true
-    },
-    "1202378977239646228": {
-        "uuid": "bfd0ce8f-4969-4a69-a597-bb483c7b6c68",
-        "auto_login": false
     }
 }
