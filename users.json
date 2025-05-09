@@ -180,10 +180,11 @@
             "auto_login": true
         },
         "1344825773026050179": {
-            "uuid": "e4ad7dbf-0c15-4578-b8c5-c368e9a39dda",
+            "uuid": "8952d40b-baa7-4b2b-8a52-02b5de4d9aec",
             "expiry": "permanent",
             "added_by": 1316234003170201640,
-            "timestamp": "2025-05-09T22:20:20.780260+00:00"
+            "timestamp": "2025-05-09T22:20:20.780260+00:00",
+            "auto_login": true
         }
     },
     "478029734899482646": {
