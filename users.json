@@ -192,26 +192,6 @@
             "expiry": "permanent",
             "added_by": 1316234003170201640,
             "timestamp": "2025-05-09T22:53:42.182833+00:00"
-        },
-        "1316234003170201640": {
-            "uuid": "3006f388-d927-4dac-84c3-7ab5c862a5a9",
-            "auto_login": false
         }
-    },
-    "478029734899482646": {
-        "uuid": "6e190a32-d777-48ec-a747-4e5c71e2bff4",
-        "auto_login": true
-    },
-    "1344825773026050179": {
-        "uuid": "808dea3c-7f60-42cf-80bf-2eaab0353ae4",
-        "auto_login": true
-    },
-    "1260693484159897640": {
-        "uuid": "987459e0-cf9c-43e1-a814-5e32327d8cd7",
-        "auto_login": false
-    },
-    "1316234003170201640": {
-        "uuid": "fb5946b5-3176-4ebc-9bb7-3b6230128551",
-        "auto_login": false
     }
 }
