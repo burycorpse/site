@@ -222,22 +222,6 @@
             "expiry": "permanent",
             "added_by": 1316234003170201640,
             "timestamp": "2025-05-10T13:49:58.340908+00:00"
-        },
-        "1359658486929293392": {
-            "uuid": "d9708d24-aac2-4a8d-bea7-7cffe2288c77",
-            "auto_login": false
         }
-    },
-    "1193360404169117727": {
-        "uuid": "46857a15-2f24-4526-8161-6fa4b3d868f0",
-        "auto_login": true
-    },
-    "1134606847769321643": {
-        "uuid": "ffea9040-97a2-4906-9da9-cbe32809b1ab",
-        "auto_login": false
-    },
-    "1359658486929293392": {
-        "uuid": "43bf5444-c347-496c-ad30-8ecf1109c994",
-        "auto_login": false
     }
 }
