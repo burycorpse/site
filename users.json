@@ -280,5 +280,9 @@
             "uuid": "c27d965c-9a5b-4aa9-93bc-75559c617a04",
             "auto_login": false
         }
+    },
+    "1277177990073155616": {
+        "uuid": "20180c81-db58-49c3-bfe5-6463db761f8a",
+        "auto_login": false
     }
 }
