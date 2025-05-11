@@ -283,5 +283,9 @@
             "timestamp": "2025-05-11T15:17:53.765157+00:00",
             "auto_login": false
         }
+    },
+    "1277177990073155616": {
+        "uuid": "cb8588ef-f70e-4b52-a62d-13b895d5368f",
+        "auto_login": false
     }
 }
