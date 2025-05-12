@@ -323,38 +323,6 @@
         "1189255651927539722": {
             "uuid": "ec49fb3e-0122-4726-8745-b414bbd722c3",
             "auto_login": false
-        },
-        "1288864629602390078": {
-            "uuid": "e8343617-5e35-4935-b383-10fdfd3c7256",
-            "auto_login": false
         }
-    },
-    "1022668509722988634": {
-        "uuid": "a9a471b9-b60c-45e2-91f1-71c8647dd102",
-        "auto_login": false
-    },
-    "1306675673699713207": {
-        "uuid": "9f5a1612-1e4f-40d7-abd9-74291ce41870",
-        "auto_login": true
-    },
-    "1255634197360414793": {
-        "uuid": "b4e4a82b-18ba-4ded-9d11-76b5143ea0d5",
-        "auto_login": true
-    },
-    "787722947279192144": {
-        "uuid": "d285e03e-c864-445a-9eeb-48f473d89f95",
-        "auto_login": false
-    },
-    "1218091707330068491": {
-        "uuid": "9efd7808-3ee8-4bdb-b501-bdaf2922b0d9",
-        "auto_login": false
-    },
-    "1189255651927539722": {
-        "uuid": "e111920e-5c88-433c-819b-7760db32abd0",
-        "auto_login": false
-    },
-    "1288864629602390078": {
-        "uuid": "9d550295-987c-461b-883b-4dc88c5a17ca",
-        "auto_login": false
     }
 }
