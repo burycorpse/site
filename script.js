@@ -1,1 +1,101 @@
-function _0x1809(){const _0x265648=['addEventListener','unobserve','21368lFzpVc','Intersection\x20Observer\x20set\x20up\x20for\x20feature\x20cards.','clientX','panel-3d','getBoundingClientRect','3D\x20panel\x20element\x20or\x20container\x20not\x20found\x20for\x20mouse\x20interaction.','deg)','transform\x200.5s\x20ease-out','3865656RmywXU','target','transition','IntersectionObserver','warn','2KikeYe','808179CIqwfK','0px','6655998dHHUBU','getElementById','observe','3D\x20panel\x20cursor\x20tracking\x20initialized.','top','left','querySelectorAll','3537AvuopJ','log','height','rotateX(','isIntersecting','mousemove','visible','transform\x200.05s\x20linear','6870584bqNorw','querySelector','add','mouseleave','forEach','.feature-card','year','2899955MUwcJK','width','Intersection\x20Observer\x20not\x20supported,\x20animations\x20might\x20not\x20work\x20as\x20intended.','transform','classList','style','2136369Sokwrx','deg)\x20rotateY(','.panel-perspective-container','Homepage\x20DOM\x20Loaded','length'];_0x1809=function(){return _0x265648;};return _0x1809();}function _0x355a(_0x3d3b3d,_0x183681){const _0x1809fb=_0x1809();return _0x355a=function(_0x355a3c,_0x369e66){_0x355a3c=_0x355a3c-0x17e;let _0x39dbc4=_0x1809fb[_0x355a3c];return _0x39dbc4;},_0x355a(_0x3d3b3d,_0x183681);}(function(_0x2890ab,_0x3b151b){const _0x65a6ce=_0x355a,_0x57b569=_0x2890ab();while(!![]){try{const _0x70eac=parseInt(_0x65a6ce(0x188))/0x1+-parseInt(_0x65a6ce(0x187))/0x2*(parseInt(_0x65a6ce(0x1a6))/0x3)+parseInt(_0x65a6ce(0x182))/0x4+parseInt(_0x65a6ce(0x1a0))/0x5+-parseInt(_0x65a6ce(0x18a))/0x6+-parseInt(_0x65a6ce(0x199))/0x7+parseInt(_0x65a6ce(0x1ad))/0x8*(parseInt(_0x65a6ce(0x191))/0x9);if(_0x70eac===_0x3b151b)break;else _0x57b569['push'](_0x57b569['shift']());}catch(_0x4ed3f0){_0x57b569['push'](_0x57b569['shift']());}}}(_0x1809,0x92ce7),document['addEventListener']('DOMContentLoaded',()=>{const _0x4eb353=_0x355a;console[_0x4eb353(0x192)](_0x4eb353(0x1a9));const _0xdf2ecb=document[_0x4eb353(0x18b)](_0x4eb353(0x19f));_0xdf2ecb&&(_0xdf2ecb['textContent']=new Date()['getFullYear']());const _0x539db9=document[_0x4eb353(0x18b)](_0x4eb353(0x1b0)),_0x201f13=document[_0x4eb353(0x19a)](_0x4eb353(0x1a8));if(_0x539db9&&_0x201f13){const _0x547d29=_0x5ebe29=>{const _0x5c038f=_0x4eb353,_0x392e7a=_0x201f13[_0x5c038f(0x17e)](),_0x5de588=_0x5ebe29[_0x5c038f(0x1af)]-_0x392e7a[_0x5c038f(0x18f)]-_0x392e7a[_0x5c038f(0x1a1)]/0x2,_0x19c002=_0x5ebe29['clientY']-_0x392e7a[_0x5c038f(0x18e)]-_0x392e7a[_0x5c038f(0x193)]/0x2,_0x1fca3d=0x8,_0x32c6a8=0xc,_0x5d25c3=_0x5de588/(_0x392e7a['width']/0x2)*-_0x32c6a8,_0xf916fd=_0x19c002/(_0x392e7a[_0x5c038f(0x193)]/0x2)*_0x1fca3d;requestAnimationFrame(()=>{const _0x99f192=_0x5c038f;_0x539db9['style'][_0x99f192(0x1a3)]=_0x99f192(0x194)+_0xf916fd+_0x99f192(0x1a7)+_0x5d25c3+_0x99f192(0x180),_0x539db9['style'][_0x99f192(0x184)]=_0x99f192(0x198);});},_0x8abb49=()=>{requestAnimationFrame(()=>{const _0x1f6c13=_0x355a;_0x539db9['style'][_0x1f6c13(0x1a3)]='',_0x539db9[_0x1f6c13(0x1a5)][_0x1f6c13(0x184)]=_0x1f6c13(0x181);});};_0x201f13['addEventListener'](_0x4eb353(0x196),_0x547d29),_0x201f13[_0x4eb353(0x1ab)](_0x4eb353(0x19c),_0x8abb49),console[_0x4eb353(0x192)](_0x4eb353(0x18d));}else console[_0x4eb353(0x186)](_0x4eb353(0x17f));const _0x3dde54=document[_0x4eb353(0x190)](_0x4eb353(0x19e));if(_0x3dde54[_0x4eb353(0x1aa)]>0x0&&'IntersectionObserver'in window){const _0x30491d={'root':null,'rootMargin':_0x4eb353(0x189),'threshold':0.1},_0x21d36f=(_0x4b8cbf,_0x28ae6f)=>{const _0x594bec=_0x4eb353;_0x4b8cbf[_0x594bec(0x19d)](_0x2feb8f=>{const _0xc9ba1=_0x594bec;_0x2feb8f[_0xc9ba1(0x195)]&&(setTimeout(()=>{const _0xd380d8=_0xc9ba1;_0x2feb8f['target'][_0xd380d8(0x1a4)][_0xd380d8(0x19b)]('visible');},parseInt(_0x2feb8f[_0xc9ba1(0x183)]['dataset']['delay']||'0',0xa)),_0x28ae6f[_0xc9ba1(0x1ac)](_0x2feb8f[_0xc9ba1(0x183)]));});},_0x4c4585=new IntersectionObserver(_0x21d36f,_0x30491d);_0x3dde54[_0x4eb353(0x19d)]((_0x108e4a,_0x1769fd)=>{const _0xe7c8f2=_0x4eb353;_0x4c4585[_0xe7c8f2(0x18c)](_0x108e4a);}),console['log'](_0x4eb353(0x1ae));}else _0x3dde54[_0x4eb353(0x19d)](_0x29d224=>_0x29d224['classList']['add'](_0x4eb353(0x197))),!(_0x4eb353(0x185)in window)&&console[_0x4eb353(0x186)](_0x4eb353(0x1a2));}));
+document.addEventListener('DOMContentLoaded', () => {
+    console.log("Homepage DOM Loaded");
+
+    // Set current year in footer
+    const yearSpan = document.getElementById('year');
+    if (yearSpan) {
+        yearSpan.textContent = new Date().getFullYear();
+    }
+
+    // --- Header Scroll Effect ---
+    const header = document.querySelector('.main-header');
+    let lastScrollTop = 0; // To detect scroll direction (optional for more effects)
+    const scrollThreshold = 50; // Pixels to scroll before effect triggers
+
+    if (header) {
+        window.addEventListener('scroll', () => {
+            let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+            if (scrollTop > scrollThreshold) {
+                header.classList.add('scrolled');
+            } else {
+                header.classList.remove('scrolled');
+            }
+            // Optional: Add effects based on scroll direction
+            // if (scrollTop > lastScrollTop && scrollTop > header.offsetHeight){
+            //     // Downscroll, hide header (example)
+            //     header.style.top = `-${header.offsetHeight}px`;
+            // } else {
+            //     // Upscroll, show header
+            //     header.style.top = "0";
+            // }
+            lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // For Mobile or negative scrolling
+        }, false);
+        console.log("Header scroll effect initialized.");
+    } else {
+        console.warn("Main header element not found for scroll effect.");
+    }
+
+
+    // --- 3D Panel Mouse Interaction ---
+    const panel3D = document.getElementById('panel-3d');
+    const perspectiveContainer = document.querySelector('.panel-perspective-container');
+
+    if (panel3D && perspectiveContainer) {
+        const handleMouseMove = (e) => {
+            const rect = perspectiveContainer.getBoundingClientRect();
+            const x = e.clientX - rect.left - rect.width / 2;
+            const y = e.clientY - rect.top - rect.height / 2;
+            const maxRotateX = 8;
+            const maxRotateY = 12;
+            const rotateY = (x / (rect.width / 2)) * -maxRotateY;
+            const rotateX = (y / (rect.height / 2)) * maxRotateX;
+
+            requestAnimationFrame(() => {
+                 panel3D.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+                 panel3D.style.transition = 'transform 0.05s linear';
+            });
+        };
+
+        const handleMouseLeave = () => {
+             requestAnimationFrame(() => {
+                panel3D.style.transform = '';
+                panel3D.style.transition = 'transform 0.5s ease-out';
+            });
+        };
+
+        perspectiveContainer.addEventListener('mousemove', handleMouseMove);
+        perspectiveContainer.addEventListener('mouseleave', handleMouseLeave);
+        console.log("3D panel cursor tracking initialized.");
+    } else {
+        console.warn("3D panel element or container not found for mouse interaction.");
+    }
+
+    // --- Scroll Animations for Feature Cards ---
+     const featureCards = document.querySelectorAll('.feature-card');
+     if (featureCards.length > 0 && 'IntersectionObserver' in window) {
+        const observerOptions = { root: null, rootMargin: '0px', threshold: 0.1 };
+        const observerCallback = (entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    setTimeout(() => {
+                        entry.target.classList.add('visible');
+                    }, parseInt(entry.target.dataset.delay || '0', 10));
+                    observer.unobserve(entry.target);
+                }
+            });
+        };
+        const featureObserver = new IntersectionObserver(observerCallback, observerOptions);
+        featureCards.forEach((card, index) => {
+            // card.dataset.delay = index * 100; // Example: Stagger delay
+            featureObserver.observe(card);
+        });
+        console.log("Intersection Observer set up for feature cards.");
+    } else {
+         featureCards.forEach(card => card.classList.add('visible'));
+         if (!('IntersectionObserver' in window)) {
+             console.warn("Intersection Observer not supported, animations might not work as intended.");
+         }
+    }
+
+}); // End DOMContentLoaded
