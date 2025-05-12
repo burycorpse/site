@@ -313,11 +313,11 @@
             "auto_login": false
         },
         "1255634197360414793": {
-            "uuid": "808eda60-1463-4e4c-9fad-11f0e0a18cae",
+            "uuid": "b2cb37ad-8b6f-42bf-a794-f16a0f20da28",
             "expiry": "permanent",
             "added_by": 1316234003170201640,
             "timestamp": "2025-05-12T12:06:48.014485+00:00",
-            "auto_login": false
+            "auto_login": true
         }
     },
     "1022668509722988634": {
