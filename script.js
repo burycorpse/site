@@ -22,13 +22,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 header.classList.remove('scrolled');
             }
             // Optional: Add effects based on scroll direction
-            // if (scrollTop > lastScrollTop && scrollTop > header.offsetHeight){
+            if (scrollTop > lastScrollTop && scrollTop > header.offsetHeight){
             //     // Downscroll, hide header (example)
-            //     header.style.top = `-${header.offsetHeight}px`;
-            // } else {
-            //     // Upscroll, show header
-            //     header.style.top = "0";
-            // }
+                 header.style.top = `-${header.offsetHeight}px`;
+             } else {
+                 // Upscroll, show header
+                 header.style.top = "0";
+             }
             lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // For Mobile or negative scrolling
         }, false);
         console.log("Header scroll effect initialized.");
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
         };
         const featureObserver = new IntersectionObserver(observerCallback, observerOptions);
         featureCards.forEach((card, index) => {
-            // card.dataset.delay = index * 100; // Example: Stagger delay
+            card.dataset.delay = index * 100; // Example: Stagger delay
             featureObserver.observe(card);
         });
         console.log("Intersection Observer set up for feature cards.");
