@@ -311,62 +311,6 @@
             "added_by": 1316234003170201640,
             "timestamp": "2025-05-11T23:47:43.347443+00:00",
             "auto_login": false
-        },
-        "1255634197360414793": {
-            "uuid": "07d0cf9c-33ee-4331-86ef-67ac81d5b3ed",
-            "auto_login": true
         }
-    },
-    "1277177990073155616": {
-        "uuid": "8c3f785d-3581-4a7a-aea4-6d8dc0b659b9",
-        "auto_login": false
-    },
-    "1362854232008556604": {
-        "uuid": "36beac0b-04e3-491b-8356-d7a12ef0ca11",
-        "auto_login": false
-    },
-    "1162198709895974942": {
-        "uuid": "a063afb3-70a6-4cbf-a2e2-4f2991350143",
-        "auto_login": false
-    },
-    "865752388450123776": {
-        "uuid": "40820d93-3904-4d02-864a-c47c5549d9d6",
-        "auto_login": false
-    },
-    "1202378977239646228": {
-        "uuid": "e3ffb16d-4237-4fce-babb-02d362ee8fa8",
-        "auto_login": false
-    },
-    "628505008719003648": {
-        "uuid": "fb58b40a-6c57-4cba-bdb1-cdfabf017d50",
-        "auto_login": false
-    },
-    "1143039379317719121": {
-        "uuid": "4f7b0613-38a0-43d4-b9db-4f40ebca2061",
-        "auto_login": false
-    },
-    "1223359053544296448": {
-        "uuid": "c7a556aa-8992-4a34-bb7e-a2e0baab32dd",
-        "auto_login": false
-    },
-    "990302894706266172": {
-        "uuid": "e2950083-8826-49b0-bcef-104db767cff9",
-        "auto_login": false
-    },
-    "1022668509722988634": {
-        "uuid": "17eb41e1-d65f-451b-a1d1-c367d8d51f02",
-        "auto_login": false
-    },
-    "785133464654839828": {
-        "uuid": "16ac4f4a-7cab-4937-bf0f-cef2ac126ac0",
-        "auto_login": true
-    },
-    "1306675673699713207": {
-        "uuid": "68602553-2885-4d40-8730-c59c9f9da744",
-        "auto_login": true
-    },
-    "1255634197360414793": {
-        "uuid": "cdd1df30-1284-4824-bbe5-8f40c08349d1",
-        "auto_login": true
     }
 }
