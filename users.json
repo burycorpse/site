@@ -326,34 +326,6 @@
             "added_by": 1158085809400975411,
             "timestamp": "2025-05-12T19:12:56.543925+00:00",
             "auto_login": false
-        },
-        "1223049051570962497": {
-            "uuid": "b4b193fb-72d7-43ae-8eae-adcdc49dce98",
-            "auto_login": false
         }
-    },
-    "1189255651927539722": {
-        "uuid": "d90f062d-b1fb-4617-a746-31e8e411aed3",
-        "auto_login": false
-    },
-    "1158085809400975411": {
-        "uuid": "a945ac76-e496-449c-aa44-508cc839797a",
-        "auto_login": false
-    },
-    "843079947321081876": {
-        "uuid": "77170c0e-c4f0-4566-935f-8ae41d367170",
-        "auto_login": false
-    },
-    "1202378977239646228": {
-        "uuid": "45853733-5dd7-4807-8b3e-7e3f39697fb6",
-        "auto_login": false
-    },
-    "1306675673699713207": {
-        "uuid": "5cd05f6a-a889-4f3e-908e-7c944339bb2d",
-        "auto_login": false
-    },
-    "1223049051570962497": {
-        "uuid": "9a75a501-cd42-4a31-95f1-21dad928276e",
-        "auto_login": false
     }
 }
