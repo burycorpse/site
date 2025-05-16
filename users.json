@@ -369,7 +369,7 @@
             "expiry": "permanent",
             "added_by": 1336489586276175902,
             "timestamp": "2025-05-15T23:08:25.202301+00:00",
-            "auto_login": true
+            "auto_login": false
         }
     },
     "1310728512809865326": {
