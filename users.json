@@ -500,5 +500,9 @@
     "1277177990073155616": {
         "uuid": "f6fcea51-59f5-468f-bd0f-eb8a9b1854a9",
         "auto_login": false
+    },
+    "611999307293523998": {
+        "uuid": "3abdcf51-1dfc-4494-acd3-ae86b3893639",
+        "auto_login": false
     }
 }
