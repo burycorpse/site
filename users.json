@@ -192,7 +192,7 @@
             "expiry": "permanent",
             "added_by": 1316234003170201640,
             "timestamp": "2025-05-09T22:20:20.780260+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "704003084229017642": {
             "uuid": "5b184cb1-dc4b-4071-a517-33d8e6fb57c1",
