@@ -566,6 +566,6 @@
     },
     "1225887163430998178": {
         "uuid": "ea1a4c8e-a706-4cf1-ad13-0b307d8dbc9a",
-        "auto_login": true
+        "auto_login": false
     }
 }
