@@ -601,5 +601,9 @@
     "1352096132716560485": {
         "uuid": "91651290-83bf-4d52-8aa2-b64304ddaa5d",
         "auto_login": false
+    },
+    "1202378977239646228": {
+        "uuid": "5fccbf61-992e-46f3-a92c-b80f500d9f7a",
+        "auto_login": false
     }
 }
