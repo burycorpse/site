@@ -44,7 +44,8 @@
             "uuid": "38740f02-dbf6-4e27-b292-44ded407fd62",
             "expiry": "permanent",
             "added_by": 1316234003170201640,
-            "timestamp": "2025-05-18T22:33:50.616948+00:00"
+            "timestamp": "2025-05-18T22:33:50.616948+00:00",
+            "auto_login": false
         },
         "1184889434580201584": {
             "uuid": "7f030fab-3bc4-4e4b-b6e3-b81ac90e19e2",
