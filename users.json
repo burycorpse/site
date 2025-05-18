@@ -2,7 +2,7 @@
     "allowed_users": {
         "1200098167799152802": {
             "uuid": "db4991f7-36f3-4671-a830-eb1a6e4e7d9b",
-            "auto_login": true,
+            "auto_login": false,
             "timestamp": "2025-05-18T17:59:53.065065+00:00"
         }
     },
