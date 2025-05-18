@@ -22,5 +22,9 @@
     "1200098167799152802": {
         "uuid": "70d16abb-f0b6-47d5-8de2-e78948b024f3",
         "auto_login": false
+    },
+    "846715266587164673": {
+        "uuid": "7ca7eaf4-445b-4fed-b2a5-ed08e6a1b5b7",
+        "auto_login": true
     }
 }
