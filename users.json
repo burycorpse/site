@@ -135,7 +135,7 @@
         },
         "1276837903993016343": {
             "uuid": "f0eb8e8e-89d5-443f-a6b1-6bd40cafe7f0",
-            "auto_login": false,
+            "auto_login": true,
             "timestamp": "2025-05-20T08:16:56.718855+00:00"
         }
     },
