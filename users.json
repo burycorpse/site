@@ -195,7 +195,7 @@
         },
         "1361934444755292362": {
             "expiry": "permanent",
-            "auto_login": false,
+            "auto_login": true,
             "added_by": "AdminPanel",
             "timestamp": "2025-05-24T00:01:08.119Z",
             "uuid": "56fd4bc2-1d87-4a05-be68-5aaa63761b3b"
