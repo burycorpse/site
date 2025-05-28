@@ -1,13 +1,5 @@
 {
     "blacklisted": {
-        "1289446052826710087": {
-            "reason": "Exceeded download limit (15+) - Panel af0eb52f-ce7f-4810-a334-8b4903351bc4",
-            "timestamp": "2025-05-28T20:14:05.714561+00:00",
-            "expiry": "2025-06-27T20:14:05.714561+00:00",
-            "panel_id": "af0eb52f-ce7f-4810-a334-8b4903351bc4",
-            "hwid": "c2c27a82213da4a97edec396b948d51b9428503486a2ca3686829d10032bf873",
-            "ip": "141.151.86.146"
-        },
         "917342952454516737": {
             "reason": "No reason provided",
             "expiry": "permanent",
