@@ -215,6 +215,10 @@
             "panel_id": "6ce94e47-4c2f-428c-8c48-4f764f3dac9e",
             "hwid": "6090716a107b693100e79185abef1c23a838befc3d11a496b10e174d17739275",
             "ip": "73.89.7.162"
-        }
+        },
+        "917342952454516737": {
+            "reason": "Leak Detection",
+            "expiry": "permanent"
+        },
     }
 }
