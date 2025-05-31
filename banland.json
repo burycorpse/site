@@ -17,6 +17,14 @@
             "expiry": "permanent",
             "moderator": 1158085809400975411,
             "timestamp": "2025-05-30T01:22:23.998037+00:00"
+        },
+        "1310728512809865326": {
+            "reason": "Exceeded download limit (15+) - Panel f3a52da3-a308-4086-8a5b-e5996bb952b5",
+            "timestamp": "2025-05-31T18:29:12.057067+00:00",
+            "expiry": "2025-06-30T18:29:12.057067+00:00",
+            "panel_id": "f3a52da3-a308-4086-8a5b-e5996bb952b5",
+            "hwid": "unknown",
+            "ip": "170.246.215.219"
         }
     }
 }
