@@ -33,6 +33,14 @@
             "panel_id": "db1cb9a0-fa22-457d-9c82-e0e895fe3d49",
             "hwid": "unknown",
             "ip": "89.43.208.155"
+        },
+        "846715266587164673": {
+            "reason": "Exceeded download limit (15+) - Panel ce99e4ad-01c8-4a6b-8806-0edf99eb4729",
+            "timestamp": "2025-06-01T02:28:26.942885+00:00",
+            "expiry": "2025-07-01T02:28:26.942885+00:00",
+            "panel_id": "ce99e4ad-01c8-4a6b-8806-0edf99eb4729",
+            "hwid": "30abc0f8f8d1bb18caf4c14722247b13e66e0cef7baee8a2d30db80d7ca097a7",
+            "ip": "64.65.102.17"
         }
     }
 }
