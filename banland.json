@@ -33,6 +33,12 @@
             "panel_id": "ce99e4ad-01c8-4a6b-8806-0edf99eb4729",
             "hwid": "30abc0f8f8d1bb18caf4c14722247b13e66e0cef7baee8a2d30db80d7ca097a7",
             "ip": "64.65.102.17"
+        },
+        "1196781889642569728": {
+            "reason": "No reason provided",
+            "expiry": "permanent",
+            "moderator": 1158085809400975411,
+            "timestamp": "2025-06-02T17:21:27.321681+00:00"
         }
     }
 }
