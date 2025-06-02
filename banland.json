@@ -1,45 +1,12 @@
 {
     "blacklisted": {
-        "917342952454516737": {
-            "reason": "No reason provided",
-            "expiry": "permanent",
-            "moderator": 1158085809400975411,
-            "timestamp": "2025-05-28T20:14:03.704267+00:00"
-        },
-        "1187524965604528213": {
-            "reason": "\ud83e\udd21",
-            "expiry": "2028-02-22T23:53:48.288615+00:00",
-            "moderator": 1316234003170201640,
-            "timestamp": "2025-05-29T23:53:48.288655+00:00"
-        },
-        "1356971093872738366": {
-            "reason": "No reason provided",
-            "expiry": "permanent",
-            "moderator": 1158085809400975411,
-            "timestamp": "2025-05-30T01:22:23.998037+00:00"
-        },
-        "1268188145053077577": {
-            "reason": "Exceeded download limit (15+) - Panel db1cb9a0-fa22-457d-9c82-e0e895fe3d49",
-            "timestamp": "2025-05-31T23:31:15.562535+00:00",
-            "expiry": "2025-06-30T23:31:15.562535+00:00",
-            "panel_id": "db1cb9a0-fa22-457d-9c82-e0e895fe3d49",
-            "hwid": "unknown",
-            "ip": "89.43.208.155"
-        },
-        "846715266587164673": {
-            "reason": "Exceeded download limit (15+) - Panel ce99e4ad-01c8-4a6b-8806-0edf99eb4729",
-            "timestamp": "2025-06-01T02:28:26.942885+00:00",
-            "expiry": "2025-07-01T02:28:26.942885+00:00",
-            "panel_id": "ce99e4ad-01c8-4a6b-8806-0edf99eb4729",
-            "hwid": "30abc0f8f8d1bb18caf4c14722247b13e66e0cef7baee8a2d30db80d7ca097a7",
-            "ip": "64.65.102.17"
-        },
-        "1196781889642569728": {
-            "reason": "No reason provided",
-            "expiry": "permanent",
-            "moderator": 1158085809400975411,
-            "timestamp": "2025-06-02T17:21:32.141123+00:00"
-        }
+        "756611242138927145": {
+            "reason": "Exceeded download limit (15+) - Panel a346274d-7622-480f-a23a-5ce927d4a460",
+            "timestamp": "2025-06-02T19:10:53.613853+00:00",
+            "expiry": "2025-07-02T19:10:53.613853+00:00",
+            "panel_id": "a346274d-7622-480f-a23a-5ce927d4a460",
+            "hwid": "e52d6866a368fbecd60ff2289d3c0cfbd6c54b5abec305fc14f09ad7e180b02c",
+            "ip": "78.62.189.219"
         }
     }
 }
