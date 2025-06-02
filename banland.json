@@ -39,6 +39,24 @@
             "expiry": "permanent",
             "moderator": 1158085809400975411,
             "timestamp": "2025-06-02T17:21:32.141123+00:00"
+        },
+        "1158085809400975411": {
+            "reason_code": "RAPID_MULTI_CATEGORY_DOWNLOAD",
+            "reason_detail": "Downloaded from 3 categories (Matcha, Matrix New UI, Matrix Old UI) in 5.0min (limit: 3).",
+            "timestamp_utc": "2025-06-02T18:46:06.363549+00:00",
+            "expiry_utc": "2025-07-02T18:46:06.362034+00:00",
+            "panel_id": "5e66610c-49cb-40d2-98ff-341bad8dbeef",
+            "hwid": "d024ffc4c2e4e76bd7886573d725956adb67b50ba87a75c34285e1ff2f1cf5f2",
+            "ip": "104.28.208.216",
+            "evidence_snapshot": {
+                "trigger_detail_key": "multi_category",
+                "recent_downloads_logged": [
+                    "LEGIT6080 _1_.json (Matrix New UI) @ 14:45:41",
+                    "JAILBREAKLEGIT.json (Matrix New UI) @ 14:45:52",
+                    "SMOOTHASFCAM.mcf (Matrix Old UI) @ 14:46:00",
+                    "Semhoodians.cfg (Matcha) @ 14:46:05"
+                ]
+            }
         }
     }
 }
