@@ -16,14 +16,6 @@
             "hwid": "unknown",
             "ip": "170.246.215.219"
         },
-        "1091927948589813850": {
-            "reason": "Exceeded download limit (15+) - Panel d56c470b-7ea7-4bee-afaa-8de2043b7016",
-            "timestamp": "2025-06-04T01:56:31.617901+00:00",
-            "expiry": "2025-07-04T01:56:31.617901+00:00",
-            "panel_id": "d56c470b-7ea7-4bee-afaa-8de2043b7016",
-            "hwid": "185278c7b2cbed3ad094ede849d78063f91302d97644a7e5f71486e24333beb9",
-            "ip": "68.57.158.47"
-        },
         "1208640387913351192": {
             "reason": "Exceeded download limit (15+) - Panel 2668de60-1715-43a0-b852-56327a3c8a40",
             "timestamp": "2025-06-05T03:42:55.920683+00:00",
