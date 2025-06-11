@@ -335,7 +335,8 @@
             "expiry_utc": "2052-10-15T16:53:48.312831+00:00",
             "added_by": 1316234003170201640,
             "timestamp_utc": "2025-05-31T16:53:48.312881+00:00",
-            "auto_login": false
+            "auto_login": false,
+            "username": "tino.trippin"
         },
         "1091927948589813850": {
             "uuid": "43a51588-193c-47c2-b4a8-b08a72bdb0c3",
