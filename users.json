@@ -525,9 +525,8 @@
             "expiry_utc": "2052-10-26T01:09:59.021925+00:00",
             "added_by": 1158085809400975411,
             "timestamp_utc": "2025-06-11T01:09:59.021972+00:00",
-            "auto_login": true,
-            "username": "mi_z_u",
-            "discord_access_token": "MTI5NTU1NzA4NDM4MDc5NDk3MQ.pZVdxrTyE783qTIbSdzqMIupAhzslX"
+            "auto_login": false,
+            "username": "mi_z_u"
         },
         "990302894706266172": {
             "uuid": "9b12a929-5da3-4cec-87a2-1d4cd8e2f1b6",
