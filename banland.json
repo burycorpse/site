@@ -77,6 +77,22 @@
                     "nvcontainer.exe"
                 ]
             }
+        },
+        "1026227284140621935": {
+            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
+            "reason_detail": "Suspicious background processes detected: nvcontainer.exe.",
+            "timestamp_utc": "2025-06-11T03:58:06.018287+00:00",
+            "expiry_utc": "2025-07-11T03:58:06.017291+00:00",
+            "panel_id": "0707702c-7ddd-4371-9c9c-e482af2b19ca",
+            "hwid": "6121fe96f7232d45203501c672e2ab2e197153ae36443a89ca3785a09f550567",
+            "ip": "174.164.57.50",
+            "evidence_snapshot": {
+                "trigger_detail_key": "suspicious_procs",
+                "recent_downloads_logged": [],
+                "detected_processes_at_trigger": [
+                    "nvcontainer.exe"
+                ]
+            }
         }
     }
 }
