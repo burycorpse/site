@@ -313,7 +313,8 @@
             "uuid": "9b7a22d6-0445-4eb3-9fcc-5e5ff43d17c2",
             "expiry_utc": "permanent",
             "auto_login": false,
-            "timestamp_utc": "2025-05-29T21:22:24.620473+00:00"
+            "timestamp_utc": "2025-05-29T21:22:24.620473+00:00",
+            "username": "talkingsense"
         },
         "1071171847971946658": {
             "uuid": "7bc06209-d84c-4398-a809-aa7d601c1a14",
