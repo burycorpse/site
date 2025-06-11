@@ -516,8 +516,7 @@
             "added_by": 1158085809400975411,
             "timestamp_utc": "2025-06-09T05:30:01.248808+00:00",
             "username": "ejebk",
-            "auto_login": true,
-            "discord_access_token": "MTI5NTU1NzA4NDM4MDc5NDk3MQ.yJvkNCK9X0BMIfKMbU6MEDjDk4vg1v"
+            "auto_login": false
         },
         "1335325329031565403": {
             "uuid": "3366ad96-a6ed-4f5a-9ad9-4f4e3a7d1503",
