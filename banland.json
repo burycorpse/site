@@ -111,6 +111,25 @@
                     "obs64.exe"
                 ]
             }
+        },
+        "1359328986957611193": {
+            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
+            "reason_detail": "Suspicious background processes detected: RadeonSoftware.exe.",
+            "timestamp_utc": "2025-06-11T23:16:23.030800+00:00",
+            "expiry_utc": "2025-07-11T23:16:23.028804+00:00",
+            "panel_id": "7618dba3-7b9b-4c2f-8a74-1af1c1e638a7",
+            "hwid": "6cbea2ed20046159b705f2cd84cfa1a3b561d336f648a6c6067bb61678e40f9f",
+            "ip": "104.28.211.131",
+            "evidence_snapshot": {
+                "trigger_detail_key": "suspicious_procs",
+                "recent_downloads_logged": [
+                    "REGRETLEGITTRIGGERBOTUPDATED.mcf (Matrix Old UI) @ 18:15:00",
+                    "matchatriggerbot.cfg (Matcha) @ 18:15:03"
+                ],
+                "detected_processes_at_trigger": [
+                    "RadeonSoftware.exe"
+                ]
+            }
         }
     }
 }
