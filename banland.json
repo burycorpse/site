@@ -43,6 +43,23 @@
             "expiry": "permanent",
             "moderator": 1158085809400975411,
             "timestamp": "2025-06-09T20:45:02.731548+00:00"
+        },
+        "1293591758512324624": {
+            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
+            "reason_detail": "Suspicious background processes detected: AnyDesk.exe, nvcontainer.exe.",
+            "timestamp_utc": "2025-06-11T02:40:14.115619+00:00",
+            "expiry_utc": "2025-07-11T02:40:14.114614+00:00",
+            "panel_id": "59c27acd-55cb-4fbc-8fa8-8633439ddf3f",
+            "hwid": "c458707fb3546ebb9771d85114b265721abda7a7d50c9eeea3c07e554707a7ab",
+            "ip": "173.64.5.234",
+            "evidence_snapshot": {
+                "trigger_detail_key": "suspicious_procs",
+                "recent_downloads_logged": [],
+                "detected_processes_at_trigger": [
+                    "AnyDesk.exe",
+                    "nvcontainer.exe"
+                ]
+            }
         }
     }
 }
