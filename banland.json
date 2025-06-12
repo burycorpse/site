@@ -130,25 +130,6 @@
                     "RadeonSoftware.exe"
                 ]
             }
-        },
-        "1146169507828727865": {
-            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
-            "reason_detail": "Suspicious background processes detected: GameBarPresenceWriter.exe, nvcontainer.exe.",
-            "timestamp_utc": "2025-06-12T01:38:57.766991+00:00",
-            "expiry_utc": "2025-07-12T01:38:57.765989+00:00",
-            "panel_id": "db1e7d36-43b7-4a5a-8ff6-5706f3c61e8d",
-            "hwid": "b4bb78f2087e8c95318ad35ef6a9d09d7e3c8026bb34bf0417bdcd4fbdecb9e0",
-            "ip": "76.230.61.242",
-            "evidence_snapshot": {
-                "trigger_detail_key": "suspicious_procs",
-                "recent_downloads_logged": [
-                    "LEGIT MATCHA CFG.cfg (Matcha) @ 21:37:39"
-                ],
-                "detected_processes_at_trigger": [
-                    "nvcontainer.exe",
-                    "GameBarPresenceWriter.exe"
-                ]
-            }
         }
     }
 }
