@@ -122,25 +122,6 @@
                     "RadeonSoftware.exe"
                 ]
             }
-        },
-        "755117890595979295": {
-            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
-            "reason_detail": "Downloaded 5 files in 60s (burst limit: 5).",
-            "timestamp_utc": "2025-06-12T02:39:28.660862+00:00",
-            "expiry_utc": "2025-07-12T02:39:28.660862+00:00",
-            "panel_id": "bee0299a-7852-4831-9e20-5d22258b0ebc",
-            "hwid": "4f8e903d48444eb737d06d7a8fd4c48130eedde98cd7ae82a5f2f3410b8435b9",
-            "ip": "73.241.39.66",
-            "evidence_snapshot": {
-                "trigger_detail_key": "rapid_burst",
-                "recent_downloads_logged": [
-                    "dee hood.cfg (Matcha) @ 19:38:40",
-                    "DEE HOOD LEGIT CFG.cfg (Matcha) @ 19:38:57",
-                    "Der Hood Legit taps_matcha leaked by sleepinlock and exhale.cfg (Matcha) @ 19:39:17",
-                    "derhood30-60ms.cfg (Matcha) @ 19:39:23",
-                    "Der Hood Legit taps.cfg (Matcha) @ 19:39:27"
-                ]
-            }
         }
     }
 }
