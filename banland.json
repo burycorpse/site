@@ -53,23 +53,6 @@
                 ]
             }
         },
-        "521750311946420241": {
-            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
-            "reason_detail": "Suspicious background processes detected: GameBarPresenceWriter.exe, nvcontainer.exe.",
-            "timestamp_utc": "2025-06-11T03:40:03.005866+00:00",
-            "expiry_utc": "2025-07-11T03:40:03.001359+00:00",
-            "panel_id": "3f820d40-3387-4977-8d3d-646c99a045d5",
-            "hwid": "509aa3c83732be0ed0f32702bc57d4ade61ac67e0397352863111f2e931ee2e8",
-            "ip": "148.74.206.139",
-            "evidence_snapshot": {
-                "trigger_detail_key": "suspicious_procs",
-                "recent_downloads_logged": [],
-                "detected_processes_at_trigger": [
-                    "GameBarPresenceWriter.exe",
-                    "nvcontainer.exe"
-                ]
-            }
-        },
         "1026227284140621935": {
             "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
             "reason_detail": "Suspicious background processes detected: nvcontainer.exe.",
