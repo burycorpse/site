@@ -121,6 +121,25 @@
                     "obs64.exe"
                 ]
             }
+        },
+        "923736390473248788": {
+            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
+            "reason_detail": "Suspicious background processes detected: GameBarPresenceWriter.exe, nvcontainer.exe.",
+            "timestamp_utc": "2025-06-12T08:54:30.940252+00:00",
+            "expiry_utc": "2025-07-12T08:54:30.939251+00:00",
+            "panel_id": "8ada11ce-16ea-46f9-849a-55ec75d06872",
+            "hwid": "88ccd00338b625cd063ae9f25bc834c3fcf0d6357b72bc707e32800fe7692731",
+            "ip": "142.56.196.109",
+            "evidence_snapshot": {
+                "trigger_detail_key": "suspicious_procs",
+                "recent_downloads_logged": [
+                    "hood customs 2 taps.cfg (Matcha) @ 02:53:10"
+                ],
+                "detected_processes_at_trigger": [
+                    "GameBarPresenceWriter.exe",
+                    "nvcontainer.exe"
+                ]
+            }
         }
     }
 }
