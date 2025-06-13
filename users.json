@@ -687,7 +687,7 @@
             "expiry_utc": "2025-07-13T20:49:44.453874+00:00",
             "added_by": "1316234003170201640",
             "timestamp_utc": "2025-06-13T20:49:44.453952+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "529551442449661972": {
             "username": "its_justshay",
