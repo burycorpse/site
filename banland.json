@@ -140,25 +140,6 @@
                     "nvcontainer.exe"
                 ]
             }
-        },
-        "1158849690616479764": {
-            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
-            "reason_detail": "Suspicious background processes detected: AnyDesk.exe.",
-            "timestamp_utc": "2025-06-13T22:23:53.807853+00:00",
-            "expiry_utc": "2025-07-13T22:23:53.806327+00:00",
-            "panel_id": "4a16ed96-ec42-41cc-9617-7f323d7fb09b",
-            "hwid": "0bf754e4e45244d82f9d44b2d9e3e3662e3c62dce1ceb044ba13491ad87322ba",
-            "ip": "2.219.121.6",
-            "evidence_snapshot": {
-                "trigger_detail_key": "suspicious_procs",
-                "recent_downloads_logged": [
-                    "taps on dea and derhood.json (Matrix New UI) @ 23:22:18",
-                    "taps on dea and derhood.json (Matrix New UI) @ 23:23:21"
-                ],
-                "detected_processes_at_trigger": [
-                    "AnyDesk.exe"
-                ]
-            }
         }
     }
 }
