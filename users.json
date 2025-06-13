@@ -598,7 +598,7 @@
             "expiry_utc": "permanent",
             "added_by": "1316234003170201640",
             "timestamp_utc": "2025-06-12T07:02:52.491871+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "923736390473248788": {
             "username": "vn4p",
