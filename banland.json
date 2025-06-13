@@ -140,25 +140,6 @@
                     "nvcontainer.exe"
                 ]
             }
-        },
-        "620011626313023501": {
-            "reason_code": "SUSPICIOUS_DOWNLOAD_PATH_SET",
-            "reason_detail": "User attempted to set download directory to a suspicious path: C:/Users/crist/Downloads/Cheats",
-            "timestamp_utc": "2025-06-13T22:42:02.229703+00:00",
-            "expiry_utc": "2025-07-13T22:42:02.227170+00:00",
-            "panel_id": "2bc2802b-4d2d-47a3-acf2-bba741ea3434",
-            "hwid": "12b9377cbe7e5c94e8a70d9d23929523d14afa954793130f8a3959c7b849aca8",
-            "ip": "174.78.220.171",
-            "evidence_snapshot": {
-                "trigger_detail_key": "suspicious_download_path_set",
-                "recent_downloads_logged": [
-                    "aftermath.cfg (Matcha) @ 18:31:43",
-                    "aftermath.cfg (Matcha) @ 18:34:25",
-                    "aftermath.cfg (Matcha) @ 18:35:07",
-                    "aftermath.cfg (Matcha) @ 18:41:03"
-                ],
-                "suspicious_path_at_trigger": "C:/Users/crist/Downloads/Cheats"
-            }
         }
     }
 }
