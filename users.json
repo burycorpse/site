@@ -746,6 +746,14 @@
       "added_by": "1316234003170201640",
       "timestamp_utc": "2025-06-14T03:02:24.060404+00:00",
       "auto_login": true
+    },
+    "752593667977510963": {
+      "username": "xorrex.",
+      "uuid": "83f52e6a-ca82-4c89-9fe8-324a5ed550b9",
+      "expiry_utc": "permanent",
+      "added_by": "1316234003170201640",
+      "timestamp_utc": "2025-06-14T03:19:59.685542+00:00",
+      "auto_login": false
     }
   }
 }
