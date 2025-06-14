@@ -730,7 +730,7 @@
             "expiry_utc": "permanent",
             "added_by": "1336489586276175902",
             "timestamp_utc": "2025-06-14T02:18:43.682542+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "710191838904188958": {
             "username": "heaven.exe",
