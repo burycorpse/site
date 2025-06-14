@@ -794,7 +794,7 @@
             "expiry_utc": "permanent",
             "added_by": "1336489586276175902",
             "timestamp_utc": "2025-06-14T14:01:36.993180+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "470330202560659458": {
             "username": "monterrain",
