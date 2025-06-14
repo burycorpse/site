@@ -720,7 +720,7 @@
             "expiry_utc": "2052-10-29T01:19:05.735607+00:00",
             "added_by": "1316234003170201640",
             "timestamp_utc": "2025-06-14T01:19:05.735680+00:00",
-            "auto_login": true
+            "auto_login": false
         }
     }
 }
