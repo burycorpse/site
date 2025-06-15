@@ -160,6 +160,22 @@
                     "AnyDesk.exe"
                 ]
             }
+        },
+        "1148971502050492416": {
+            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
+            "reason_detail": "Suspicious background processes detected: Lightshot.exe.",
+            "timestamp_utc": "2025-06-15T16:50:28.697479+00:00",
+            "expiry_utc": "2025-07-15T16:50:28.696240+00:00",
+            "panel_id": "59923ff7-2c40-49d4-8631-beb283e23de1",
+            "hwid": "884ab5f0e8598ca22bf40211d3fb223af322afce95161986cbd1ec42a424cd6b",
+            "ip": "172.56.167.164",
+            "evidence_snapshot": {
+                "trigger_detail_key": "suspicious_procs",
+                "recent_downloads_logged": [],
+                "detected_processes_at_trigger": [
+                    "Lightshot.exe"
+                ]
+            }
         }
     }
 }
