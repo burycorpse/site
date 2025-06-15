@@ -157,6 +157,25 @@
                     "Lightshot.exe"
                 ]
             }
+        },
+        "544203729461837825": {
+            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
+            "reason_detail": "Downloaded 5 files in 60s (burst limit: 5).",
+            "timestamp_utc": "2025-06-15T20:26:51.493406+00:00",
+            "expiry_utc": "2025-07-15T20:26:51.490403+00:00",
+            "panel_id": "8c1f7600-c9fb-43cd-99ba-a0e11fd80a24",
+            "hwid": "7abf695463fcd4dc493517fcdace48327fa711b5db018454927f40b5f816f503",
+            "ip": "82.36.244.52",
+            "evidence_snapshot": {
+                "trigger_detail_key": "rapid_burst",
+                "recent_downloads_logged": [
+                    "GOODTIGGERBOT.mcf (Matrix Old UI) @ 21:26:05",
+                    "G6KING.mcf (Matrix Old UI) @ 21:26:09",
+                    "E.mcf (Matrix Old UI) @ 21:26:23",
+                    "CISTO.mcf (Matrix Old UI) @ 21:26:48",
+                    "cisto123.mcf (Matrix Old UI) @ 21:26:50"
+                ]
+            }
         }
     }
 }
