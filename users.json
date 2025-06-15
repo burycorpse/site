@@ -835,7 +835,7 @@
             "expiry_utc": "2052-10-30T15:41:59.639571+00:00",
             "added_by": "1158085809400975411",
             "timestamp_utc": "2025-06-15T15:41:59.639648+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "1148971502050492416": {
             "username": "bbtsyyv",
