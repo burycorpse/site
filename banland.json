@@ -123,25 +123,6 @@
                 ]
             }
         },
-        "1158849690616479764": {
-            "reason_code": "RAPID_MULTI_CATEGORY_DOWNLOAD",
-            "reason_detail": "Downloaded from 3 categories (Matcha, Matrix New UI, Matrix Old UI) in 5.0min (limit: 3).",
-            "timestamp_utc": "2025-06-14T17:31:09.010285+00:00",
-            "expiry_utc": "2025-07-14T17:31:09.009262+00:00",
-            "panel_id": "7ffbc2c5-84dc-4216-8bbf-a6912ecccdd7",
-            "hwid": "ad9154a0ab6da5fdd316b512a87f5b42fcad63810d1667cbf94ac7a2b05d12c9",
-            "ip": "104.28.192.51",
-            "evidence_snapshot": {
-                "trigger_detail_key": "multi_category",
-                "recent_downloads_logged": [
-                    "triggerbott.mcf (Matrix Old UI) @ 18:29:28",
-                    "personal.mcf (Matrix Old UI) @ 18:29:44",
-                    "fuck hoax trigger.mcf (Matrix Old UI) @ 18:30:03",
-                    "DEEHOOOD.json (Matrix New UI) @ 18:30:40",
-                    "Kat.cfg (Matcha) @ 18:31:08"
-                ]
-            }
-        },
         "1196781889642569728": {
             "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
             "reason_detail": "Suspicious background processes detected: AnyDesk.exe.",
