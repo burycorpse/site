@@ -868,6 +868,14 @@
       "added_by": "1158085809400975411",
       "timestamp_utc": "2025-06-15T20:11:27.505945+00:00",
       "auto_login": false
+    },
+    "700872939133993048": {
+      "username": "triolocks",
+      "uuid": "83860079-ca94-48e1-a279-0c3a04ad34ba",
+      "expiry_utc": "permanent",
+      "added_by": "1158085809400975411",
+      "timestamp_utc": "2025-06-15T20:11:54.419185+00:00",
+      "auto_login": false
     }
   }
 }
