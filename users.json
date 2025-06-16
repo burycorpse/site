@@ -909,6 +909,14 @@
       "added_by": "1158085809400975411",
       "timestamp_utc": "2025-06-15T23:00:55.300770+00:00",
       "auto_login": true
+    },
+    "1369353150808461392": {
+      "username": "______________cut",
+      "uuid": "21d15e46-8b43-4991-8739-adc5823dca0b",
+      "expiry_utc": "permanent",
+      "added_by": "1336489586276175902",
+      "timestamp_utc": "2025-06-16T20:16:06.332759+00:00",
+      "auto_login": false
     }
   }
 }
