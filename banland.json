@@ -176,6 +176,22 @@
                     "cisto123.mcf (Matrix Old UI) @ 21:26:50"
                 ]
             }
+        },
+        "1369353150808461392": {
+            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
+            "reason_detail": "Suspicious background processes detected: AnyDesk.exe.",
+            "timestamp_utc": "2025-06-16T20:27:48.626470+00:00",
+            "expiry_utc": "2025-07-16T20:27:48.626470+00:00",
+            "panel_id": "0fd481c6-8b3d-4c40-9129-76b30c6402f5",
+            "hwid": "unknown_hwid",
+            "ip": "51.190.11.28",
+            "evidence_snapshot": {
+                "trigger_detail_key": "suspicious_procs",
+                "recent_downloads_logged": [],
+                "detected_processes_at_trigger": [
+                    "AnyDesk.exe"
+                ]
+            }
         }
     }
 }
