@@ -780,7 +780,7 @@
             "expiry_utc": "2025-07-14T08:44:42.788915+00:00",
             "added_by": "1158085809400975411",
             "timestamp_utc": "2025-06-14T08:44:42.788997+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "1337369737625341995": {
             "username": "soph2freaky",
