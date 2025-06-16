@@ -192,6 +192,25 @@
                     "AnyDesk.exe"
                 ]
             }
+        },
+        "1242904298967404690": {
+            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
+            "reason_detail": "Downloaded 5 files in 60s (burst limit: 5).",
+            "timestamp_utc": "2025-06-16T21:33:38.989588+00:00",
+            "expiry_utc": "2025-07-16T21:33:38.988581+00:00",
+            "panel_id": "45d4f741-a6db-4e21-8709-32c1b0fc0647",
+            "hwid": "1f99148e312e076f6a74a113fe84450e10344960715d9243db4f3a5a4ac8598e",
+            "ip": "46.22.107.47",
+            "evidence_snapshot": {
+                "trigger_detail_key": "rapid_burst",
+                "recent_downloads_logged": [
+                    "mtx tb _ silent aim.mcf (Matrix Old UI) @ 21:32:59",
+                    "MEGALEGITt _1_.mcf (Matrix Old UI) @ 21:33:07",
+                    "legit cfg.mcf (Matrix Old UI) @ 21:33:15",
+                    "fuck hoax trigger.mcf (Matrix Old UI) @ 21:33:25",
+                    "closet ts tapssss _exhale.mcf (Matrix Old UI) @ 21:33:37"
+                ]
+            }
         }
     }
 }
