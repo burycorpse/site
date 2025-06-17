@@ -196,25 +196,6 @@
                 ]
             }
         },
-        "628505008719003648": {
-            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
-            "reason_detail": "Suspicious background processes detected: Lightshot.exe.",
-            "timestamp_utc": "2025-06-17T02:01:16.717356+00:00",
-            "expiry_utc": "2025-07-17T02:01:16.716507+00:00",
-            "panel_id": "c337a90d-9238-4845-b8c4-86a3f86d17da",
-            "hwid": "5eecd493373cc723c0a62930878a90d4162ef9b8290a04e5dd2a17c4efc747fa",
-            "ip": "178.152.103.123",
-            "evidence_snapshot": {
-                "trigger_detail_key": "suspicious_procs",
-                "recent_downloads_logged": [
-                    "rivallalalaa.json (Matrix New UI) @ 05:00:00",
-                    "Default.cfg (Other) @ 05:01:12"
-                ],
-                "detected_processes_at_trigger": [
-                    "Lightshot.exe"
-                ]
-            }
-        },
         "1275090543038173216": {
             "reason": "No reason provided",
             "expiry": "permanent",
