@@ -247,14 +247,6 @@
                     "Lightshot.exe"
                 ]
             }
-        },
-        "1158085809400975411": {
-            "reason_code": "SUSPICIOUS_DOWNLOAD_PATH_SET",
-            "reason_detail": "Suspicious download path set: C:/Users/mdi/Downloads/yes",
-            "timestamp_utc": "2025-06-17T23:23:17.272520+00:00",
-            "expiry_utc": "2025-07-17T23:23:17.272020+00:00",
-            "hwid": "d024ffc4c2e4e76bd7886573d725956adb67b50ba87a75c34285e1ff2f1cf5f2",
-            "ip": "75.57.255.219"
         }
     }
 }
