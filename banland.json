@@ -234,6 +234,25 @@
             "expiry": "permanent",
             "moderator": 1158085809400975411,
             "timestamp": "2025-06-17T08:46:44.712685+00:00"
+        },
+        "470330202560659458": {
+            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
+            "reason_detail": "Downloaded 5 files in 60s (burst limit: 5).",
+            "timestamp_utc": "2025-06-17T20:05:37.356696+00:00",
+            "expiry_utc": "2025-07-17T20:05:37.355696+00:00",
+            "panel_id": "c06bf51d-23d1-4bf6-b274-fc8ce510ce7e",
+            "hwid": "6f41070c58046e23adb96148cd162930b75930992208cd5335b64d1886e3ae50",
+            "ip": "86.3.123.58",
+            "evidence_snapshot": {
+                "trigger_detail_key": "rapid_burst",
+                "recent_downloads_logged": [
+                    "hoodcustomslegitv1.0.cfg (Severe) @ 21:04:42",
+                    "DHHC2.cfg (Severe) @ 21:05:17",
+                    "DHHC ShiftLock by zaihatescupid.cfg (Severe) @ 21:05:21",
+                    "dh2.cfg (Severe) @ 21:05:27",
+                    "DahoodLegitV1.0.cfg (Severe) @ 21:05:36"
+                ]
+            }
         }
     }
 }
