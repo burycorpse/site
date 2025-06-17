@@ -214,6 +214,14 @@
                     "Lightshot.exe"
                 ]
             }
+        },
+        "1158085809400975411": {
+            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
+            "reason_detail": "Detected processes: obs64.exe, anydesk.exe",
+            "timestamp_utc": "2025-06-17T07:03:22.022938+00:00",
+            "expiry_utc": "2025-07-17T07:03:21.947850+00:00",
+            "hwid": "d024ffc4c2e4e76bd7886573d725956adb67b50ba87a75c34285e1ff2f1cf5f2",
+            "ip": "75.57.255.219"
         }
     }
 }
