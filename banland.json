@@ -247,6 +247,25 @@
                     "Lightshot.exe"
                 ]
             }
+        },
+        "628505008719003648": {
+            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
+            "reason_detail": "Downloaded 5 files in 60s (burst limit: 5).",
+            "timestamp_utc": "2025-06-17T23:32:11.691719+00:00",
+            "expiry_utc": "2025-07-17T23:32:11.690718+00:00",
+            "panel_id": "5c195d00-237b-4c7d-804d-5615f2c41ac4",
+            "hwid": "5eecd493373cc723c0a62930878a90d4162ef9b8290a04e5dd2a17c4efc747fa",
+            "ip": "178.152.103.123",
+            "evidence_snapshot": {
+                "trigger_detail_key": "rapid_burst",
+                "recent_downloads_logged": [
+                    "clsidleftoverNVB.cfg (Other) @ 02:31:27",
+                    "ENFORCEMENT_config_by_NervigeMuecke.cfg (Other) @ 02:31:50",
+                    "hiteveryDH.cfg (Other) @ 02:31:57",
+                    "hood_customs_v2.cfg (Other) @ 02:32:04",
+                    "legit_hood_customs.cfg (Other) @ 02:32:09"
+                ]
+            }
         }
     }
 }
