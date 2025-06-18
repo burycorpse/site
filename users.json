@@ -1066,7 +1066,7 @@
             "expiry_utc": "permanent",
             "added_by": "1336489586276175902",
             "timestamp_utc": "2025-06-18T19:04:56.021810+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "918779224284860436": {
             "username": "luvv4cammy",
