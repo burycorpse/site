@@ -214,25 +214,6 @@
                 ]
             }
         },
-        "990343525860270110": {
-            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
-            "reason_detail": "Downloaded 5 files in 60s (burst limit: 5).",
-            "timestamp_utc": "2025-06-18T00:22:51.798636+00:00",
-            "expiry_utc": "2025-07-18T00:22:51.797029+00:00",
-            "panel_id": "85c7a0a2-8810-479b-8936-9e2cbe393ad5",
-            "hwid": "0868d4fd216ed85efe4f7645db597a1eb4a17ff18e40868a5c17dfe0566fa40d",
-            "ip": "24.47.94.214",
-            "evidence_snapshot": {
-                "trigger_detail_key": "rapid_burst",
-                "recent_downloads_logged": [
-                    "MM2.cfg (Matcha) @ 20:22:16",
-                    "Kat.cfg (Matcha) @ 20:22:22",
-                    "dahoodmatcha.cfg (Matcha) @ 20:22:35",
-                    "besthoodcustom.cfg (Matcha) @ 20:22:42",
-                    "Da Hood Never Miss.cfg (Matcha) @ 20:22:51"
-                ]
-            }
-        },
         "521750311946420241": {
             "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
             "reason_detail": "Downloaded 5 files in 60s (burst limit: 5).",
