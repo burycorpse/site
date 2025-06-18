@@ -1059,6 +1059,14 @@
       "added_by": "1336489586276175902",
       "timestamp_utc": "2025-06-18T17:28:38.560724+00:00",
       "auto_login": false
+    },
+    "1218091707330068491": {
+      "username": "cn1wa",
+      "uuid": "1d817ea3-0faf-4393-b339-ff413463b39b",
+      "expiry_utc": "permanent",
+      "added_by": "1336489586276175902",
+      "timestamp_utc": "2025-06-18T19:04:56.021810+00:00",
+      "auto_login": false
     }
   }
 }
