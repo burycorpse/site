@@ -211,27 +211,6 @@
                 ]
             }
         },
-        "1310728512809865326": {
-            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
-            "reason_detail": "Suspicious background processes detected: Lightshot.exe.",
-            "timestamp_utc": "2025-06-17T22:25:18.551524+00:00",
-            "expiry_utc": "2025-07-17T22:25:18.550521+00:00",
-            "panel_id": "6d63f18b-2b05-4bf1-a6d4-5b3d1159cfed",
-            "hwid": "unknown_hwid",
-            "ip": "170.246.213.52",
-            "evidence_snapshot": {
-                "trigger_detail_key": "suspicious_procs",
-                "recent_downloads_logged": [
-                    "DahoodLegitV1.0.cfg (Severe) @ 19:23:52",
-                    "streamable legit any.cfg (Matcha) @ 19:24:16",
-                    "dh170.cfg (Severe) @ 19:24:41",
-                    "dh2.cfg (Severe) @ 19:24:46"
-                ],
-                "detected_processes_at_trigger": [
-                    "Lightshot.exe"
-                ]
-            }
-        },
         "628505008719003648": {
             "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
             "reason_detail": "Downloaded 5 files in 60s (burst limit: 5).",
