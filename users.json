@@ -1027,6 +1027,14 @@
       "added_by": "1336489586276175902",
       "timestamp_utc": "2025-06-18T14:18:38.297595+00:00",
       "auto_login": false
+    },
+    "1134740324992942231": {
+      "username": "ppacif1st",
+      "uuid": "17c94cc5-3d12-41e8-b2b2-abbb958cab36",
+      "expiry_utc": "permanent",
+      "added_by": "1336489586276175902",
+      "timestamp_utc": "2025-06-18T14:26:48.855891+00:00",
+      "auto_login": false
     }
   }
 }
