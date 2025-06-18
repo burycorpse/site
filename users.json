@@ -550,7 +550,9 @@
             "uuid": "9b12a929-5da3-4cec-87a2-1d4cd8e2f1b6",
             "expiry_utc": "2049-10-09T23:18:36.035773+00:00",
             "added_by": 1158085809400975411,
-            "timestamp_utc": "2025-06-09T23:18:36.035847+00:00"
+            "timestamp_utc": "2025-06-09T23:18:36.035847+00:00",
+            "username": "kaigetsbread",
+            "auto_login": false
         },
         "1009711483661332561": {
             "username": "2t2real",
