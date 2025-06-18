@@ -269,27 +269,6 @@
                     "Da Hood Never Miss.cfg (Matcha) @ 20:22:51"
                 ]
             }
-        },
-        "1237263804958773340": {
-            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
-            "reason_detail": "Suspicious background processes detected: TeamViewer.exe.",
-            "timestamp_utc": "2025-06-18T01:26:53.655820+00:00",
-            "expiry_utc": "2025-07-18T01:26:53.654823+00:00",
-            "panel_id": "4326807b-1ed2-460b-91a3-68e6e4a7030e",
-            "hwid": "92acef1541a2052131a9ad18ac51ca582dca2e78c383ad70930da4e3d826fb7d",
-            "ip": "154.5.231.37",
-            "evidence_snapshot": {
-                "trigger_detail_key": "suspicious_procs",
-                "recent_downloads_logged": [
-                    "rival.cfg (Matcha) @ 18:25:30",
-                    "rivals remake.cfg (Matcha) @ 18:26:06",
-                    "Rivals free 2.cfg (Matcha) @ 18:26:29",
-                    "Rivals memory w pred.cfg (Matcha) @ 18:26:37"
-                ],
-                "detected_processes_at_trigger": [
-                    "TeamViewer.exe"
-                ]
-            }
         }
     }
 }
