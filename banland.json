@@ -232,22 +232,6 @@
                     "RIVALSSSSS.json (Matrix New UI) @ 03:39:34"
                 ]
             }
-        },
-        "1218091707330068491": {
-            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
-            "reason_detail": "Suspicious background processes detected: ShareX.exe.",
-            "timestamp_utc": "2025-06-18T20:02:07.506275+00:00",
-            "expiry_utc": "2025-07-18T20:02:07.503237+00:00",
-            "panel_id": "54542125-d53c-4dbb-8474-c43d0bb045ca",
-            "hwid": "aae7c9044656b9b5ff02e60cd153a29df0538b1a67df5860a8e0e6a03424d70c",
-            "ip": "81.104.4.4",
-            "evidence_snapshot": {
-                "trigger_detail_key": "suspicious_procs",
-                "recent_downloads_logged": [],
-                "detected_processes_at_trigger": [
-                    "ShareX.exe"
-                ]
-            }
         }
     }
 }
