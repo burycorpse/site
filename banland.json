@@ -232,6 +232,25 @@
                     "RIVALSSSSS.json (Matrix New UI) @ 03:39:34"
                 ]
             }
+        },
+        "1113945891003437147": {
+            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
+            "reason_detail": "Suspicious background processes detected: AnyDesk.exe.",
+            "timestamp_utc": "2025-06-19T15:55:15.271833+00:00",
+            "expiry_utc": "2025-07-19T15:55:15.270834+00:00",
+            "panel_id": "bceafcd0-35de-4cc2-aeff-3ef56ccc8c1b",
+            "hwid": "795a9ff40b2a9f577476f1c2e6e81fe30613410cb6b60dd37c2c894ce0ea3196",
+            "ip": "62.150.121.250",
+            "evidence_snapshot": {
+                "trigger_detail_key": "suspicious_procs",
+                "recent_downloads_logged": [
+                    "rivalsstiff.cfg (Matcha) @ 11:53:26",
+                    "rivalsstiff.cfg (Matcha) @ 11:53:42"
+                ],
+                "detected_processes_at_trigger": [
+                    "AnyDesk.exe"
+                ]
+            }
         }
     }
 }
