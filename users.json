@@ -1106,7 +1106,7 @@
             "expiry_utc": "permanent",
             "added_by": "1336489586276175902",
             "timestamp_utc": "2025-06-19T15:28:02.714386+00:00",
-            "auto_login": true
+            "auto_login": false
         },
         "968545114031017984": {
             "username": "dissolvable",
