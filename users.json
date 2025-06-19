@@ -1060,7 +1060,7 @@
             "expiry_utc": "permanent",
             "added_by": "1336489586276175902",
             "timestamp_utc": "2025-06-18T17:28:38.560724+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "1218091707330068491": {
             "username": "cn1wa",
