@@ -391,8 +391,9 @@
         "1168086480493756464": {
             "uuid": "34c8082f-6895-4b59-8cb7-650536f6dcab",
             "expiry_utc": "permanent",
-            "auto_login": true,
-            "timestamp_utc": "2025-06-01T13:47:43.039391+00:00"
+            "auto_login": false,
+            "timestamp_utc": "2025-06-01T13:47:43.039391+00:00",
+            "username": "dffewf"
         },
         "1196781889642569728": {
             "uuid": "8da48534-c30b-470e-b48e-1627b63f7728",
