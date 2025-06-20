@@ -232,6 +232,23 @@
                     "RIVALSSSSS.json (Matrix New UI) @ 03:39:34"
                 ]
             }
+        },
+        "949280492816048158": {
+            "reason_code": "RAPID_MULTI_CATEGORY_DOWNLOAD",
+            "reason_detail": "Downloaded from 3 categories (Matcha, Matrix New UI, Severe) in 5.0min (limit: 3).",
+            "timestamp_utc": "2025-06-20T20:40:38.311088+00:00",
+            "expiry_utc": "2025-07-20T20:40:38.310088+00:00",
+            "panel_id": "0ff8d90e-41f8-40cd-8017-fc800293af0b",
+            "hwid": "unknown_hwid",
+            "ip": "89.1.182.139",
+            "evidence_snapshot": {
+                "trigger_detail_key": "multi_category",
+                "recent_downloads_logged": [
+                    "rvials.json (Matrix New UI) @ 22:37:09",
+                    "Jailbreak.cfg (Severe) @ 22:39:40",
+                    "midping.cfg (Matcha) @ 22:40:37"
+                ]
+            }
         }
     }
 }
