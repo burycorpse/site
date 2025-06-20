@@ -1053,7 +1053,7 @@
             "expiry_utc": "2052-11-02T16:47:03.782280+00:00",
             "added_by": "1158085809400975411",
             "timestamp_utc": "2025-06-18T16:47:03.782401+00:00",
-            "auto_login": false
+            "auto_login": true
         },
         "1278553403856912442": {
             "username": "selfinflictedharm",
