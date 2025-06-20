@@ -612,8 +612,7 @@
             "expiry_utc": "2025-07-12T08:40:47.588251+00:00",
             "added_by": "1316234003170201640",
             "timestamp_utc": "2025-06-12T08:40:47.588296+00:00",
-            "auto_login": true,
-            "discord_access_token": "MTI5NTU1NzA4NDM4MDc5NDk3MQ.Xjw02VxCygOd28r7VqVzvJRxc1eaG4"
+            "auto_login": false
         },
         "1063201151262142515": {
             "username": "hen_st",
