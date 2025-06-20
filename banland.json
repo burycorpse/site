@@ -234,19 +234,21 @@
             }
         },
         "949280492816048158": {
-            "reason_code": "RAPID_MULTI_CATEGORY_DOWNLOAD",
-            "reason_detail": "Downloaded from 3 categories (Matcha, Matrix New UI, Severe) in 5.0min (limit: 3).",
-            "timestamp_utc": "2025-06-20T20:40:38.311088+00:00",
-            "expiry_utc": "2025-07-20T20:40:38.310088+00:00",
-            "panel_id": "0ff8d90e-41f8-40cd-8017-fc800293af0b",
+            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
+            "reason_detail": "Downloaded 5 files in 60s (burst limit: 5).",
+            "timestamp_utc": "2025-06-20T20:42:12.606875+00:00",
+            "expiry_utc": "2025-07-20T20:42:12.596732+00:00",
+            "panel_id": "4b4f0a93-f9e4-4ede-8e54-b9aceff45c61",
             "hwid": "unknown_hwid",
             "ip": "89.1.182.139",
             "evidence_snapshot": {
-                "trigger_detail_key": "multi_category",
+                "trigger_detail_key": "rapid_burst",
                 "recent_downloads_logged": [
-                    "rvials.json (Matrix New UI) @ 22:37:09",
-                    "Jailbreak.cfg (Severe) @ 22:39:40",
-                    "midping.cfg (Matcha) @ 22:40:37"
+                    "packet.cfg (Matcha) @ 22:41:40",
+                    "RIVALS BLATANT.cfg (Matcha) @ 22:41:49",
+                    "matchahc.cfg (Matcha) @ 22:41:54",
+                    "INSANE der.cfg (Matcha) @ 22:42:01",
+                    "exhale low ping.cfg (Matcha) @ 22:42:11"
                 ]
             }
         }
