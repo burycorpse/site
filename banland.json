@@ -251,6 +251,22 @@
                     "exhale low ping.cfg (Matcha) @ 22:42:11"
                 ]
             }
+        },
+        "1218091707330068491": {
+            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
+            "reason_detail": "Suspicious background processes detected: ShareX.exe.",
+            "timestamp_utc": "2025-06-20T23:30:56.191714+00:00",
+            "expiry_utc": "2025-07-20T23:30:56.189648+00:00",
+            "panel_id": "86ada4f7-5969-4fc7-ae76-5ba028f15a6d",
+            "hwid": "aae7c9044656b9b5ff02e60cd153a29df0538b1a67df5860a8e0e6a03424d70c",
+            "ip": "81.104.4.4",
+            "evidence_snapshot": {
+                "trigger_detail_key": "suspicious_procs",
+                "recent_downloads_logged": [],
+                "detected_processes_at_trigger": [
+                    "ShareX.exe"
+                ]
+            }
         }
     }
 }
