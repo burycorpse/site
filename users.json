@@ -1173,6 +1173,14 @@
       "added_by": "1336489586276175902",
       "timestamp_utc": "2025-06-21T04:36:13.821066+00:00",
       "auto_login": false
+    },
+    "212622572880134145": {
+      "username": "isasharg",
+      "uuid": "4d2497a9-2368-42a5-ba23-972516be999a",
+      "expiry_utc": "permanent",
+      "added_by": "1336489586276175902",
+      "timestamp_utc": "2025-06-21T14:56:33.670981+00:00",
+      "auto_login": false
     }
   }
 }
