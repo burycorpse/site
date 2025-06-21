@@ -1149,6 +1149,14 @@
       "added_by": "1158085809400975411",
       "timestamp_utc": "2025-06-21T01:08:44.614360+00:00",
       "auto_login": false
+    },
+    "140131679162466304": {
+      "username": "hollowtwin",
+      "uuid": "420e226f-562a-487f-b0d3-baad06cb7154",
+      "expiry_utc": "permanent",
+      "added_by": "1336489586276175902",
+      "timestamp_utc": "2025-06-21T02:41:53.095947+00:00",
+      "auto_login": false
     }
   }
 }
