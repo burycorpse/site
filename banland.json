@@ -107,25 +107,6 @@
                 ]
             }
         },
-        "1196781889642569728": {
-            "reason_code": "SUSPICIOUS_PROCESS_DETECTED",
-            "reason_detail": "Suspicious background processes detected: AnyDesk.exe.",
-            "timestamp_utc": "2025-06-15T15:49:24.690111+00:00",
-            "expiry_utc": "2025-07-15T15:49:24.686114+00:00",
-            "panel_id": "63c09dd6-0553-437b-9575-29980b7c0622",
-            "hwid": "ecc12b366ff76e229dbec7d3f51db6aac93e2dd01b9b977a45b29b3653428372",
-            "ip": "82.77.237.4",
-            "evidence_snapshot": {
-                "trigger_detail_key": "suspicious_procs",
-                "recent_downloads_logged": [
-                    "taps on dea and derhood.json (Matrix New UI) @ 18:47:44",
-                    "taps on dea and derhood.json (Matrix New UI) @ 18:48:11"
-                ],
-                "detected_processes_at_trigger": [
-                    "AnyDesk.exe"
-                ]
-            }
-        },
         "544203729461837825": {
             "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
             "reason_detail": "Downloaded 5 files in 60s (burst limit: 5).",
