@@ -248,6 +248,14 @@
                     "ShareX.exe"
                 ]
             }
+        },
+        "140131679162466304": {
+            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
+            "reason_detail": "Downloaded 5 files in 60s.",
+            "timestamp_utc": "2025-06-22T19:26:40.465262+00:00",
+            "expiry_utc": "2025-07-22T19:26:40.463180+00:00",
+            "hwid": "86a1093918518826d66acbad519d1828245f36f371570dafbe45b8e0a9ddb937",
+            "ip": "79.127.136.102"
         }
     }
 }
