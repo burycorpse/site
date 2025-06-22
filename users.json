@@ -1205,6 +1205,14 @@
       "added_by": "1336489586276175902",
       "timestamp_utc": "2025-06-22T15:39:56.762076+00:00",
       "auto_login": false
+    },
+    "1346043698017730601": {
+      "username": "thulean.perspective",
+      "uuid": "dad3ee91-4e79-4ef8-97be-623ded3db0a2",
+      "expiry_utc": "permanent",
+      "added_by": "1336489586276175902",
+      "timestamp_utc": "2025-06-22T18:07:51.819070+00:00",
+      "auto_login": false
     }
   }
 }
