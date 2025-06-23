@@ -537,10 +537,12 @@
       "auto_login": true
     },
     "1335325329031565403": {
-      "uuid": "3366ad96-a6ed-4f5a-9ad9-4f4e3a7d1503",
-      "expiry_utc": "2052-10-24T16:14:44.678929+00:00",
-      "added_by": 1336489586276175902,
-      "timestamp_utc": "2025-06-09T16:14:44.679007+00:00"
+      "username": "olafskiiiii",
+      "uuid": "ac18e499-e891-412e-af21-93f825ae8133",
+      "expiry_utc": "permanent",
+      "added_by": "1336489586276175902",
+      "timestamp_utc": "2025-06-23T02:25:20.029170+00:00",
+      "auto_login": false
     },
     "433730583701618691": {
       "uuid": "dbc3f264-4137-4fa3-a2f9-0d4e0d9bbac6",
