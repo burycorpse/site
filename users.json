@@ -1271,6 +1271,14 @@
       "added_by": "1158085809400975411",
       "timestamp_utc": "2025-06-23T21:00:30.117319+00:00",
       "auto_login": false
+    },
+    "1210671640627904572": {
+      "username": "wydmaz",
+      "uuid": "de35a315-e7f7-4bf3-a0e6-a3c0c62b88f5",
+      "expiry_utc": "permanent",
+      "added_by": "1336489586276175902",
+      "timestamp_utc": "2025-06-23T22:30:35.454873+00:00",
+      "auto_login": false
     }
   }
 }
