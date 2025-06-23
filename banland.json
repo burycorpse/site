@@ -256,6 +256,14 @@
             "expiry_utc": "2025-07-22T19:26:40.463180+00:00",
             "hwid": "86a1093918518826d66acbad519d1828245f36f371570dafbe45b8e0a9ddb937",
             "ip": "79.127.136.102"
+        },
+        "1068668178336591932": {
+            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
+            "reason_detail": "Downloaded 5 files in 60s.",
+            "timestamp_utc": "2025-06-23T05:14:08.558431+00:00",
+            "expiry_utc": "2025-07-23T05:14:08.554443+00:00",
+            "hwid": "b221f9ba996ac9516f4c6c7ae5d6a7a7c317ca5196503c7a3a2bde0f3d9f7e8d",
+            "ip": "190.143.254.240"
         }
     }
 }
