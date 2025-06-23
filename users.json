@@ -1239,6 +1239,14 @@
       "added_by": "1336489586276175902",
       "timestamp_utc": "2025-06-23T02:43:56.223704+00:00",
       "auto_login": false
+    },
+    "218978542166343682": {
+      "username": "sea.sea",
+      "uuid": "87ec747e-3ac9-4c8a-8798-0ea2f6d7620c",
+      "expiry_utc": "permanent",
+      "added_by": "1336489586276175902",
+      "timestamp_utc": "2025-06-23T10:51:27.487855+00:00",
+      "auto_login": false
     }
   }
 }
