@@ -204,8 +204,9 @@
             "expiry_utc": "2052-10-08T00:12:05.847173+00:00",
             "added_by": 1158085809400975411,
             "timestamp_utc": "2025-05-24T00:12:05.847173+00:00",
-            "auto_login": false,
-            "username": "luastate"
+            "auto_login": true,
+            "username": "luastate",
+            "discord_access_token": "MTI5NTU1NzA4NDM4MDc5NDk3MQ.2ubB0RabX2fwKoYRcyF8CZ0vy0wgdc"
         },
         "1361934444755292362": {
             "uuid": "56fd4bc2-1d87-4a05-be68-5aaa63761b3b",
