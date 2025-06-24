@@ -264,6 +264,12 @@
             "expiry_utc": "2025-07-23T05:14:08.554443+00:00",
             "hwid": "b221f9ba996ac9516f4c6c7ae5d6a7a7c317ca5196503c7a3a2bde0f3d9f7e8d",
             "ip": "190.143.254.240"
+        },
+        "1264678474874880161": {
+            "reason": "No reason provided",
+            "expiry": "permanent",
+            "moderator": 1158085809400975411,
+            "timestamp": "2025-06-24T21:15:00.120340+00:00"
         }
     }
 }
