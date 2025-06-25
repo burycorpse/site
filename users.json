@@ -531,12 +531,12 @@
       "auto_login": false
     },
     "521750311946420241": {
-      "uuid": "6cfbd22c-d400-44db-b062-580be8f8cfeb",
-      "expiry_utc": "2052-10-24T05:30:01.248763+00:00",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-06-09T05:30:01.248808+00:00",
       "username": "ejebk",
-      "auto_login": true
+      "uuid": "4afa67f4-0d21-4143-b5bb-78304626cba9",
+      "expiry_utc": "permanent",
+      "added_by": "1336489586276175902",
+      "timestamp_utc": "2025-06-25T03:17:15.208059+00:00",
+      "auto_login": false
     },
     "1335325329031565403": {
       "username": "olafskiiiii",
