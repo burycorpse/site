@@ -1369,6 +1369,14 @@
       "added_by": "1158085809400975411",
       "timestamp_utc": "2025-06-25T21:19:47.453154+00:00",
       "auto_login": false
+    },
+    "1045782328900857946": {
+      "username": "invokeserver",
+      "uuid": "dfa02a6a-c110-4aad-a9df-d72388e500eb",
+      "expiry_utc": "permanent",
+      "added_by": "1158085809400975411",
+      "timestamp_utc": "2025-06-25T22:48:37.685191+00:00",
+      "auto_login": false
     }
   },
   "668873770697752647": {
