@@ -270,6 +270,14 @@
             "expiry": "permanent",
             "moderator": 1158085809400975411,
             "timestamp": "2025-06-24T21:15:00.120340+00:00"
+        },
+        "1276224343222911087": {
+            "reason_code": "DOWNLOAD_COUNT_LIMIT",
+            "reason_detail": "Exceeded session download limit of 15.",
+            "timestamp_utc": "2025-06-25T02:31:53.998395+00:00",
+            "expiry_utc": "2025-07-25T02:31:53.996396+00:00",
+            "hwid": "63b39cac10a8ee1b2e6496fbd34b0b70385fab971fde3fd748817e85dd312dcb",
+            "ip": "81.2.168.66"
         }
     }
 }
