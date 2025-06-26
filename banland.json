@@ -257,6 +257,14 @@
             "expiry": "permanent",
             "moderator": 1158085809400975411,
             "timestamp": "2025-06-26T02:18:23.709221+00:00"
+        },
+        "705509771670847570": {
+            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
+            "reason_detail": "Downloaded 5 files in 60s.",
+            "timestamp_utc": "2025-06-26T02:53:06.843615+00:00",
+            "expiry_utc": "2025-07-26T02:53:06.841604+00:00",
+            "hwid": "4abfaf5646421bad08d42a9c69309607bd6ccaf6435082479f503889812a8921",
+            "ip": "45.49.50.146"
         }
     }
 }
