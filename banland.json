@@ -252,12 +252,6 @@
             "moderator": 1158085809400975411,
             "timestamp": "2025-06-24T21:15:00.120340+00:00"
         },
-        "1242135045553127480": {
-            "reason": "No reason provided",
-            "expiry": "permanent",
-            "moderator": 1158085809400975411,
-            "timestamp": "2025-06-26T02:18:23.709221+00:00"
-        },
         "705509771670847570": {
             "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
             "reason_detail": "Downloaded 5 files in 60s.",
