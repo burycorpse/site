@@ -494,12 +494,12 @@
       "timestamp_utc": "2025-06-06T08:10:38.716121+00:00"
     },
     "787722947279192144": {
-      "uuid": "8b3c0e53-6023-4fd7-8fec-011197b00cab",
-      "expiry_utc": "2052-10-21T20:00:39.033930+00:00",
-      "added_by": 1336489586276175902,
-      "timestamp_utc": "2025-06-06T20:00:39.033976+00:00",
-      "auto_login": false,
-      "username": "7f71"
+      "username": "7f71",
+      "uuid": "6ac7528b-4ac2-474b-ac98-1909fe1d8e81",
+      "expiry_utc": "permanent",
+      "added_by": "1158085809400975411",
+      "timestamp_utc": "2025-06-28T18:40:36.351720+00:00",
+      "auto_login": false
     },
     "1293591758512324624": {
       "uuid": "76bef0cf-05f8-440d-90d1-98fd632246cb",
