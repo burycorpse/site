@@ -1454,6 +1454,14 @@
       "added_by": "1158085809400975411",
       "timestamp_utc": "2025-06-28T14:52:40.311446+00:00",
       "auto_login": false
+    },
+    "936798935803105322": {
+      "username": "vastocard",
+      "uuid": "1ab3d2f8-5dcb-4d17-b169-10c103cda539",
+      "expiry_utc": "permanent",
+      "added_by": "1158085809400975411",
+      "timestamp_utc": "2025-06-28T18:40:28.983012+00:00",
+      "auto_login": false
     }
   },
   "668873770697752647": {
