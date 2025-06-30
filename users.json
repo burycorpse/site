@@ -1537,6 +1537,14 @@
       "added_by": "1158085809400975411",
       "timestamp_utc": "2025-06-30T23:27:28.492168+00:00",
       "auto_login": false
+    },
+    "795086021515018250": {
+      "username": "ttrunk",
+      "uuid": "9782d00e-09ca-43cf-916c-b0791e3418f9",
+      "expiry_utc": "permanent",
+      "added_by": "1158085809400975411",
+      "timestamp_utc": "2025-06-30T23:56:47.515665+00:00",
+      "auto_login": false
     }
   },
   "668873770697752647": {
