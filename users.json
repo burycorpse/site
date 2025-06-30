@@ -1435,9 +1435,12 @@
       "auto_login": false
     },
     "1041995735337537596": {
-      "uuid": "5943b7da-6f11-4eb5-ad79-03e512f6b629",
-      "auto_login": false,
-      "timestamp": "2025-06-28T06:55:33.007764+00:00"
+      "username": "bloodonherkatana",
+      "uuid": "0a4ea8fc-ad88-404c-bf09-b8e1c2b54040",
+      "expiry_utc": "2052-11-14T02:24:10.291988+00:00",
+      "added_by": "1158085809400975411",
+      "timestamp_utc": "2025-06-30T02:24:10.292089+00:00",
+      "auto_login": false
     },
     "1172954028569796639": {
       "username": "restrain75",
