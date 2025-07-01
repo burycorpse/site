@@ -259,6 +259,14 @@
             "expiry_utc": "2025-07-26T02:53:06.841604+00:00",
             "hwid": "4abfaf5646421bad08d42a9c69309607bd6ccaf6435082479f503889812a8921",
             "ip": "45.49.50.146"
+        },
+        "626210136842698753": {
+            "reason_code": "DOWNLOAD_COUNT_LIMIT",
+            "reason_detail": "Exceeded session download limit of 15.",
+            "timestamp_utc": "2025-07-01T23:07:31.435708+00:00",
+            "expiry_utc": "2025-07-31T23:07:31.433704+00:00",
+            "hwid": "unknown_hwid",
+            "ip": "97.113.200.4"
         }
     }
 }
