@@ -283,6 +283,12 @@
             "expiry_utc": "2025-08-06T06:05:14.534949+00:00",
             "hwid": "unknown_hwid",
             "ip": "110.146.138.175"
+        },
+        "841263040103841835": {
+            "reason": "No reason provided",
+            "expiry": "permanent",
+            "moderator": 1158085809400975411,
+            "timestamp": "2025-07-08T23:45:11.768208+00:00"
         }
     }
 }
