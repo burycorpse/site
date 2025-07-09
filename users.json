@@ -133,14 +133,6 @@
             "auto_login": false,
             "username": "comterno0"
         },
-        "1158085809400975411": {
-            "username": "mdibladi",
-            "uuid": "f203b0dc-ef7a-4470-8671-5c745c743050",
-            "expiry_utc": "3023-11-10T00:19:08.026745+00:00",
-            "added_by": "1158085809400975411",
-            "timestamp_utc": "2025-07-09T00:19:08.026819+00:00",
-            "auto_login": false
-        },
         "769137037214220299": {
             "uuid": "8b8f7448-528c-4fdf-bc3f-9678309a7767",
             "expiry_utc": "permanent",
