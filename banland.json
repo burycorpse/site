@@ -299,12 +299,10 @@
             "ip": "108.30.43.58"
         },
         "1353264605937270896": {
-            "reason_code": "RAPID_FILE_DOWNLOAD_BURST",
-            "reason_detail": "Downloaded 5 files in 60s.",
-            "timestamp_utc": "2025-07-09T02:32:08.885721+00:00",
-            "expiry_utc": "2025-08-08T02:32:08.882723+00:00",
-            "hwid": "4f8e903d48444eb737d06d7a8fd4c48130eedde98cd7ae82a5f2f3410b8435b9",
-            "ip": "45.226.117.20"
+            "reason": "No reason provided",
+            "expiry": "permanent",
+            "moderator": 1158085809400975411,
+            "timestamp": "2025-07-09T03:36:56.522267+00:00"
         }
     }
 }
