@@ -1,4 +1,12 @@
 {
   "allowed_users": {
+    "1273417613438881921": {
+      "username": "j9g",
+      "uuid": "a665a133-8126-4482-a0cc-8bfacbbd14b4",
+      "expiry_utc": "permanent",
+      "added_by": "1158085809400975411",
+      "timestamp_utc": "2025-07-10T20:24:12.833578+00:00",
+      "auto_login": false
+    }
   }
 }
