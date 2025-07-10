@@ -7,6 +7,14 @@
       "added_by": "1158085809400975411",
       "timestamp_utc": "2025-07-10T20:28:26.688039+00:00",
       "auto_login": false
+    },
+    "1158085809400975411": {
+      "username": "mdibladi",
+      "uuid": "f4dafcf8-4233-43ca-a6a6-467db5548fa5",
+      "expiry_utc": "permanent",
+      "added_by": "1158085809400975411",
+      "timestamp_utc": "2025-07-10T20:29:01.771041+00:00",
+      "auto_login": false
     }
   }
 }
