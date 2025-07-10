@@ -311,10 +311,12 @@
             "timestamp": "2025-07-09T20:50:49.158284+00:00"
         },
         "830597638881149008": {
-            "reason": "No reason provided",
-            "expiry": "permanent",
-            "moderator": 1158085809400975411,
-            "timestamp": "2025-07-10T05:08:50.758372+00:00"
+            "reason_code": "DOWNLOAD_COUNT_LIMIT",
+            "reason_detail": "Exceeded session download limit of 15.",
+            "timestamp_utc": "2025-07-10T19:43:06.008775+00:00",
+            "expiry_utc": "2025-08-09T19:43:06.006772+00:00",
+            "hwid": "unknown_hwid",
+            "ip": "174.178.140.86"
         }
     }
 }
