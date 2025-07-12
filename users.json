@@ -1753,13 +1753,6 @@
             "added_by": "1158085809400975411",
             "timestamp_utc": "2025-07-12T00:15:28.012353+00:00",
             "auto_login": false
-        },
-        "789279692892667924": {
-            "expiry": "permanent",
-            "auto_login": true,
-            "added_by": "AdminPanel",
-            "timestamp": "2025-07-12T02:06:42.194Z",
-            "uuid": "667ee395-93cb-4f34-ab25-fca47834c092"
         }
     },
     "668873770697752647": {
