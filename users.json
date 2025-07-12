@@ -1,1766 +1,1773 @@
 {
-  "allowed_users": {
-    "1200098167799152802": {
-      "uuid": "db4991f7-36f3-4671-a830-eb1a6e4e7d9b",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-18T17:59:53.065065+00:00"
-    },
-    "946050214148575294": {
-      "uuid": "de8a3d9d-0f1f-4885-8bbe-8e37f3e4c962",
-      "expiry_utc": "permanent",
-      "added_by": 1158085809400975400,
-      "timestamp_utc": "2025-05-18T18:53:07.697416+00:00"
-    },
-    "846715266587164673": {
-      "uuid": "acaba96b-cef6-4a5d-a253-de68bbd2a737",
-      "expiry_utc": "2025-06-17T19:02:55.298561+00:00",
-      "added_by": 1316234003170201600,
-      "timestamp_utc": "2025-05-18T19:02:55.298621+00:00",
-      "auto_login": false
-    },
-    "1255644819766775840": {
-      "uuid": "4814f2ea-e31a-473b-9a81-5ed3bdb175f9",
-      "expiry_utc": "2052-10-02T19:39:48.158250+00:00",
-      "added_by": 1316234003170201600,
-      "timestamp_utc": "2025-05-18T19:39:48.158316+00:00",
-      "auto_login": true,
-      "username": "vollytile"
-    },
-    "1225887163430998178": {
-      "uuid": "4f354c83-cac2-4714-8c70-9ad82972d427",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-18T19:44:09.822968+00:00",
-      "username": "geekk_"
-    },
-    "1022668509722988634": {
-      "uuid": "a9d78f93-7960-432b-997c-22eaacd03acc",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-24T00:01:41.894Z"
-    },
-    "1202378977239646228": {
-      "uuid": "e69e72e9-8bf0-4317-b000-62db04d43a67",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-18T20:08:22.396697+00:00"
-    },
-    "1208640387913351192": {
-      "uuid": "38740f02-dbf6-4e27-b292-44ded407fd62",
-      "expiry_utc": "permanent",
-      "added_by": 1316234003170201600,
-      "timestamp_utc": "2025-05-18T22:33:50.616948+00:00",
-      "auto_login": false
-    },
-    "1184889434580201584": {
-      "uuid": "7f030fab-3bc4-4e4b-b6e3-b81ac90e19e2",
-      "expiry_utc": "permanent",
-      "auto_login": true,
-      "timestamp_utc": "2025-05-18T21:38:58.901743+00:00"
-    },
-    "756611242138927145": {
-      "uuid": "b23735d8-37dc-4445-a690-cd264ad13b51",
-      "expiry_utc": "permanent",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-02T19:02:43.305662+00:00",
-      "auto_login": false
-    },
-    "397166681488621571": {
-      "uuid": "bbbe4d93-c3c0-400f-9b09-87b5d11cf8e5",
-      "expiry_utc": "2052-10-03T04:32:38.312919+00:00",
-      "added_by": 1316234003170201600,
-      "timestamp_utc": "2025-05-19T04:32:38.312976+00:00"
-    },
-    "821273622373990440": {
-      "uuid": "1daedc8c-4b94-4b88-ab23-83fc94f197d5",
-      "expiry_utc": "2052-10-03T04:33:00.578590+00:00",
-      "added_by": 1316234003170201600,
-      "timestamp_utc": "2025-05-19T04:33:00.578651+00:00"
-    },
-    "1356094450534842601": {
-      "uuid": "f7231c02-628c-4a56-9e06-7a1a24a33ead",
-      "expiry_utc": "2052-10-03T04:33:19.058145+00:00",
-      "added_by": 1316234003170201600,
-      "timestamp_utc": "2025-05-19T04:33:19.058206+00:00"
-    },
-    "628505008719003648": {
-      "uuid": "93e53af5-8191-46e8-9f4b-7afd9f541c56",
-      "expiry_utc": "2052-10-03T04:33:42.350453+00:00",
-      "added_by": 1316234003170201600,
-      "timestamp_utc": "2025-05-19T04:33:42.350524+00:00",
-      "username": ".n4nu.",
-      "auto_login": false
-    },
-    "1243415946597629995": {
-      "uuid": "a1c6cd99-84a6-4873-90b5-38223892d57b",
-      "expiry_utc": "2052-10-03T04:34:12.445766+00:00",
-      "added_by": 1316234003170201600,
-      "timestamp_utc": "2025-05-19T04:34:12.445825+00:00"
-    },
-    "1288864629602390078": {
-      "uuid": "2e8e6074-dcde-49d6-8df2-d47af3b0e713",
-      "expiry_utc": "permanent",
-      "auto_login": true,
-      "timestamp_utc": "2025-05-19T04:34:48.633727+00:00"
-    },
-    "1123827178690322482": {
-      "uuid": "1bbb2ada-def7-44e4-8d68-edc998819b9f",
-      "expiry_utc": "2052-10-03T04:41:09.983630+00:00",
-      "added_by": 1316234003170201600,
-      "timestamp_utc": "2025-05-19T04:41:09.983718+00:00",
-      "auto_login": false
-    },
-    "1277177990073155616": {
-      "uuid": "d2f130b6-6c44-467f-96ba-091ea8ce6b9d",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-19T11:17:58.650473+00:00",
-      "username": "suiiica7fanboy"
-    },
-    "1320364097031766026": {
-      "uuid": "059387c7-f1c3-4268-9e04-4ad35c54b43b",
-      "expiry_utc": "permanent",
-      "added_by": 1316234003170201600,
-      "timestamp_utc": "2025-05-19T23:15:33.786047+00:00",
-      "auto_login": true
-    },
-    "1310728512809865326": {
-      "uuid": "d495ed1d-f5c7-4d46-87fe-4c9f5b48b0cb",
-      "expiry_utc": "2052-10-04T20:11:52.873682+00:00",
-      "added_by": 1158085809400975400,
-      "timestamp_utc": "2025-05-20T20:11:52.873758+00:00",
-      "auto_login": false,
-      "username": "comterno0"
-    },
-    "769137037214220299": {
-      "uuid": "8b8f7448-528c-4fdf-bc3f-9678309a7767",
-      "expiry_utc": "permanent",
-      "auto_login": true,
-      "timestamp_utc": "2025-05-20T03:12:00.486089+00:00"
-    },
-    "1276837903993016343": {
-      "uuid": "f0eb8e8e-89d5-443f-a6b1-6bd40cafe7f0",
-      "expiry_utc": "permanent",
-      "auto_login": true,
-      "timestamp_utc": "2025-05-20T08:16:56.718855+00:00",
-      "username": "ruincoms"
-    },
-    "172045823872335872": {
-      "uuid": "53aa47a3-4152-4493-8093-bf756054fcef",
-      "expiry_utc": "permanent",
-      "added_by": 1336489586276176000,
-      "timestamp_utc": "2025-05-20T22:33:38.023416+00:00",
-      "auto_login": false
-    },
-    "1177011916158279763": {
-      "uuid": "d87d9032-ff62-4f48-8137-854eb089e88b",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-21T00:29:51.737647+00:00"
-    },
-    "1189680228440756234": {
-      "uuid": "3b1a8e6f-d6d6-495d-8e49-d0347849944d",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-21T03:11:12.115695+00:00"
-    },
-    "790842912207274045": {
-      "uuid": "e316f5ef-7309-44a1-93c3-2f91e742ad77",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-21T13:41:28.348180+00:00"
-    },
-    "1028281810733498378": {
-      "uuid": "173f5c26-5b56-4e29-814c-eb53dd9f9730",
-      "expiry_utc": "2025-07-20T15:55:26.183131+00:00",
-      "added_by": 1336489586276176000,
-      "timestamp_utc": "2025-05-21T15:55:26.183256+00:00"
-    },
-    "804338905629327370": {
-      "uuid": "24232ccb-3cf4-4480-bff4-5c8bac0662d7",
-      "expiry_utc": "2052-10-05T19:48:57.389585+00:00",
-      "added_by": 1158085809400975400,
-      "timestamp_utc": "2025-05-21T19:48:57.389651+00:00",
-      "auto_login": false
-    },
-    "1332718708077891726": {
-      "uuid": "76bb1b81-cd2b-4894-a5dc-267af6512404",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-22T18:51:09.196536+00:00",
-      "username": "thahubguy"
-    },
-    "1134606847769321643": {
-      "uuid": "a4816a1c-033e-4f12-ad14-1e6ce130528e",
-      "expiry_utc": "2052-10-08T00:12:05.847173+00:00",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-05-24T00:12:05.847173+00:00",
-      "auto_login": true,
-      "username": "luastate",
-      "discord_access_token": "MTI5NTU1NzA4NDM4MDc5NDk3MQ.2ubB0RabX2fwKoYRcyF8CZ0vy0wgdc"
-    },
-    "1361934444755292362": {
-      "uuid": "56fd4bc2-1d87-4a05-be68-5aaa63761b3b",
-      "expiry_utc": "permanent",
-      "auto_login": true,
-      "added_by": "AdminPanel",
-      "timestamp_utc": "2025-05-24T00:01:08.119Z"
-    },
-    "1112878322402197674": {
-      "uuid": "430b29f7-8dad-4029-9671-216a1bb04502",
-      "expiry_utc": "2025-06-23T00:32:00.712218+00:00",
-      "added_by": 1336489586276175902,
-      "timestamp_utc": "2025-05-24T00:32:00.712218+00:00"
-    },
-    "1301279447017717854": {
-      "uuid": "0189b18a-b187-4a14-8ce6-b1d0b0f0aecd",
-      "expiry_utc": "2052-10-08T00:42:32.396022+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-05-24T00:42:32.396022+00:00"
-    },
-    "1368493672848687134": {
-      "uuid": "659c9a65-9408-4be8-bc91-b4a61cf78e3a",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-24T01:26:05.611151+00:00"
-    },
-    "1372258900912635924": {
-      "uuid": "af7a72e5-8540-4426-8e53-6a9ad0e7d298",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-24T06:54:46.832333+00:00"
-    },
-    "1215801414513590302": {
-      "uuid": "a857f57f-282c-4694-8459-e7bcc2633159",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-25T18:44:44.037097+00:00"
-    },
-    "1360307975973244989": {
-      "uuid": "1c2fa097-6517-4d43-b75b-7009b92d889f",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-25T23:48:36.556548+00:00"
-    },
-    "1118377251449360427": {
-      "uuid": "33b6102c-792e-46e1-9c3a-2df6f06224b4",
-      "expiry_utc": "permanent",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-05-26T18:36:09.921555+00:00",
-      "auto_login": false
-    },
-    "843079947321081876": {
-      "username": "beaxzo.",
-      "uuid": "b39ec27b-5040-4fd7-8e95-5573f2b1d409",
-      "expiry_utc": "2025-07-13T21:33:15.219442+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-13T21:33:15.219506+00:00",
-      "auto_login": false
-    },
-    "917342952454516737": {
-      "uuid": "8b17f5da-29b5-45c5-9a94-652abf4e9b00",
-      "expiry_utc": "permanent",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-05-27T19:26:58.165187+00:00",
-      "auto_login": true
-    },
-    "591719225832374272": {
-      "uuid": "d907ae94-462b-4ccc-8277-77ffcf02cab4",
-      "expiry_utc": "permanent",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-05-27T19:27:28.715312+00:00"
-    },
-    "1289446052826710087": {
-      "uuid": "21182750-7cc4-4104-80ce-5097b0f9450a",
-      "expiry_utc": "2052-10-12T19:32:46.551353+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-05-28T19:32:46.551353+00:00",
-      "auto_login": false
-    },
-    "1359371526582964276": {
-      "uuid": "cbd8bbd4-523b-42fa-88fe-c813cad9a7bd",
-      "expiry_utc": "2052-10-12T22:24:44.761493+00:00",
-      "added_by": 1336489586276175902,
-      "timestamp_utc": "2025-05-28T22:24:44.761579+00:00",
-      "auto_login": true
-    },
-    "1268188145053077577": {
-      "uuid": "23a082e3-d84e-4458-8a54-2c0ca6e22542",
-      "expiry_utc": "2052-10-12T23:48:53.339602+00:00",
-      "added_by": 1336489586276175902,
-      "timestamp_utc": "2025-05-28T23:48:53.339691+00:00",
-      "auto_login": false
-    },
-    "1316234003170201640": {
-      "uuid": "5af2f858-6d42-4474-8aba-3b3d8e1b4b66",
-      "expiry_utc": "permanent",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-05-29T03:36:10.718162+00:00",
-      "auto_login": false
-    },
-    "1335175222441021491": {
-      "uuid": "a3343acf-5e9d-44c5-a7fc-c069c7331a69",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-29T08:00:03.341406+00:00"
-    },
-    "776487512033067028": {
-      "uuid": "ed643f4b-75a4-44be-9968-793b85779bb0",
-      "expiry_utc": "2025-06-28T11:17:44.392173+00:00",
-      "added_by": 1336489586276175902,
-      "timestamp_utc": "2025-05-29T11:17:44.392254+00:00",
-      "auto_login": false
-    },
-    "1223359053544296448": {
-      "uuid": "9b7a22d6-0445-4eb3-9fcc-5e5ff43d17c2",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-29T21:22:24.620473+00:00",
-      "username": "talkingsense"
-    },
-    "1071171847971946658": {
-      "uuid": "7bc06209-d84c-4398-a809-aa7d601c1a14",
-      "expiry_utc": "permanent",
-      "auto_login": true,
-      "timestamp_utc": "2025-05-30T00:59:56.029212+00:00"
-    },
-    "1325396130946744342": {
-      "uuid": "389a6331-b0e2-4700-bc0a-da883be6ba28",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-05-30T01:09:28.634381+00:00"
-    },
-    "1026227284140621935": {
-      "uuid": "c9a012dc-d3d4-44c0-a3fc-e6cb266add48",
-      "expiry_utc": "2052-10-15T16:53:48.312831+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-05-31T16:53:48.312881+00:00",
-      "auto_login": false,
-      "username": "tino.trippin"
-    },
-    "1091927948589813850": {
-      "uuid": "43a51588-193c-47c2-b4a8-b08a72bdb0c3",
-      "expiry_utc": "2025-06-30T22:19:54.091325+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-05-31T22:19:54.091382+00:00",
-      "auto_login": true
-    },
-    "979640572711166024": {
-      "uuid": "54318627-7f09-4841-8858-6f8231cb4591",
-      "expiry_utc": "2052-10-16T01:09:33.580517+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-01T01:09:33.580589+00:00",
-      "username": "buddyzeze.",
-      "auto_login": false
-    },
-    "1343295941632987197": {
-      "uuid": "8c9ac680-98a4-4453-bfe5-dd0fe42f402e",
-      "expiry_utc": "2052-10-17T01:05:21.884190+00:00",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-06-02T01:05:21.884242+00:00",
-      "auto_login": false
-    },
-    "1266162720789626932": {
-      "uuid": "3c957307-a08f-4e48-a8c2-39476b448d49",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-06-01T03:28:26.912824+00:00"
-    },
-    "294898080044548098": {
-      "uuid": "1ffece32-d44a-4695-8d94-dde907fbe3e4",
-      "expiry_utc": "2052-10-16T03:49:26.028832+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-01T03:49:26.028893+00:00",
-      "auto_login": false
-    },
-    "334743326932729857": {
-      "uuid": "039be4df-0419-4382-9ded-b038992d8248",
-      "expiry_utc": "2025-07-01T08:44:16.095706+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-01T08:44:16.095840+00:00",
-      "auto_login": false
-    },
-    "1168086480493756464": {
-      "uuid": "34c8082f-6895-4b59-8cb7-650536f6dcab",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-06-01T13:47:43.039391+00:00",
-      "username": "dffewf"
-    },
-    "1196781889642569728": {
-      "uuid": "8da48534-c30b-470e-b48e-1627b63f7728",
-      "expiry_utc": "2025-07-01T16:01:20.075757+00:00",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-06-01T16:01:20.075807+00:00",
-      "auto_login": false,
-      "username": "pulsexc"
-    },
-    "254577507964026880": {
-      "uuid": "cddee6f0-c730-4b51-8083-1f55e1125770",
-      "expiry_utc": "2052-10-17T01:15:00.337537+00:00",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-06-02T01:15:00.337587+00:00",
-      "auto_login": true
-    },
-    "1306675673699713207": {
-      "uuid": "48abf41a-ba9a-4d92-88c5-21d3c4131701",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-06-02T10:55:51.083024+00:00"
-    },
-    "1359342962697572433": {
-      "uuid": "3a19d88f-ced0-4f69-ba4f-d62c2d7bbe4c",
-      "expiry_utc": "2052-10-17T12:24:58.318004+00:00",
-      "added_by": 1336489586276175902,
-      "timestamp_utc": "2025-06-02T12:24:58.318173+00:00",
-      "auto_login": false,
-      "username": "stuartwaslittle"
-    },
-    "838498353989156914": {
-      "uuid": "b46eb7cf-bc81-4295-8bfd-87169474daaf",
-      "expiry_utc": "2052-10-17T15:46:19.689166+00:00",
-      "added_by": 1336489586276175902,
-      "timestamp_utc": "2025-06-02T15:46:19.689251+00:00",
-      "auto_login": false,
-      "username": "hwpx"
-    },
-    "1206774535651598407": {
-      "uuid": "e8e7756a-2fa9-4e71-86a9-aca17b42e9f4",
-      "expiry_utc": "2052-10-25T21:45:20.153865+00:00",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-06-10T21:45:20.153913+00:00"
-    },
-    "762513556691484672": {
-      "uuid": "20e529fc-1c6f-4ac6-af96-31dde3add519",
-      "expiry_utc": "2052-10-18T05:30:16.346151+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-03T05:30:16.346310+00:00",
-      "auto_login": false,
-      "username": "25zk"
-    },
-    "1199218909526622291": {
-      "uuid": "acd907d3-f05e-4bfa-a394-c1bb72ae62fd",
-      "expiry_utc": "2052-10-18T09:02:45.841274+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-03T09:02:45.841340+00:00"
-    },
-    "1291472033514917988": {
-      "uuid": "270cf59e-545a-4978-8ed5-a6c005bfe51a",
-      "expiry_utc": "permanent",
-      "auto_login": true,
-      "timestamp_utc": "2025-06-03T18:22:12.810115+00:00"
-    },
-    "882008278182285362": {
-      "uuid": "5791777c-100b-470d-a545-4bf3266ff7c4",
-      "expiry_utc": "2028-02-27T19:21:38.362212+00:00",
-      "added_by": 1336489586276175902,
-      "timestamp_utc": "2025-06-03T19:21:38.362273+00:00",
-      "auto_login": true
-    },
-    "1359328986957611193": {
-      "uuid": "c5ab55dd-4511-4d6f-8890-9db0c6c18ff8",
-      "expiry_utc": "2052-10-18T20:11:38.527370+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-03T20:11:38.527422+00:00",
-      "auto_login": false,
-      "username": "deorbags"
-    },
-    "1334134553849106454": {
-      "uuid": "1532d413-ad55-45ed-aa3d-72d7d9b63a22",
-      "expiry_utc": "2025-07-04T01:51:10.626203+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-04T01:51:10.626272+00:00"
-    },
-    "382302160706207746": {
-      "uuid": "ffa446af-1db2-45f0-b73d-0701eff0732b",
-      "expiry_utc": "2025-07-04T18:25:14.364895+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-04T18:25:14.364968+00:00",
-      "auto_login": false
-    },
-    "1190003563489939568": {
-      "uuid": "c802ab5e-8017-4fd2-ae66-5d0ce7fd2be0",
-      "expiry_utc": "permanent",
-      "auto_login": true,
-      "timestamp_utc": "2025-06-06T08:10:38.716121+00:00"
-    },
-    "787722947279192144": {
-      "username": "7f71",
-      "uuid": "6ac7528b-4ac2-474b-ac98-1909fe1d8e81",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-28T18:40:36.351720+00:00",
-      "auto_login": false
-    },
-    "1293591758512324624": {
-      "uuid": "76bef0cf-05f8-440d-90d1-98fd632246cb",
-      "expiry_utc": "2052-10-24T19:26:40.909652+00:00",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-06-09T19:26:40.909706+00:00",
-      "username": "q067",
-      "auto_login": false
+    "allowed_users": {
+        "1200098167799152802": {
+            "uuid": "db4991f7-36f3-4671-a830-eb1a6e4e7d9b",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-18T17:59:53.065065+00:00"
+        },
+        "946050214148575294": {
+            "uuid": "de8a3d9d-0f1f-4885-8bbe-8e37f3e4c962",
+            "expiry_utc": "permanent",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-05-18T18:53:07.697416+00:00"
+        },
+        "846715266587164673": {
+            "uuid": "acaba96b-cef6-4a5d-a253-de68bbd2a737",
+            "expiry_utc": "2025-06-17T19:02:55.298561+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-18T19:02:55.298621+00:00",
+            "auto_login": false
+        },
+        "1255644819766775840": {
+            "uuid": "4814f2ea-e31a-473b-9a81-5ed3bdb175f9",
+            "expiry_utc": "2052-10-02T19:39:48.158250+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-18T19:39:48.158316+00:00",
+            "auto_login": true,
+            "username": "vollytile"
+        },
+        "1225887163430998178": {
+            "uuid": "4f354c83-cac2-4714-8c70-9ad82972d427",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-18T19:44:09.822968+00:00",
+            "username": "geekk_"
+        },
+        "1022668509722988634": {
+            "uuid": "a9d78f93-7960-432b-997c-22eaacd03acc",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-24T00:01:41.894Z"
+        },
+        "1202378977239646228": {
+            "uuid": "e69e72e9-8bf0-4317-b000-62db04d43a67",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-18T20:08:22.396697+00:00"
+        },
+        "1208640387913351192": {
+            "uuid": "38740f02-dbf6-4e27-b292-44ded407fd62",
+            "expiry_utc": "permanent",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-18T22:33:50.616948+00:00",
+            "auto_login": false
+        },
+        "1184889434580201584": {
+            "uuid": "7f030fab-3bc4-4e4b-b6e3-b81ac90e19e2",
+            "expiry_utc": "permanent",
+            "auto_login": true,
+            "timestamp_utc": "2025-05-18T21:38:58.901743+00:00"
+        },
+        "756611242138927145": {
+            "uuid": "b23735d8-37dc-4445-a690-cd264ad13b51",
+            "expiry_utc": "permanent",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-02T19:02:43.305662+00:00",
+            "auto_login": false
+        },
+        "397166681488621571": {
+            "uuid": "bbbe4d93-c3c0-400f-9b09-87b5d11cf8e5",
+            "expiry_utc": "2052-10-03T04:32:38.312919+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-19T04:32:38.312976+00:00"
+        },
+        "821273622373990440": {
+            "uuid": "1daedc8c-4b94-4b88-ab23-83fc94f197d5",
+            "expiry_utc": "2052-10-03T04:33:00.578590+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-19T04:33:00.578651+00:00"
+        },
+        "1356094450534842601": {
+            "uuid": "f7231c02-628c-4a56-9e06-7a1a24a33ead",
+            "expiry_utc": "2052-10-03T04:33:19.058145+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-19T04:33:19.058206+00:00"
+        },
+        "628505008719003648": {
+            "uuid": "93e53af5-8191-46e8-9f4b-7afd9f541c56",
+            "expiry_utc": "2052-10-03T04:33:42.350453+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-19T04:33:42.350524+00:00",
+            "username": ".n4nu.",
+            "auto_login": false
+        },
+        "1243415946597629995": {
+            "uuid": "a1c6cd99-84a6-4873-90b5-38223892d57b",
+            "expiry_utc": "2052-10-03T04:34:12.445766+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-19T04:34:12.445825+00:00"
+        },
+        "1288864629602390078": {
+            "uuid": "2e8e6074-dcde-49d6-8df2-d47af3b0e713",
+            "expiry_utc": "permanent",
+            "auto_login": true,
+            "timestamp_utc": "2025-05-19T04:34:48.633727+00:00"
+        },
+        "1123827178690322482": {
+            "uuid": "1bbb2ada-def7-44e4-8d68-edc998819b9f",
+            "expiry_utc": "2052-10-03T04:41:09.983630+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-19T04:41:09.983718+00:00",
+            "auto_login": false
+        },
+        "1277177990073155616": {
+            "uuid": "d2f130b6-6c44-467f-96ba-091ea8ce6b9d",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-19T11:17:58.650473+00:00",
+            "username": "suiiica7fanboy"
+        },
+        "1320364097031766026": {
+            "uuid": "059387c7-f1c3-4268-9e04-4ad35c54b43b",
+            "expiry_utc": "permanent",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-19T23:15:33.786047+00:00",
+            "auto_login": true
+        },
+        "1310728512809865326": {
+            "uuid": "d495ed1d-f5c7-4d46-87fe-4c9f5b48b0cb",
+            "expiry_utc": "2052-10-04T20:11:52.873682+00:00",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-05-20T20:11:52.873758+00:00",
+            "auto_login": false,
+            "username": "comterno0"
+        },
+        "769137037214220299": {
+            "uuid": "8b8f7448-528c-4fdf-bc3f-9678309a7767",
+            "expiry_utc": "permanent",
+            "auto_login": true,
+            "timestamp_utc": "2025-05-20T03:12:00.486089+00:00"
+        },
+        "1276837903993016343": {
+            "uuid": "f0eb8e8e-89d5-443f-a6b1-6bd40cafe7f0",
+            "expiry_utc": "permanent",
+            "auto_login": true,
+            "timestamp_utc": "2025-05-20T08:16:56.718855+00:00",
+            "username": "ruincoms"
+        },
+        "172045823872335872": {
+            "uuid": "53aa47a3-4152-4493-8093-bf756054fcef",
+            "expiry_utc": "permanent",
+            "added_by": 1336489586276176000,
+            "timestamp_utc": "2025-05-20T22:33:38.023416+00:00",
+            "auto_login": false
+        },
+        "1177011916158279763": {
+            "uuid": "d87d9032-ff62-4f48-8137-854eb089e88b",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-21T00:29:51.737647+00:00"
+        },
+        "1189680228440756234": {
+            "uuid": "3b1a8e6f-d6d6-495d-8e49-d0347849944d",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-21T03:11:12.115695+00:00"
+        },
+        "790842912207274045": {
+            "uuid": "e316f5ef-7309-44a1-93c3-2f91e742ad77",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-21T13:41:28.348180+00:00"
+        },
+        "1028281810733498378": {
+            "uuid": "173f5c26-5b56-4e29-814c-eb53dd9f9730",
+            "expiry_utc": "2025-07-20T15:55:26.183131+00:00",
+            "added_by": 1336489586276176000,
+            "timestamp_utc": "2025-05-21T15:55:26.183256+00:00"
+        },
+        "804338905629327370": {
+            "uuid": "24232ccb-3cf4-4480-bff4-5c8bac0662d7",
+            "expiry_utc": "2052-10-05T19:48:57.389585+00:00",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-05-21T19:48:57.389651+00:00",
+            "auto_login": false
+        },
+        "1332718708077891726": {
+            "uuid": "76bb1b81-cd2b-4894-a5dc-267af6512404",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-22T18:51:09.196536+00:00",
+            "username": "thahubguy"
+        },
+        "1134606847769321643": {
+            "uuid": "a4816a1c-033e-4f12-ad14-1e6ce130528e",
+            "expiry_utc": "2052-10-08T00:12:05.847173+00:00",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-05-24T00:12:05.847173+00:00",
+            "auto_login": true,
+            "username": "luastate",
+            "discord_access_token": "MTI5NTU1NzA4NDM4MDc5NDk3MQ.2ubB0RabX2fwKoYRcyF8CZ0vy0wgdc"
+        },
+        "1361934444755292362": {
+            "uuid": "56fd4bc2-1d87-4a05-be68-5aaa63761b3b",
+            "expiry_utc": "permanent",
+            "auto_login": true,
+            "added_by": "AdminPanel",
+            "timestamp_utc": "2025-05-24T00:01:08.119Z"
+        },
+        "1112878322402197674": {
+            "uuid": "430b29f7-8dad-4029-9671-216a1bb04502",
+            "expiry_utc": "2025-06-23T00:32:00.712218+00:00",
+            "added_by": 1336489586276176000,
+            "timestamp_utc": "2025-05-24T00:32:00.712218+00:00"
+        },
+        "1301279447017717854": {
+            "uuid": "0189b18a-b187-4a14-8ce6-b1d0b0f0aecd",
+            "expiry_utc": "2052-10-08T00:42:32.396022+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-24T00:42:32.396022+00:00"
+        },
+        "1368493672848687134": {
+            "uuid": "659c9a65-9408-4be8-bc91-b4a61cf78e3a",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-24T01:26:05.611151+00:00"
+        },
+        "1372258900912635924": {
+            "uuid": "af7a72e5-8540-4426-8e53-6a9ad0e7d298",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-24T06:54:46.832333+00:00"
+        },
+        "1215801414513590302": {
+            "uuid": "a857f57f-282c-4694-8459-e7bcc2633159",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-25T18:44:44.037097+00:00"
+        },
+        "1360307975973244989": {
+            "uuid": "1c2fa097-6517-4d43-b75b-7009b92d889f",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-25T23:48:36.556548+00:00"
+        },
+        "1118377251449360427": {
+            "uuid": "33b6102c-792e-46e1-9c3a-2df6f06224b4",
+            "expiry_utc": "permanent",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-05-26T18:36:09.921555+00:00",
+            "auto_login": false
+        },
+        "843079947321081876": {
+            "username": "beaxzo.",
+            "uuid": "b39ec27b-5040-4fd7-8e95-5573f2b1d409",
+            "expiry_utc": "2025-07-13T21:33:15.219442+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-13T21:33:15.219506+00:00",
+            "auto_login": false
+        },
+        "917342952454516737": {
+            "uuid": "8b17f5da-29b5-45c5-9a94-652abf4e9b00",
+            "expiry_utc": "permanent",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-05-27T19:26:58.165187+00:00",
+            "auto_login": true
+        },
+        "591719225832374272": {
+            "uuid": "d907ae94-462b-4ccc-8277-77ffcf02cab4",
+            "expiry_utc": "permanent",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-05-27T19:27:28.715312+00:00"
+        },
+        "1289446052826710087": {
+            "uuid": "21182750-7cc4-4104-80ce-5097b0f9450a",
+            "expiry_utc": "2052-10-12T19:32:46.551353+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-28T19:32:46.551353+00:00",
+            "auto_login": false
+        },
+        "1359371526582964276": {
+            "uuid": "cbd8bbd4-523b-42fa-88fe-c813cad9a7bd",
+            "expiry_utc": "2052-10-12T22:24:44.761493+00:00",
+            "added_by": 1336489586276176000,
+            "timestamp_utc": "2025-05-28T22:24:44.761579+00:00",
+            "auto_login": true
+        },
+        "1268188145053077577": {
+            "uuid": "23a082e3-d84e-4458-8a54-2c0ca6e22542",
+            "expiry_utc": "2052-10-12T23:48:53.339602+00:00",
+            "added_by": 1336489586276176000,
+            "timestamp_utc": "2025-05-28T23:48:53.339691+00:00",
+            "auto_login": false
+        },
+        "1316234003170201640": {
+            "uuid": "5af2f858-6d42-4474-8aba-3b3d8e1b4b66",
+            "expiry_utc": "permanent",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-29T03:36:10.718162+00:00",
+            "auto_login": false
+        },
+        "1335175222441021491": {
+            "uuid": "a3343acf-5e9d-44c5-a7fc-c069c7331a69",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-29T08:00:03.341406+00:00"
+        },
+        "776487512033067028": {
+            "uuid": "ed643f4b-75a4-44be-9968-793b85779bb0",
+            "expiry_utc": "2025-06-28T11:17:44.392173+00:00",
+            "added_by": 1336489586276176000,
+            "timestamp_utc": "2025-05-29T11:17:44.392254+00:00",
+            "auto_login": false
+        },
+        "1223359053544296448": {
+            "uuid": "9b7a22d6-0445-4eb3-9fcc-5e5ff43d17c2",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-29T21:22:24.620473+00:00",
+            "username": "talkingsense"
+        },
+        "1071171847971946658": {
+            "uuid": "7bc06209-d84c-4398-a809-aa7d601c1a14",
+            "expiry_utc": "permanent",
+            "auto_login": true,
+            "timestamp_utc": "2025-05-30T00:59:56.029212+00:00"
+        },
+        "1325396130946744342": {
+            "uuid": "389a6331-b0e2-4700-bc0a-da883be6ba28",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-05-30T01:09:28.634381+00:00"
+        },
+        "1026227284140621935": {
+            "uuid": "c9a012dc-d3d4-44c0-a3fc-e6cb266add48",
+            "expiry_utc": "2052-10-15T16:53:48.312831+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-31T16:53:48.312881+00:00",
+            "auto_login": false,
+            "username": "tino.trippin"
+        },
+        "1091927948589813850": {
+            "uuid": "43a51588-193c-47c2-b4a8-b08a72bdb0c3",
+            "expiry_utc": "2025-06-30T22:19:54.091325+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-05-31T22:19:54.091382+00:00",
+            "auto_login": true
+        },
+        "979640572711166024": {
+            "uuid": "54318627-7f09-4841-8858-6f8231cb4591",
+            "expiry_utc": "2052-10-16T01:09:33.580517+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-01T01:09:33.580589+00:00",
+            "username": "buddyzeze.",
+            "auto_login": false
+        },
+        "1343295941632987197": {
+            "uuid": "8c9ac680-98a4-4453-bfe5-dd0fe42f402e",
+            "expiry_utc": "2052-10-17T01:05:21.884190+00:00",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-06-02T01:05:21.884242+00:00",
+            "auto_login": false
+        },
+        "1266162720789626932": {
+            "uuid": "3c957307-a08f-4e48-a8c2-39476b448d49",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-06-01T03:28:26.912824+00:00"
+        },
+        "294898080044548098": {
+            "uuid": "1ffece32-d44a-4695-8d94-dde907fbe3e4",
+            "expiry_utc": "2052-10-16T03:49:26.028832+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-01T03:49:26.028893+00:00",
+            "auto_login": false
+        },
+        "334743326932729857": {
+            "uuid": "039be4df-0419-4382-9ded-b038992d8248",
+            "expiry_utc": "2025-07-01T08:44:16.095706+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-01T08:44:16.095840+00:00",
+            "auto_login": false
+        },
+        "1168086480493756464": {
+            "uuid": "34c8082f-6895-4b59-8cb7-650536f6dcab",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-06-01T13:47:43.039391+00:00",
+            "username": "dffewf"
+        },
+        "1196781889642569728": {
+            "uuid": "8da48534-c30b-470e-b48e-1627b63f7728",
+            "expiry_utc": "2025-07-01T16:01:20.075757+00:00",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-06-01T16:01:20.075807+00:00",
+            "auto_login": false,
+            "username": "pulsexc"
+        },
+        "254577507964026880": {
+            "uuid": "cddee6f0-c730-4b51-8083-1f55e1125770",
+            "expiry_utc": "2052-10-17T01:15:00.337537+00:00",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-06-02T01:15:00.337587+00:00",
+            "auto_login": true
+        },
+        "1306675673699713207": {
+            "uuid": "48abf41a-ba9a-4d92-88c5-21d3c4131701",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-06-02T10:55:51.083024+00:00"
+        },
+        "1359342962697572433": {
+            "uuid": "3a19d88f-ced0-4f69-ba4f-d62c2d7bbe4c",
+            "expiry_utc": "2052-10-17T12:24:58.318004+00:00",
+            "added_by": 1336489586276176000,
+            "timestamp_utc": "2025-06-02T12:24:58.318173+00:00",
+            "auto_login": false,
+            "username": "stuartwaslittle"
+        },
+        "838498353989156914": {
+            "uuid": "b46eb7cf-bc81-4295-8bfd-87169474daaf",
+            "expiry_utc": "2052-10-17T15:46:19.689166+00:00",
+            "added_by": 1336489586276176000,
+            "timestamp_utc": "2025-06-02T15:46:19.689251+00:00",
+            "auto_login": false,
+            "username": "hwpx"
+        },
+        "1206774535651598407": {
+            "uuid": "e8e7756a-2fa9-4e71-86a9-aca17b42e9f4",
+            "expiry_utc": "2052-10-25T21:45:20.153865+00:00",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-06-10T21:45:20.153913+00:00"
+        },
+        "762513556691484672": {
+            "uuid": "20e529fc-1c6f-4ac6-af96-31dde3add519",
+            "expiry_utc": "2052-10-18T05:30:16.346151+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-03T05:30:16.346310+00:00",
+            "auto_login": false,
+            "username": "25zk"
+        },
+        "1199218909526622291": {
+            "uuid": "acd907d3-f05e-4bfa-a394-c1bb72ae62fd",
+            "expiry_utc": "2052-10-18T09:02:45.841274+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-03T09:02:45.841340+00:00"
+        },
+        "1291472033514917988": {
+            "uuid": "270cf59e-545a-4978-8ed5-a6c005bfe51a",
+            "expiry_utc": "permanent",
+            "auto_login": true,
+            "timestamp_utc": "2025-06-03T18:22:12.810115+00:00"
+        },
+        "882008278182285362": {
+            "uuid": "5791777c-100b-470d-a545-4bf3266ff7c4",
+            "expiry_utc": "2028-02-27T19:21:38.362212+00:00",
+            "added_by": 1336489586276176000,
+            "timestamp_utc": "2025-06-03T19:21:38.362273+00:00",
+            "auto_login": true
+        },
+        "1359328986957611193": {
+            "uuid": "c5ab55dd-4511-4d6f-8890-9db0c6c18ff8",
+            "expiry_utc": "2052-10-18T20:11:38.527370+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-03T20:11:38.527422+00:00",
+            "auto_login": false,
+            "username": "deorbags"
+        },
+        "1334134553849106454": {
+            "uuid": "1532d413-ad55-45ed-aa3d-72d7d9b63a22",
+            "expiry_utc": "2025-07-04T01:51:10.626203+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-04T01:51:10.626272+00:00"
+        },
+        "382302160706207746": {
+            "uuid": "ffa446af-1db2-45f0-b73d-0701eff0732b",
+            "expiry_utc": "2025-07-04T18:25:14.364895+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-04T18:25:14.364968+00:00",
+            "auto_login": false
+        },
+        "1190003563489939568": {
+            "uuid": "c802ab5e-8017-4fd2-ae66-5d0ce7fd2be0",
+            "expiry_utc": "permanent",
+            "auto_login": true,
+            "timestamp_utc": "2025-06-06T08:10:38.716121+00:00"
+        },
+        "787722947279192144": {
+            "username": "7f71",
+            "uuid": "6ac7528b-4ac2-474b-ac98-1909fe1d8e81",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-28T18:40:36.351720+00:00",
+            "auto_login": false
+        },
+        "1293591758512324624": {
+            "uuid": "76bef0cf-05f8-440d-90d1-98fd632246cb",
+            "expiry_utc": "2052-10-24T19:26:40.909652+00:00",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-06-09T19:26:40.909706+00:00",
+            "username": "q067",
+            "auto_login": false
+        },
+        "668873770697752647": {
+            "uuid": "04268ad0-833b-4b20-b6fb-29b07da92e9c",
+            "expiry_utc": "2052-10-22T21:37:08.395975+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-07T21:37:08.396036+00:00",
+            "auto_login": false,
+            "timestamp": "2025-06-24T01:29:11.795175+00:00"
+        },
+        "1105770435540422666": {
+            "uuid": "04dada3c-27f0-4296-b4e3-b2a1ce18abc0",
+            "expiry_utc": "permanent",
+            "auto_login": false,
+            "timestamp_utc": "2025-06-08T16:56:35.362116+00:00"
+        },
+        "1324136311300423732": {
+            "uuid": "832ae121-7901-4417-8e7c-242cd940027b",
+            "expiry_utc": "2052-10-23T22:29:29.492049+00:00",
+            "added_by": 1316234003170201600,
+            "timestamp_utc": "2025-06-08T22:29:29.492097+00:00",
+            "auto_login": false
+        },
+        "521750311946420241": {
+            "username": "ejebk",
+            "uuid": "4afa67f4-0d21-4143-b5bb-78304626cba9",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-25T03:17:15.208059+00:00",
+            "auto_login": false
+        },
+        "1335325329031565403": {
+            "username": "olafskiiiii",
+            "uuid": "ac18e499-e891-412e-af21-93f825ae8133",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-23T02:25:20.029170+00:00",
+            "auto_login": false
+        },
+        "433730583701618691": {
+            "uuid": "dbc3f264-4137-4fa3-a2f9-0d4e0d9bbac6",
+            "expiry_utc": "2052-10-26T01:09:59.021925+00:00",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-06-11T01:09:59.021972+00:00",
+            "auto_login": true,
+            "username": "mi_z_u"
+        },
+        "990302894706266172": {
+            "uuid": "9b12a929-5da3-4cec-87a2-1d4cd8e2f1b6",
+            "expiry_utc": "2049-10-09T23:18:36.035773+00:00",
+            "added_by": 1158085809400975400,
+            "timestamp_utc": "2025-06-09T23:18:36.035847+00:00",
+            "username": "kaigetsbread",
+            "auto_login": false
+        },
+        "1009711483661332561": {
+            "username": "2t2real",
+            "uuid": "a150b019-a3a8-4081-801e-1e7728acd021",
+            "expiry_utc": "2025-07-11T07:18:41.523225+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-11T07:18:41.523305+00:00",
+            "auto_login": true
+        },
+        "436550563841179648": {
+            "username": "mono80x5",
+            "uuid": "49795837-5fe4-41ef-89a5-467e0b282f4b",
+            "expiry_utc": "2052-10-26T08:29:48.424346+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-11T08:29:48.424393+00:00",
+            "auto_login": false
+        },
+        "1146169507828727865": {
+            "username": "grimf4tefanboy",
+            "uuid": "00c59c87-1e93-4b89-ae8b-a3f1fd084e3d",
+            "expiry_utc": "2052-10-27T01:22:39.303458+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-12T01:22:39.303504+00:00",
+            "auto_login": false
+        },
+        "1323318718121512980": {
+            "username": "enzokvr",
+            "uuid": "b24a7690-7fee-436a-afd6-ae80ab6ba11e",
+            "expiry_utc": "2052-10-27T03:20:11.400827+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-12T03:20:11.400896+00:00",
+            "auto_login": false
+        },
+        "1311141397436567572": {
+            "username": "designrhabits",
+            "uuid": "c63f341c-b78c-4323-803d-9fe09c8dbc0e",
+            "expiry_utc": "2025-07-12T04:57:34.211809+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-12T04:57:34.211857+00:00",
+            "auto_login": false
+        },
+        "1233813789363667116": {
+            "username": "paajins.",
+            "uuid": "d72bf232-1fc6-4ff6-96ee-13d6b9b521c2",
+            "expiry_utc": "2052-10-27T05:26:08.886866+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-12T05:26:08.886936+00:00",
+            "auto_login": false
+        },
+        "923736390473248788": {
+            "username": "vn4p",
+            "uuid": "f339a66a-fb66-45d9-9a1a-49d85a2f83a6",
+            "expiry_utc": "2025-07-12T08:40:47.588251+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-12T08:40:47.588296+00:00",
+            "auto_login": false
+        },
+        "1063201151262142515": {
+            "username": "hen_st",
+            "uuid": "22b9a46d-ae50-4f68-b899-31b04983db28",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-12T16:48:18.282140+00:00",
+            "auto_login": false
+        },
+        "1358721625960484917": {
+            "username": "phetmine",
+            "uuid": "c4c8c174-1f03-438d-b1b0-48c5e7ad3d37",
+            "expiry_utc": "permanent",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-12T20:35:25.591897+00:00",
+            "auto_login": false
+        },
+        "684200997853462566": {
+            "username": ".vdjf",
+            "uuid": "8d7a573f-a63e-41a5-bd1e-ebf3ea6b273b",
+            "expiry_utc": "2052-10-27T21:26:51.977334+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-12T21:26:51.977382+00:00",
+            "auto_login": false
+        },
+        "1242518031708721313": {
+            "username": "rmuc",
+            "uuid": "e2d8d13b-e1c4-4bfe-a153-81c241448de6",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-13T04:00:21.905604+00:00",
+            "auto_login": false
+        },
+        "877004378270220369": {
+            "username": "ah35",
+            "uuid": "3a215fc9-f866-4f50-8dfa-2400fac6401c",
+            "expiry_utc": "2025-07-13T06:46:07.482284+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-13T06:46:07.482344+00:00",
+            "auto_login": true
+        },
+        "455163434577952768": {
+            "username": "51912",
+            "uuid": "82fa8c40-790b-4c80-a396-84561e3defee",
+            "expiry_utc": "2052-10-28T07:07:56.020788+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-13T07:07:56.020842+00:00",
+            "auto_login": true
+        },
+        "1207286744278372374": {
+            "username": "1ov0n0",
+            "uuid": "02254d59-9d88-4012-97f8-3631971fbc6e",
+            "expiry_utc": "2025-07-13T11:38:40.307906+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-13T11:38:40.308160+00:00",
+            "auto_login": false
+        },
+        "802668221509402644": {
+            "username": "karre225",
+            "uuid": "336dc6e1-5ec6-4f7b-b9fe-6c265cb76cf1",
+            "expiry_utc": "2025-07-13T11:50:46.040496+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-13T11:50:46.040560+00:00",
+            "auto_login": true
+        },
+        "1187507795113803776": {
+            "username": "somewizardry",
+            "uuid": "b9f1ab7a-8c02-4051-b067-5984d8f6d85c",
+            "expiry_utc": "2052-10-28T20:25:52.659361+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-13T20:25:52.659447+00:00",
+            "auto_login": true
+        },
+        "874634739724730418": {
+            "username": "clienthack_tw",
+            "uuid": "bc29d5fc-eee9-45b4-adeb-2113cf22dd9f",
+            "expiry_utc": "2025-07-13T20:49:44.453874+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-13T20:49:44.453952+00:00",
+            "auto_login": false
+        },
+        "529551442449661972": {
+            "username": "its_justshay",
+            "uuid": "4d6d2c6f-0b26-4c6f-9c27-a2beb746714b",
+            "expiry_utc": "2052-10-28T21:10:05.119023+00:00",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-13T21:10:05.119078+00:00",
+            "auto_login": false
+        },
+        "1158849690616479764": {
+            "username": "usingslvrs",
+            "uuid": "60ebe934-75cd-473b-a6dc-50c4723b9cbf",
+            "expiry_utc": "permanent",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-13T22:35:40.203874+00:00",
+            "auto_login": false
+        },
+        "620011626313023501": {
+            "username": "luvsov",
+            "uuid": "c067b136-c40f-4d40-8a8f-bcdee060c6ae",
+            "expiry_utc": "2052-10-28T22:16:20.392207+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-13T22:16:20.392269+00:00",
+            "auto_login": true
+        },
+        "997505480651985026": {
+            "username": "voidyuh1",
+            "uuid": "d97a6cc6-39ce-4c30-bef1-cdf755cc39da",
+            "expiry_utc": "2052-10-29T01:19:05.735607+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-14T01:19:05.735680+00:00",
+            "auto_login": true
+        },
+        "1361101520049012856": {
+            "username": "cbva",
+            "uuid": "b220569f-4607-4149-9978-15e77203a379",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-14T02:18:43.682542+00:00",
+            "auto_login": true
+        },
+        "710191838904188958": {
+            "username": "heaven.exe",
+            "uuid": "9a4e99ae-fc1c-46a7-8a2f-b7f08ebde70e",
+            "expiry_utc": "2052-10-29T03:02:22.153358+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-14T03:02:22.153513+00:00",
+            "auto_login": true
+        },
+        "902617250433994792": {
+            "username": "ppp03k7858",
+            "uuid": "d8d4082a-89f6-426c-9658-61a47619fd12",
+            "expiry_utc": "2052-10-29T03:02:24.060357+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-14T03:02:24.060404+00:00",
+            "auto_login": true
+        },
+        "752593667977510963": {
+            "username": "xorrex.",
+            "uuid": "83f52e6a-ca82-4c89-9fe8-324a5ed550b9",
+            "expiry_utc": "permanent",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-14T03:19:59.685542+00:00",
+            "auto_login": true
+        },
+        "746509997621510155": {
+            "username": "ferretgods",
+            "uuid": "9e130778-931a-4802-8f73-51d1f520a6d4",
+            "expiry_utc": "2052-10-29T06:47:21.664784+00:00",
+            "added_by": "1316234003170201640",
+            "timestamp_utc": "2025-06-14T06:47:21.664839+00:00",
+            "auto_login": true
+        },
+        "1338334454711713833": {
+            "username": "unchainedluke",
+            "uuid": "b6889e34-0b83-4c3e-9024-817b6eef48d3",
+            "expiry_utc": "2052-10-31T03:59:24.821640+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-16T03:59:24.821734+00:00",
+            "auto_login": true
+        },
+        "1363412528939536444": {
+            "username": "8lxa",
+            "uuid": "0f537120-3be9-48c5-88b6-bb2c32c66061",
+            "expiry_utc": "2025-07-14T08:44:42.788915+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-14T08:44:42.788997+00:00",
+            "auto_login": true
+        },
+        "1337369737625341995": {
+            "username": "soph2freaky",
+            "uuid": "123efdbd-aeb4-4881-b4de-d71d7e61a500",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-14T12:05:16.798241+00:00",
+            "auto_login": false
+        },
+        "1276324962113945691": {
+            "username": "yg7o",
+            "uuid": "f7408d29-a1bc-4875-b776-7e0d82a5f9c2",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-14T14:01:36.993180+00:00",
+            "auto_login": true
+        },
+        "470330202560659458": {
+            "username": "monterrain",
+            "uuid": "214a9c3e-21b1-42e4-9ec8-4f2c101fc66a",
+            "expiry_utc": "2025-07-14T17:04:02.330390+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-14T17:04:02.330451+00:00",
+            "auto_login": false
+        },
+        "990343525860270110": {
+            "username": "fqn.",
+            "uuid": "318fb876-0084-4f50-8b3d-e1fd8496cb2a",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-15T02:57:24.824093+00:00",
+            "auto_login": true
+        },
+        "1322689459673628732": {
+            "username": "551yato",
+            "uuid": "61209279-148c-4f6d-aba8-e526858ef616",
+            "expiry_utc": "2052-10-30T15:40:56.949939+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T15:40:56.950013+00:00",
+            "auto_login": true
+        },
+        "1261685033903718431": {
+            "username": "dayokaas123",
+            "uuid": "a814c40a-46a8-47d4-b7eb-868864422270",
+            "expiry_utc": "2052-10-30T15:41:18.031492+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T15:41:18.031558+00:00",
+            "auto_login": true
+        },
+        "1014065732742561863": {
+            "username": "harmfuldose",
+            "uuid": "298c86a2-718f-445b-9da7-1a44aa89a9d7",
+            "expiry_utc": "2052-10-30T15:41:59.639571+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T15:41:59.639648+00:00",
+            "auto_login": true
+        },
+        "1148971502050492416": {
+            "username": "bbtsyyv",
+            "uuid": "32c37d57-c480-4298-9689-724d2368f134",
+            "expiry_utc": "2052-10-30T16:04:28.324062+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T16:04:28.324122+00:00",
+            "auto_login": true
+        },
+        "946898257441853491": {
+            "username": "iqcq",
+            "uuid": "f3991ff9-eabf-4b6c-87ec-922b3e480dd3",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T17:26:00.071295+00:00",
+            "auto_login": false
+        },
+        "259987474229493760": {
+            "username": "njgz",
+            "uuid": "b09701d1-6386-4a8c-8453-1095a7db22c3",
+            "expiry_utc": "2052-10-31T19:08:44.029218+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-16T19:08:44.029274+00:00",
+            "auto_login": true
+        },
+        "544203729461837825": {
+            "username": "neverott",
+            "uuid": "dea0c8d6-9e1a-47ea-a9b6-52873c0c76db",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T20:11:27.505945+00:00",
+            "auto_login": true
+        },
+        "700872939133993048": {
+            "username": "triolocks",
+            "uuid": "83860079-ca94-48e1-a279-0c3a04ad34ba",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T20:11:54.419185+00:00",
+            "auto_login": true
+        },
+        "1120851776330014800": {
+            "username": "ledj__",
+            "uuid": "40128877-ea01-4d5a-a5bd-9af530c6aa14",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T21:37:13.123651+00:00",
+            "auto_login": true
+        },
+        "792310967652450344": {
+            "username": "zeokniet",
+            "uuid": "270a99fe-2d4c-41dd-8041-6f15ebde3a26",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T22:36:19.728193+00:00",
+            "auto_login": false
+        },
+        "1335728347828977756": {
+            "username": "sfdi",
+            "uuid": "41c5627e-2588-42a6-bb9a-12ca78646b29",
+            "expiry_utc": "2052-10-30T22:52:35.603437+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T22:52:35.603485+00:00",
+            "auto_login": true
+        },
+        "471023785060073472": {
+            "username": "ignaciohustler",
+            "uuid": "654cf786-bfaa-416e-b055-de6433370047",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-15T23:00:55.300770+00:00",
+            "auto_login": true
+        },
+        "1369353150808461392": {
+            "username": "______________cut",
+            "uuid": "21d15e46-8b43-4991-8739-adc5823dca0b",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-16T20:16:06.332759+00:00",
+            "auto_login": true
+        },
+        "1097592731720765570": {
+            "username": "hxron_",
+            "uuid": "7f91ac12-b48f-4692-b822-ae7c85eed738",
+            "expiry_utc": "2052-10-31T20:17:12.111364+00:00",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-16T20:17:12.111419+00:00",
+            "auto_login": true
+        },
+        "1242904298967404690": {
+            "username": "aswqex",
+            "uuid": "3fceb30d-2d48-4676-961e-1b2910d64f3a",
+            "expiry_utc": "2025-07-17T20:20:45.599298+00:00",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-16T20:20:45.599346+00:00",
+            "auto_login": true
+        },
+        "1277101781725478912": {
+            "username": "somekinds",
+            "uuid": "b67118a5-5217-43a3-ad56-b204dfb9add0",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-23T15:32:13.516555+00:00",
+            "auto_login": false
+        },
+        "979733817755590676": {
+            "username": "_.dollars",
+            "uuid": "468b4ca0-7dda-4799-a2b2-9a25b0a183a7",
+            "expiry_utc": "2052-10-31T22:46:53.271012+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-16T22:46:53.271092+00:00",
+            "auto_login": true
+        },
+        "1169747467198283809": {
+            "username": "zr.11",
+            "uuid": "b2145409-66c4-4e7e-b6de-181dc0af4851",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-17T08:07:39.332920+00:00",
+            "auto_login": false
+        },
+        "1345691245007343680": {
+            "username": "directwhatisthis",
+            "uuid": "fc369f7c-5ffc-4b78-9f74-6a363415dbd1",
+            "expiry_utc": "2025-07-18T11:43:28.583297+00:00",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-17T11:43:28.583408+00:00",
+            "auto_login": false
+        },
+        "244919720162230273": {
+            "username": "sadfamilies",
+            "uuid": "7f9f01b4-6ea7-4faf-b723-def3e04d9e76",
+            "expiry_utc": "2052-11-01T11:53:32.506193+00:00",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-17T11:53:32.506247+00:00",
+            "auto_login": true
+        },
+        "949596283012792361": {
+            "username": "sadrine39624",
+            "uuid": "f1942de0-9aab-4ad0-8ecc-15f02b62193f",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-17T20:26:03.883029+00:00",
+            "auto_login": false
+        },
+        "950561635339235348": {
+            "username": "solx.dnd",
+            "uuid": "d4aca9a1-0635-40c3-951d-05ec9289979d",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-17T21:47:44.422888+00:00",
+            "auto_login": true
+        },
+        "795483289665404949": {
+            "username": "storyofkoby",
+            "uuid": "9a336be5-19f7-4c77-adff-cb2a4b76cdc3",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-18T00:10:19.102403+00:00",
+            "auto_login": true
+        },
+        "1237263804958773340": {
+            "username": "bigjohnn42",
+            "uuid": "3a9eee39-2ff2-4527-99d1-ca216237be53",
+            "expiry_utc": "2052-11-02T01:28:03.809081+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-18T01:28:03.809158+00:00",
+            "auto_login": false
+        },
+        "1320791090722508870": {
+            "username": "watchoumnc",
+            "uuid": "d37edd2d-c4b5-4860-94ee-8fff85cec639",
+            "expiry_utc": "2052-11-02T05:16:44.006869+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-18T05:16:44.006933+00:00",
+            "auto_login": false
+        },
+        "914315292698632264": {
+            "username": "34kb",
+            "uuid": "a9a51516-27dc-4185-bba4-a81c80347601",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-18T14:18:38.297595+00:00",
+            "auto_login": true
+        },
+        "1134740324992942231": {
+            "username": "ppacif1st",
+            "uuid": "17c94cc5-3d12-41e8-b2b2-abbb958cab36",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-18T14:26:48.855891+00:00",
+            "auto_login": true
+        },
+        "1352445789648977971": {
+            "username": "1bf7",
+            "uuid": "73480001-9487-4cb9-b625-262988313d68",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-18T15:21:03.996163+00:00",
+            "auto_login": false
+        },
+        "1185655622348329010": {
+            "username": "meandno1",
+            "uuid": "41cb6f93-5a5f-4a79-bd8d-63c4549f4904",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-23T12:23:22.818743+00:00",
+            "auto_login": false
+        },
+        "1278553403856912442": {
+            "username": "selfinflictedharm",
+            "uuid": "cda4a758-3d02-4697-9649-9018ddcfd27b",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-18T17:28:38.560724+00:00",
+            "auto_login": true
+        },
+        "1218091707330068491": {
+            "username": "cn1wa",
+            "uuid": "1d817ea3-0faf-4393-b339-ff413463b39b",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-18T19:04:56.021810+00:00",
+            "auto_login": true
+        },
+        "918779224284860436": {
+            "username": "luvv4cammy",
+            "uuid": "55638226-e688-4811-b71f-4dbc877a4ccf",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-18T19:33:52.652515+00:00",
+            "auto_login": true
+        },
+        "1049865341553086464": {
+            "username": "kofunnnnnnnnnnnnn",
+            "uuid": "8b0496f5-fc10-49ea-95aa-fdfb8dde86c9",
+            "expiry_utc": "2025-07-18T20:11:58.554965+00:00",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-18T20:11:58.555021+00:00",
+            "auto_login": false
+        },
+        "1331072968226508862": {
+            "username": "hrulysd",
+            "uuid": "eed23649-a8b2-4298-aaea-dd9f647d1791",
+            "expiry_utc": "2052-11-03T03:18:08.004604+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-19T03:18:08.004692+00:00",
+            "auto_login": false
+        },
+        "1339999666452037702": {
+            "username": "vwqzx",
+            "uuid": "fbec177a-7e27-4b45-89de-4224269702d4",
+            "expiry_utc": "2052-11-03T05:46:41.491258+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-19T05:46:41.491320+00:00",
+            "auto_login": false
+        },
+        "1113945891003437147": {
+            "username": "ezmaki",
+            "uuid": "06643cda-df57-4a06-8de6-edb9f0028f1f",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-19T15:28:02.714386+00:00",
+            "auto_login": true
+        },
+        "237586686895325185": {
+            "username": "michaelsheva",
+            "uuid": "abfc3412-72a6-49f5-8f2e-ac6241be44aa",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-19T15:58:24.558413+00:00",
+            "auto_login": true
+        },
+        "1320476350481698859": {
+            "username": ".cyclonne",
+            "uuid": "fda86f75-d61d-4938-a120-54f08cdd4059",
+            "expiry_utc": "2052-11-03T18:32:58.223412+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-19T18:32:58.223477+00:00",
+            "auto_login": true
+        },
+        "949280492816048158": {
+            "username": "liv0009",
+            "uuid": "18067d26-0d78-4762-a435-5e2455cb4e85",
+            "expiry_utc": "2025-07-20T19:02:17.853737+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-20T19:02:17.853833+00:00",
+            "auto_login": false
+        },
+        "360772825709019136": {
+            "username": "realyuuji",
+            "uuid": "ea4fe34a-89d7-4e9d-b631-39c44c881d57",
+            "expiry_utc": "2025-07-20T23:25:57.591488+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-20T23:25:57.591576+00:00",
+            "auto_login": false
+        },
+        "201863195491565569": {
+            "username": "darkstr",
+            "uuid": "5cda7cef-0de9-4288-9865-c2566604cda1",
+            "expiry_utc": "2052-11-04T23:42:02.767668+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-20T23:42:02.767740+00:00",
+            "auto_login": false
+        },
+        "936818670871670804": {
+            "username": "zurepayd",
+            "uuid": "9480ed13-6296-4ad8-ab1c-9e02f04f8b09",
+            "expiry_utc": "2052-11-05T01:08:44.614265+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-21T01:08:44.614360+00:00",
+            "auto_login": false
+        },
+        "140131679162466304": {
+            "username": "hollowtwin",
+            "uuid": "420e226f-562a-487f-b0d3-baad06cb7154",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-21T02:41:53.095947+00:00",
+            "auto_login": false
+        },
+        "1068668178336591932": {
+            "username": "goofyahhmoreuser",
+            "uuid": "eb8a8562-5213-4e42-95d9-ab93859cd6d7",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-21T03:33:28.584668+00:00",
+            "auto_login": false
+        },
+        "457743286254305282": {
+            "username": "ahjinnie",
+            "uuid": "0845e6d2-7268-42c7-af74-521a6a628d7f",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-21T04:36:13.821066+00:00",
+            "auto_login": false
+        },
+        "212622572880134145": {
+            "username": "isasharg",
+            "uuid": "4d2497a9-2368-42a5-ba23-972516be999a",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-21T14:56:33.670981+00:00",
+            "auto_login": false
+        },
+        "1242135045553127480": {
+            "username": "pissguzzler4",
+            "uuid": "d27ade97-a616-4bd2-9c10-bb9dd78e1d3a",
+            "expiry_utc": "2052-11-12T19:47:46.500092+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-28T19:47:46.500144+00:00",
+            "auto_login": false
+        },
+        "680414745790119999": {
+            "username": "nanguaxs",
+            "uuid": "20a75184-5377-4ba2-85a0-7a2eef7f2ebc",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-22T12:43:21.076834+00:00",
+            "auto_login": false
+        },
+        "1346043698017730601": {
+            "username": "thulean.perspective",
+            "uuid": "dad3ee91-4e79-4ef8-97be-623ded3db0a2",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-22T18:07:51.819070+00:00",
+            "auto_login": false
+        },
+        "336607752430288916": {
+            "username": "thggin",
+            "uuid": "bd2e5322-9589-4253-8902-8199057dd29e",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-23T02:11:34.149275+00:00",
+            "auto_login": false
+        },
+        "1111619524874207235": {
+            "username": "v77cki",
+            "uuid": "cd51e4b6-f4bf-44ad-9c68-5290f4ed8b3f",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-23T02:25:13.650144+00:00",
+            "auto_login": false
+        },
+        "1063675481754456224": {
+            "username": "valorfv",
+            "uuid": "05604b17-e5fa-441c-bc60-9c6ecdd215f8",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-23T02:43:56.223704+00:00",
+            "auto_login": false
+        },
+        "218978542166343682": {
+            "username": "sea.sea",
+            "uuid": "87ec747e-3ac9-4c8a-8798-0ea2f6d7620c",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-23T10:51:27.487855+00:00",
+            "auto_login": false
+        },
+        "1336489586276175902": {
+            "username": "mitch.mmm",
+            "uuid": "a1a0964d-2e31-4eae-a9d2-86447abeb3af",
+            "expiry_utc": "2052-11-07T13:28:46.691770+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-23T13:28:46.691855+00:00",
+            "auto_login": false
+        },
+        "1225860819754029087": {
+            "username": "wrxxfk",
+            "uuid": "443a82fb-4252-4960-848e-a7b11c74ec7f",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-23T13:34:26.427643+00:00",
+            "auto_login": false
+        },
+        "550475478549659649": {
+            "username": "0g2",
+            "uuid": "452b3947-fb94-487d-8971-6ae4e4498e85",
+            "expiry_utc": "2052-11-07T21:00:30.117227+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-23T21:00:30.117319+00:00",
+            "auto_login": false
+        },
+        "1210671640627904572": {
+            "username": "wydmaz",
+            "uuid": "de35a315-e7f7-4bf3-a0e6-a3c0c62b88f5",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-23T22:30:35.454873+00:00",
+            "auto_login": false
+        },
+        "125058581807497217": {
+            "username": "nice2228",
+            "uuid": "90cdebfc-692c-4601-937b-2c4f8d59d336",
+            "expiry_utc": "2052-11-08T01:05:12.442680+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-24T01:05:12.442739+00:00",
+            "auto_login": false
+        },
+        "664073125759156268": {
+            "username": "daisss.",
+            "uuid": "46f65f17-c911-49c9-b2ab-f93b9e213fd6",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-24T11:22:58.637048+00:00",
+            "auto_login": false
+        },
+        "1329921137324462212": {
+            "username": "keptlol",
+            "uuid": "0d26d20b-c19f-4c74-bc1d-f8127c04d0ee",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-24T12:33:11.735392+00:00",
+            "auto_login": false
+        },
+        "398845077847408643": {
+            "username": "moue",
+            "uuid": "37dfa019-2bbb-405b-8ff2-deb53edeb591",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-24T20:22:26.012811+00:00",
+            "auto_login": false
+        },
+        "1264678474874880161": {
+            "username": "zerkjez",
+            "uuid": "667ed809-434e-4463-a71a-32b58136c206",
+            "expiry_utc": "2025-07-24T20:35:27.929468+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-24T20:35:27.930042+00:00",
+            "auto_login": false
+        },
+        "1311139704800022549": {
+            "username": "aloneinromance",
+            "uuid": "ab6c1dc2-0f12-4be8-a5ce-e734c94af0fb",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-24T21:36:32.619949+00:00",
+            "auto_login": false
+        },
+        "1276224343222911087": {
+            "username": "kradzzoa",
+            "uuid": "3c42370b-2d4c-44fa-beba-8812b30ba1a4",
+            "expiry_utc": "2025-07-25T01:59:14.395680+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-25T01:59:14.395750+00:00",
+            "auto_login": false
+        },
+        "371739521307639808": {
+            "username": "chaqken",
+            "uuid": "28c989dc-46f4-4cf7-ba90-c1b20ec3cece",
+            "expiry_utc": "2052-11-09T04:29:34.823298+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-25T04:29:34.823416+00:00",
+            "auto_login": false
+        },
+        "1141902055359926312": {
+            "username": "fncs.rar",
+            "uuid": "550bdee4-9a79-4c32-a90f-767c64a70d15",
+            "expiry_utc": "2052-11-09T05:54:08.907323+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-25T05:54:08.907381+00:00",
+            "auto_login": false
+        },
+        "932262724258398219": {
+            "username": "rishaune",
+            "uuid": "c9aedea7-78ce-48e3-9bda-e74067259a50",
+            "expiry_utc": "2052-11-09T21:19:47.453011+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-25T21:19:47.453154+00:00",
+            "auto_login": false
+        },
+        "1045782328900857946": {
+            "username": "invokeserver",
+            "uuid": "dfa02a6a-c110-4aad-a9df-d72388e500eb",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-25T22:48:37.685191+00:00",
+            "auto_login": false
+        },
+        "705509771670847570": {
+            "username": ".jaukow",
+            "uuid": "a653651e-4e88-45cd-ba81-a6afb200b12c",
+            "expiry_utc": "2025-07-26T01:41:29.928812+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-26T01:41:29.928875+00:00",
+            "auto_login": false
+        },
+        "601019794451333122": {
+            "username": "takeablnker",
+            "uuid": "9046553a-8346-4f81-b8be-519538bec1d2",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-26T21:25:47.493805+00:00",
+            "auto_login": false
+        },
+        "920365558573183027": {
+            "username": "antespects",
+            "uuid": "a3c00905-c3c0-4b2a-81da-d51f1cb3a861",
+            "expiry_utc": "2025-07-27T01:29:30.520298+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-27T01:29:30.520380+00:00",
+            "auto_login": false
+        },
+        "708693430523658322": {
+            "username": "sjs7",
+            "uuid": "fc61deef-6217-4a2e-b098-61c42f756691",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-27T16:29:30.751948+00:00",
+            "auto_login": false
+        },
+        "925797698760753162": {
+            "username": ".yaddaa.",
+            "uuid": "825479c4-8c61-4119-99ca-18812f6ab917",
+            "expiry_utc": "2052-11-11T18:10:02.203506+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-27T18:10:02.203588+00:00",
+            "auto_login": false
+        },
+        "561414040190976020": {
+            "username": "isoogway",
+            "uuid": "bf3afd55-e6a0-4806-9ebf-5210198dde9c",
+            "expiry_utc": "2052-11-11T18:11:25.682373+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-27T18:11:25.682424+00:00",
+            "auto_login": false
+        },
+        "1277341255960891392": {
+            "username": "goonee54",
+            "uuid": "84a8def4-35ad-4c9e-b1e4-173ea4fa29c9",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-28T02:14:20.144771+00:00",
+            "auto_login": false
+        },
+        "1041995735337537596": {
+            "username": "bloodonherkatana",
+            "uuid": "0a4ea8fc-ad88-404c-bf09-b8e1c2b54040",
+            "expiry_utc": "2052-11-14T02:24:10.291988+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-30T02:24:10.292089+00:00",
+            "auto_login": false
+        },
+        "1172954028569796639": {
+            "username": "restrain75",
+            "uuid": "a2e8f756-3ebb-4af5-9221-b85a9808d587",
+            "expiry_utc": "2025-07-28T14:48:30.794473+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-28T14:48:30.794575+00:00",
+            "auto_login": false
+        },
+        "992907832133419110": {
+            "username": ".mx5.",
+            "uuid": "b7539a2a-9a9c-4572-aa1f-ef0a505a1bc1",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-28T14:52:40.311446+00:00",
+            "auto_login": false
+        },
+        "936798935803105322": {
+            "username": "vastocard",
+            "uuid": "1ab3d2f8-5dcb-4d17-b169-10c103cda539",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-28T18:40:28.983012+00:00",
+            "auto_login": false
+        },
+        "932787735800983562": {
+            "username": "yav0",
+            "uuid": "65f4fd72-7f2c-47b0-a49a-68bfaa997a7f",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-28T18:40:44.440443+00:00",
+            "auto_login": false
+        },
+        "1154126083109699614": {
+            "username": "rexxaroonie",
+            "uuid": "1fa6982f-a0da-456f-8a5e-c64d7441ce6d",
+            "expiry_utc": "2025-07-29T01:30:25.502295+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-29T01:30:25.502439+00:00",
+            "auto_login": false
+        },
+        "1051681319110840360": {
+            "username": "rouster",
+            "uuid": "bf0fed38-5a7b-4a15-a86f-74639ec0a708",
+            "expiry_utc": "2025-07-29T03:09:56.435463+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-29T03:09:56.435526+00:00",
+            "auto_login": false
+        },
+        "1344501837835014207": {
+            "username": "caughtintheirdmsagain",
+            "uuid": "17a7bc86-516c-40c0-8100-4b9455a49d82",
+            "expiry_utc": "2050-02-17T03:35:39.501226+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-29T03:35:39.501279+00:00",
+            "auto_login": false
+        },
+        "834227641874776114": {
+            "username": "2wnis",
+            "uuid": "e78e1af8-9fbb-4412-bba3-c0f4dc2ff390",
+            "expiry_utc": "2052-11-13T06:00:42.894474+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-29T06:00:42.894710+00:00",
+            "auto_login": false
+        },
+        "626210136842698753": {
+            "username": "warlordberserk",
+            "uuid": "5211d71c-c7b7-4a45-9ecd-50b6d922af82",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-06-29T19:24:45.003990+00:00",
+            "auto_login": false
+        },
+        "1329798596106911860": {
+            "username": "k.e.y.y",
+            "uuid": "3d221114-5be8-420b-96e5-8a819e58c7fc",
+            "expiry_utc": "2052-11-14T06:55:07.673841+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-30T06:55:07.673905+00:00",
+            "auto_login": false
+        },
+        "832967744680624188": {
+            "username": "idaykz",
+            "uuid": "1eb83f62-5287-4221-ad36-0bead025f819",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-30T23:07:24.328581+00:00",
+            "auto_login": false
+        },
+        "1266586995124076585": {
+            "username": "4vasty",
+            "uuid": "6051b5fe-e2a0-4318-9fc0-056afeb38e4d",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-30T23:27:28.492168+00:00",
+            "auto_login": false
+        },
+        "795086021515018250": {
+            "username": "ttrunk",
+            "uuid": "9782d00e-09ca-43cf-916c-b0791e3418f9",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-06-30T23:56:47.515665+00:00",
+            "auto_login": false
+        },
+        "1304319348764180599": {
+            "username": "walkemdownnfuckem",
+            "uuid": "43f00339-4b2b-4569-8219-24395eda7c45",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-01T17:26:39.566274+00:00",
+            "auto_login": false
+        },
+        "918435351373160468": {
+            "username": "_kkaisen.",
+            "uuid": "1f90b298-242e-4c90-91da-529677a383f8",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-07-02T14:46:29.520360+00:00",
+            "auto_login": false
+        },
+        "879783301131423785": {
+            "username": "vz_0",
+            "uuid": "84acd6c6-58a6-4cb0-af46-235d32c1ee36",
+            "expiry_utc": "permanent",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-07-02T14:46:40.435363+00:00",
+            "auto_login": false
+        },
+        "836229084409364501": {
+            "username": "myth_5",
+            "uuid": "3d80a49a-5c72-482f-b42f-055c5c1f55bd",
+            "expiry_utc": "2025-08-02T14:49:40.789382+00:00",
+            "added_by": "1336489586276175902",
+            "timestamp_utc": "2025-07-03T14:49:40.789439+00:00",
+            "auto_login": false
+        },
+        "1333607218414878771": {
+            "username": "ygabsxxz",
+            "uuid": "6d9a5b3b-65d2-4326-aaaf-8d6353a66056",
+            "expiry_utc": "2052-11-17T17:00:39.356001+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-03T17:00:39.356112+00:00",
+            "auto_login": false
+        },
+        "1069391365668081684": {
+            "username": "long_legs102",
+            "uuid": "c91942ed-466f-4200-9548-a1427dc0af92",
+            "expiry_utc": "2052-11-18T04:48:42.119870+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-04T04:48:42.119920+00:00",
+            "auto_login": false
+        },
+        "310181985584676864": {
+            "username": ".ayoo",
+            "uuid": "e4cab510-1ede-4dd0-9bc8-b304330407bb",
+            "expiry_utc": "2052-11-18T20:33:28.613906+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-04T20:33:28.613955+00:00",
+            "auto_login": false
+        },
+        "1125635167126573071": {
+            "username": "unhonerable",
+            "uuid": "41e38df9-9504-413d-a74f-9324400e6e97",
+            "expiry_utc": "2052-11-18T22:02:33.686953+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-04T22:02:33.687047+00:00",
+            "auto_login": false
+        },
+        "673546519281926154": {
+            "username": "0napolianator0",
+            "uuid": "9b7f24e7-8642-43a8-96d5-d9a17d12ce3b",
+            "expiry_utc": "2025-08-04T03:19:52.887813+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-05T03:19:52.887861+00:00",
+            "auto_login": false
+        },
+        "416999611786592279": {
+            "username": "micerfat",
+            "uuid": "164f515d-f4e3-4b6d-8d8e-1471cf88b138",
+            "expiry_utc": "2025-08-05T20:19:06.899630+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-06T20:19:06.899696+00:00",
+            "auto_login": false
+        },
+        "1264863097261260824": {
+            "username": "clientv1",
+            "uuid": "7e57158c-2fe4-46c1-a03c-9fdbb74b0a9c",
+            "expiry_utc": "2025-08-06T03:56:48.761846+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-07T03:56:48.761956+00:00",
+            "auto_login": false
+        },
+        "1229120546034155641": {
+            "username": "igoontofemboys1",
+            "uuid": "9f1d18b2-e56f-407a-bb84-56b5f1620372",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-07T23:56:16.528189+00:00",
+            "auto_login": false
+        },
+        "749454293626650717": {
+            "username": "alldagames",
+            "uuid": "d374193e-c6c7-4435-a87a-b3620478e27c",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-07T23:56:21.763866+00:00",
+            "auto_login": false
+        },
+        "1251568164614180999": {
+            "username": "25ud",
+            "uuid": "8154566b-a62d-4efa-b45a-265f6e7cb151",
+            "expiry_utc": "2052-11-22T21:06:57.519578+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-08T21:06:57.519635+00:00",
+            "auto_login": false
+        },
+        "934805443660881951": {
+            "username": "syncrodin",
+            "uuid": "a22c4edd-d322-4c48-8e00-8b00532fb112",
+            "expiry_utc": "2025-08-07T23:58:02.130556+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-08T23:58:02.130664+00:00",
+            "auto_login": false
+        },
+        "936972534572781608": {
+            "username": "hitsyncings",
+            "uuid": "1f3ad17c-6e29-4bcc-8240-7dcc830224a3",
+            "expiry_utc": "2052-11-23T00:02:11.052406+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-09T00:02:11.052476+00:00",
+            "auto_login": false
+        },
+        "1043734384471179275": {
+            "username": "krieg7561",
+            "uuid": "66eb4847-98ab-4f7b-ab15-b5de1d5bac6c",
+            "expiry_utc": "2052-11-23T00:17:27.087911+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-09T00:17:27.087965+00:00",
+            "auto_login": false
+        },
+        "1226873672711671920": {
+            "username": "08pq",
+            "uuid": "75699782-14a7-4062-a1d0-13b681337e6d",
+            "expiry_utc": "2025-08-08T16:07:43.965898+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-09T16:07:43.965965+00:00",
+            "auto_login": false
+        },
+        "1186830095764160622": {
+            "username": "reverz.lol",
+            "uuid": "0e78f5a7-f090-4ee3-9050-f6225eb1e8d4",
+            "expiry_utc": "2052-11-23T20:52:46.261946+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-09T20:52:46.262013+00:00",
+            "auto_login": false
+        },
+        "1158085809400975411": {
+            "username": "mdibladi",
+            "uuid": "98163420-3202-49bb-9a23-244f931ca487",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-09T20:54:07.734147+00:00",
+            "auto_login": false
+        },
+        "1339300072621342852": {
+            "username": "ouziez",
+            "uuid": "3d043a50-200a-4bd2-8217-eaf73fe29d3a",
+            "expiry_utc": "2052-11-23T21:55:03.857578+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-09T21:55:03.857626+00:00",
+            "auto_login": false
+        },
+        "1109146253201260574": {
+            "username": "rxyishim",
+            "uuid": "bcb47723-0572-40ed-8519-4d176f0eb05b",
+            "expiry_utc": "2052-11-24T04:38:41.370124+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-10T04:38:41.370181+00:00",
+            "auto_login": false
+        },
+        "947204756898713721": {
+            "username": "12kg",
+            "uuid": "c990ecd1-a173-4982-8ab5-7b554b987361",
+            "expiry_utc": "2025-08-09T18:22:19.386147+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-10T18:22:19.386209+00:00",
+            "auto_login": false
+        },
+        "1241860982641262765": {
+            "username": "iwrmw.",
+            "uuid": "7f62ef34-f427-4236-9c90-abdb3377829c",
+            "expiry_utc": "2025-08-08T18:23:44.593686+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-10T18:23:44.593736+00:00",
+            "auto_login": false
+        },
+        "1252314999997862015": {
+            "username": "jahjahza",
+            "uuid": "a54adbbb-7fc4-4e46-8d09-8062381d4a9c",
+            "expiry_utc": "2052-11-24T18:24:02.454431+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-10T18:24:02.454511+00:00",
+            "auto_login": false
+        },
+        "1171554801071431852": {
+            "username": "evilsleepy",
+            "uuid": "820d5312-4562-4509-aecd-b8df7497615f",
+            "expiry_utc": "2025-08-09T19:16:01.906707+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-10T19:16:01.906780+00:00",
+            "auto_login": false
+        },
+        "1354560105726742608": {
+            "username": "rruels",
+            "uuid": "b09c9b14-564f-4128-b34d-5dcee69ff440",
+            "expiry_utc": "2052-11-24T21:50:12.141752+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-10T21:50:12.141812+00:00",
+            "auto_login": false
+        },
+        "933878585989668924": {
+            "username": "qputoo",
+            "uuid": "269f415a-e739-474a-b500-969776ee2149",
+            "expiry_utc": "permanent",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-11T02:08:08.957632+00:00",
+            "auto_login": false
+        },
+        "727281225982803972": {
+            "username": "bb8q",
+            "uuid": "075ad38e-e2db-4325-a1dc-2ec336afb7e8",
+            "expiry_utc": "2025-08-11T00:15:28.012282+00:00",
+            "added_by": "1158085809400975411",
+            "timestamp_utc": "2025-07-12T00:15:28.012353+00:00",
+            "auto_login": false
+        },
+        "789279692892667924": {
+            "expiry": "permanent",
+            "auto_login": true,
+            "added_by": "AdminPanel",
+            "timestamp": "2025-07-12T02:06:42.194Z",
+            "uuid": "667ee395-93cb-4f34-ab25-fca47834c092"
+        }
     },
     "668873770697752647": {
-      "uuid": "04268ad0-833b-4b20-b6fb-29b07da92e9c",
-      "expiry_utc": "2052-10-22T21:37:08.395975+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-07T21:37:08.396036+00:00",
-      "auto_login": false,
-      "timestamp": "2025-06-24T01:29:11.795175+00:00"
-    },
-    "1105770435540422666": {
-      "uuid": "04dada3c-27f0-4296-b4e3-b2a1ce18abc0",
-      "expiry_utc": "permanent",
-      "auto_login": false,
-      "timestamp_utc": "2025-06-08T16:56:35.362116+00:00"
-    },
-    "1324136311300423732": {
-      "uuid": "832ae121-7901-4417-8e7c-242cd940027b",
-      "expiry_utc": "2052-10-23T22:29:29.492049+00:00",
-      "added_by": 1316234003170201640,
-      "timestamp_utc": "2025-06-08T22:29:29.492097+00:00",
-      "auto_login": false
-    },
-    "521750311946420241": {
-      "username": "ejebk",
-      "uuid": "4afa67f4-0d21-4143-b5bb-78304626cba9",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-25T03:17:15.208059+00:00",
-      "auto_login": false
-    },
-    "1335325329031565403": {
-      "username": "olafskiiiii",
-      "uuid": "ac18e499-e891-412e-af21-93f825ae8133",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-23T02:25:20.029170+00:00",
-      "auto_login": false
-    },
-    "433730583701618691": {
-      "uuid": "dbc3f264-4137-4fa3-a2f9-0d4e0d9bbac6",
-      "expiry_utc": "2052-10-26T01:09:59.021925+00:00",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-06-11T01:09:59.021972+00:00",
-      "auto_login": true,
-      "username": "mi_z_u"
-    },
-    "990302894706266172": {
-      "uuid": "9b12a929-5da3-4cec-87a2-1d4cd8e2f1b6",
-      "expiry_utc": "2049-10-09T23:18:36.035773+00:00",
-      "added_by": 1158085809400975411,
-      "timestamp_utc": "2025-06-09T23:18:36.035847+00:00",
-      "username": "kaigetsbread",
-      "auto_login": false
-    },
-    "1009711483661332561": {
-      "username": "2t2real",
-      "uuid": "a150b019-a3a8-4081-801e-1e7728acd021",
-      "expiry_utc": "2025-07-11T07:18:41.523225+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-11T07:18:41.523305+00:00",
-      "auto_login": true
-    },
-    "436550563841179648": {
-      "username": "mono80x5",
-      "uuid": "49795837-5fe4-41ef-89a5-467e0b282f4b",
-      "expiry_utc": "2052-10-26T08:29:48.424346+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-11T08:29:48.424393+00:00",
-      "auto_login": false
-    },
-    "1146169507828727865": {
-      "username": "grimf4tefanboy",
-      "uuid": "00c59c87-1e93-4b89-ae8b-a3f1fd084e3d",
-      "expiry_utc": "2052-10-27T01:22:39.303458+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-12T01:22:39.303504+00:00",
-      "auto_login": false
-    },
-    "1323318718121512980": {
-      "username": "enzokvr",
-      "uuid": "b24a7690-7fee-436a-afd6-ae80ab6ba11e",
-      "expiry_utc": "2052-10-27T03:20:11.400827+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-12T03:20:11.400896+00:00",
-      "auto_login": false
-    },
-    "1311141397436567572": {
-      "username": "designrhabits",
-      "uuid": "c63f341c-b78c-4323-803d-9fe09c8dbc0e",
-      "expiry_utc": "2025-07-12T04:57:34.211809+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-12T04:57:34.211857+00:00",
-      "auto_login": false
-    },
-    "1233813789363667116": {
-      "username": "paajins.",
-      "uuid": "d72bf232-1fc6-4ff6-96ee-13d6b9b521c2",
-      "expiry_utc": "2052-10-27T05:26:08.886866+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-12T05:26:08.886936+00:00",
-      "auto_login": false
-    },
-    "923736390473248788": {
-      "username": "vn4p",
-      "uuid": "f339a66a-fb66-45d9-9a1a-49d85a2f83a6",
-      "expiry_utc": "2025-07-12T08:40:47.588251+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-12T08:40:47.588296+00:00",
-      "auto_login": false
-    },
-    "1063201151262142515": {
-      "username": "hen_st",
-      "uuid": "22b9a46d-ae50-4f68-b899-31b04983db28",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-12T16:48:18.282140+00:00",
-      "auto_login": false
-    },
-    "1358721625960484917": {
-      "username": "phetmine",
-      "uuid": "c4c8c174-1f03-438d-b1b0-48c5e7ad3d37",
-      "expiry_utc": "permanent",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-12T20:35:25.591897+00:00",
-      "auto_login": false
-    },
-    "684200997853462566": {
-      "username": ".vdjf",
-      "uuid": "8d7a573f-a63e-41a5-bd1e-ebf3ea6b273b",
-      "expiry_utc": "2052-10-27T21:26:51.977334+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-12T21:26:51.977382+00:00",
-      "auto_login": false
-    },
-    "1242518031708721313": {
-      "username": "rmuc",
-      "uuid": "e2d8d13b-e1c4-4bfe-a153-81c241448de6",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-13T04:00:21.905604+00:00",
-      "auto_login": false
-    },
-    "877004378270220369": {
-      "username": "ah35",
-      "uuid": "3a215fc9-f866-4f50-8dfa-2400fac6401c",
-      "expiry_utc": "2025-07-13T06:46:07.482284+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-13T06:46:07.482344+00:00",
-      "auto_login": true
-    },
-    "455163434577952768": {
-      "username": "51912",
-      "uuid": "82fa8c40-790b-4c80-a396-84561e3defee",
-      "expiry_utc": "2052-10-28T07:07:56.020788+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-13T07:07:56.020842+00:00",
-      "auto_login": true
-    },
-    "1207286744278372374": {
-      "username": "1ov0n0",
-      "uuid": "02254d59-9d88-4012-97f8-3631971fbc6e",
-      "expiry_utc": "2025-07-13T11:38:40.307906+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-13T11:38:40.308160+00:00",
-      "auto_login": false
-    },
-    "802668221509402644": {
-      "username": "karre225",
-      "uuid": "336dc6e1-5ec6-4f7b-b9fe-6c265cb76cf1",
-      "expiry_utc": "2025-07-13T11:50:46.040496+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-13T11:50:46.040560+00:00",
-      "auto_login": true
-    },
-    "1187507795113803776": {
-      "username": "somewizardry",
-      "uuid": "b9f1ab7a-8c02-4051-b067-5984d8f6d85c",
-      "expiry_utc": "2052-10-28T20:25:52.659361+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-13T20:25:52.659447+00:00",
-      "auto_login": true
-    },
-    "874634739724730418": {
-      "username": "clienthack_tw",
-      "uuid": "bc29d5fc-eee9-45b4-adeb-2113cf22dd9f",
-      "expiry_utc": "2025-07-13T20:49:44.453874+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-13T20:49:44.453952+00:00",
-      "auto_login": false
-    },
-    "529551442449661972": {
-      "username": "its_justshay",
-      "uuid": "4d6d2c6f-0b26-4c6f-9c27-a2beb746714b",
-      "expiry_utc": "2052-10-28T21:10:05.119023+00:00",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-13T21:10:05.119078+00:00",
-      "auto_login": false
-    },
-    "1158849690616479764": {
-      "username": "usingslvrs",
-      "uuid": "60ebe934-75cd-473b-a6dc-50c4723b9cbf",
-      "expiry_utc": "permanent",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-13T22:35:40.203874+00:00",
-      "auto_login": false
-    },
-    "620011626313023501": {
-      "username": "luvsov",
-      "uuid": "c067b136-c40f-4d40-8a8f-bcdee060c6ae",
-      "expiry_utc": "2052-10-28T22:16:20.392207+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-13T22:16:20.392269+00:00",
-      "auto_login": true
-    },
-    "997505480651985026": {
-      "username": "voidyuh1",
-      "uuid": "d97a6cc6-39ce-4c30-bef1-cdf755cc39da",
-      "expiry_utc": "2052-10-29T01:19:05.735607+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-14T01:19:05.735680+00:00",
-      "auto_login": true
-    },
-    "1361101520049012856": {
-      "username": "cbva",
-      "uuid": "b220569f-4607-4149-9978-15e77203a379",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-14T02:18:43.682542+00:00",
-      "auto_login": true
-    },
-    "710191838904188958": {
-      "username": "heaven.exe",
-      "uuid": "9a4e99ae-fc1c-46a7-8a2f-b7f08ebde70e",
-      "expiry_utc": "2052-10-29T03:02:22.153358+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-14T03:02:22.153513+00:00",
-      "auto_login": true
-    },
-    "902617250433994792": {
-      "username": "ppp03k7858",
-      "uuid": "d8d4082a-89f6-426c-9658-61a47619fd12",
-      "expiry_utc": "2052-10-29T03:02:24.060357+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-14T03:02:24.060404+00:00",
-      "auto_login": true
-    },
-    "752593667977510963": {
-      "username": "xorrex.",
-      "uuid": "83f52e6a-ca82-4c89-9fe8-324a5ed550b9",
-      "expiry_utc": "permanent",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-14T03:19:59.685542+00:00",
-      "auto_login": true
-    },
-    "746509997621510155": {
-      "username": "ferretgods",
-      "uuid": "9e130778-931a-4802-8f73-51d1f520a6d4",
-      "expiry_utc": "2052-10-29T06:47:21.664784+00:00",
-      "added_by": "1316234003170201640",
-      "timestamp_utc": "2025-06-14T06:47:21.664839+00:00",
-      "auto_login": true
-    },
-    "1338334454711713833": {
-      "username": "unchainedluke",
-      "uuid": "b6889e34-0b83-4c3e-9024-817b6eef48d3",
-      "expiry_utc": "2052-10-31T03:59:24.821640+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-16T03:59:24.821734+00:00",
-      "auto_login": true
-    },
-    "1363412528939536444": {
-      "username": "8lxa",
-      "uuid": "0f537120-3be9-48c5-88b6-bb2c32c66061",
-      "expiry_utc": "2025-07-14T08:44:42.788915+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-14T08:44:42.788997+00:00",
-      "auto_login": true
-    },
-    "1337369737625341995": {
-      "username": "soph2freaky",
-      "uuid": "123efdbd-aeb4-4881-b4de-d71d7e61a500",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-14T12:05:16.798241+00:00",
-      "auto_login": false
-    },
-    "1276324962113945691": {
-      "username": "yg7o",
-      "uuid": "f7408d29-a1bc-4875-b776-7e0d82a5f9c2",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-14T14:01:36.993180+00:00",
-      "auto_login": true
-    },
-    "470330202560659458": {
-      "username": "monterrain",
-      "uuid": "214a9c3e-21b1-42e4-9ec8-4f2c101fc66a",
-      "expiry_utc": "2025-07-14T17:04:02.330390+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-14T17:04:02.330451+00:00",
-      "auto_login": false
-    },
-    "990343525860270110": {
-      "username": "fqn.",
-      "uuid": "318fb876-0084-4f50-8b3d-e1fd8496cb2a",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-15T02:57:24.824093+00:00",
-      "auto_login": true
-    },
-    "1322689459673628732": {
-      "username": "551yato",
-      "uuid": "61209279-148c-4f6d-aba8-e526858ef616",
-      "expiry_utc": "2052-10-30T15:40:56.949939+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T15:40:56.950013+00:00",
-      "auto_login": true
-    },
-    "1261685033903718431": {
-      "username": "dayokaas123",
-      "uuid": "a814c40a-46a8-47d4-b7eb-868864422270",
-      "expiry_utc": "2052-10-30T15:41:18.031492+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T15:41:18.031558+00:00",
-      "auto_login": true
-    },
-    "1014065732742561863": {
-      "username": "harmfuldose",
-      "uuid": "298c86a2-718f-445b-9da7-1a44aa89a9d7",
-      "expiry_utc": "2052-10-30T15:41:59.639571+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T15:41:59.639648+00:00",
-      "auto_login": true
-    },
-    "1148971502050492416": {
-      "username": "bbtsyyv",
-      "uuid": "32c37d57-c480-4298-9689-724d2368f134",
-      "expiry_utc": "2052-10-30T16:04:28.324062+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T16:04:28.324122+00:00",
-      "auto_login": true
-    },
-    "946898257441853491": {
-      "username": "iqcq",
-      "uuid": "f3991ff9-eabf-4b6c-87ec-922b3e480dd3",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T17:26:00.071295+00:00",
-      "auto_login": false
-    },
-    "259987474229493760": {
-      "username": "njgz",
-      "uuid": "b09701d1-6386-4a8c-8453-1095a7db22c3",
-      "expiry_utc": "2052-10-31T19:08:44.029218+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-16T19:08:44.029274+00:00",
-      "auto_login": true
-    },
-    "544203729461837825": {
-      "username": "neverott",
-      "uuid": "dea0c8d6-9e1a-47ea-a9b6-52873c0c76db",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T20:11:27.505945+00:00",
-      "auto_login": true
-    },
-    "700872939133993048": {
-      "username": "triolocks",
-      "uuid": "83860079-ca94-48e1-a279-0c3a04ad34ba",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T20:11:54.419185+00:00",
-      "auto_login": true
-    },
-    "1120851776330014800": {
-      "username": "ledj__",
-      "uuid": "40128877-ea01-4d5a-a5bd-9af530c6aa14",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T21:37:13.123651+00:00",
-      "auto_login": true
-    },
-    "792310967652450344": {
-      "username": "zeokniet",
-      "uuid": "270a99fe-2d4c-41dd-8041-6f15ebde3a26",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T22:36:19.728193+00:00",
-      "auto_login": false
-    },
-    "1335728347828977756": {
-      "username": "sfdi",
-      "uuid": "41c5627e-2588-42a6-bb9a-12ca78646b29",
-      "expiry_utc": "2052-10-30T22:52:35.603437+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T22:52:35.603485+00:00",
-      "auto_login": true
-    },
-    "471023785060073472": {
-      "username": "ignaciohustler",
-      "uuid": "654cf786-bfaa-416e-b055-de6433370047",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-15T23:00:55.300770+00:00",
-      "auto_login": true
-    },
-    "1369353150808461392": {
-      "username": "______________cut",
-      "uuid": "21d15e46-8b43-4991-8739-adc5823dca0b",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-16T20:16:06.332759+00:00",
-      "auto_login": true
-    },
-    "1097592731720765570": {
-      "username": "hxron_",
-      "uuid": "7f91ac12-b48f-4692-b822-ae7c85eed738",
-      "expiry_utc": "2052-10-31T20:17:12.111364+00:00",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-16T20:17:12.111419+00:00",
-      "auto_login": true
-    },
-    "1242904298967404690": {
-      "username": "aswqex",
-      "uuid": "3fceb30d-2d48-4676-961e-1b2910d64f3a",
-      "expiry_utc": "2025-07-17T20:20:45.599298+00:00",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-16T20:20:45.599346+00:00",
-      "auto_login": true
-    },
-    "1277101781725478912": {
-      "username": "somekinds",
-      "uuid": "b67118a5-5217-43a3-ad56-b204dfb9add0",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-23T15:32:13.516555+00:00",
-      "auto_login": false
-    },
-    "979733817755590676": {
-      "username": "_.dollars",
-      "uuid": "468b4ca0-7dda-4799-a2b2-9a25b0a183a7",
-      "expiry_utc": "2052-10-31T22:46:53.271012+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-16T22:46:53.271092+00:00",
-      "auto_login": true
-    },
-    "1169747467198283809": {
-      "username": "zr.11",
-      "uuid": "b2145409-66c4-4e7e-b6de-181dc0af4851",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-17T08:07:39.332920+00:00",
-      "auto_login": false
-    },
-    "1345691245007343680": {
-      "username": "directwhatisthis",
-      "uuid": "fc369f7c-5ffc-4b78-9f74-6a363415dbd1",
-      "expiry_utc": "2025-07-18T11:43:28.583297+00:00",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-17T11:43:28.583408+00:00",
-      "auto_login": false
-    },
-    "244919720162230273": {
-      "username": "sadfamilies",
-      "uuid": "7f9f01b4-6ea7-4faf-b723-def3e04d9e76",
-      "expiry_utc": "2052-11-01T11:53:32.506193+00:00",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-17T11:53:32.506247+00:00",
-      "auto_login": true
-    },
-    "949596283012792361": {
-      "username": "sadrine39624",
-      "uuid": "f1942de0-9aab-4ad0-8ecc-15f02b62193f",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-17T20:26:03.883029+00:00",
-      "auto_login": false
-    },
-    "950561635339235348": {
-      "username": "solx.dnd",
-      "uuid": "d4aca9a1-0635-40c3-951d-05ec9289979d",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-17T21:47:44.422888+00:00",
-      "auto_login": true
-    },
-    "795483289665404949": {
-      "username": "storyofkoby",
-      "uuid": "9a336be5-19f7-4c77-adff-cb2a4b76cdc3",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-18T00:10:19.102403+00:00",
-      "auto_login": true
-    },
-    "1237263804958773340": {
-      "username": "bigjohnn42",
-      "uuid": "3a9eee39-2ff2-4527-99d1-ca216237be53",
-      "expiry_utc": "2052-11-02T01:28:03.809081+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-18T01:28:03.809158+00:00",
-      "auto_login": false
-    },
-    "1320791090722508870": {
-      "username": "watchoumnc",
-      "uuid": "d37edd2d-c4b5-4860-94ee-8fff85cec639",
-      "expiry_utc": "2052-11-02T05:16:44.006869+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-18T05:16:44.006933+00:00",
-      "auto_login": false
-    },
-    "914315292698632264": {
-      "username": "34kb",
-      "uuid": "a9a51516-27dc-4185-bba4-a81c80347601",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-18T14:18:38.297595+00:00",
-      "auto_login": true
-    },
-    "1134740324992942231": {
-      "username": "ppacif1st",
-      "uuid": "17c94cc5-3d12-41e8-b2b2-abbb958cab36",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-18T14:26:48.855891+00:00",
-      "auto_login": true
-    },
-    "1352445789648977971": {
-      "username": "1bf7",
-      "uuid": "73480001-9487-4cb9-b625-262988313d68",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-18T15:21:03.996163+00:00",
-      "auto_login": false
-    },
-    "1185655622348329010": {
-      "username": "meandno1",
-      "uuid": "41cb6f93-5a5f-4a79-bd8d-63c4549f4904",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-23T12:23:22.818743+00:00",
-      "auto_login": false
-    },
-    "1278553403856912442": {
-      "username": "selfinflictedharm",
-      "uuid": "cda4a758-3d02-4697-9649-9018ddcfd27b",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-18T17:28:38.560724+00:00",
-      "auto_login": true
-    },
-    "1218091707330068491": {
-      "username": "cn1wa",
-      "uuid": "1d817ea3-0faf-4393-b339-ff413463b39b",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-18T19:04:56.021810+00:00",
-      "auto_login": true
-    },
-    "918779224284860436": {
-      "username": "luvv4cammy",
-      "uuid": "55638226-e688-4811-b71f-4dbc877a4ccf",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-18T19:33:52.652515+00:00",
-      "auto_login": true
-    },
-    "1049865341553086464": {
-      "username": "kofunnnnnnnnnnnnn",
-      "uuid": "8b0496f5-fc10-49ea-95aa-fdfb8dde86c9",
-      "expiry_utc": "2025-07-18T20:11:58.554965+00:00",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-18T20:11:58.555021+00:00",
-      "auto_login": false
-    },
-    "1331072968226508862": {
-      "username": "hrulysd",
-      "uuid": "eed23649-a8b2-4298-aaea-dd9f647d1791",
-      "expiry_utc": "2052-11-03T03:18:08.004604+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-19T03:18:08.004692+00:00",
-      "auto_login": false
-    },
-    "1339999666452037702": {
-      "username": "vwqzx",
-      "uuid": "fbec177a-7e27-4b45-89de-4224269702d4",
-      "expiry_utc": "2052-11-03T05:46:41.491258+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-19T05:46:41.491320+00:00",
-      "auto_login": false
-    },
-    "1113945891003437147": {
-      "username": "ezmaki",
-      "uuid": "06643cda-df57-4a06-8de6-edb9f0028f1f",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-19T15:28:02.714386+00:00",
-      "auto_login": true
-    },
-    "237586686895325185": {
-      "username": "michaelsheva",
-      "uuid": "abfc3412-72a6-49f5-8f2e-ac6241be44aa",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-19T15:58:24.558413+00:00",
-      "auto_login": true
-    },
-    "1320476350481698859": {
-      "username": ".cyclonne",
-      "uuid": "fda86f75-d61d-4938-a120-54f08cdd4059",
-      "expiry_utc": "2052-11-03T18:32:58.223412+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-19T18:32:58.223477+00:00",
-      "auto_login": true
-    },
-    "949280492816048158": {
-      "username": "liv0009",
-      "uuid": "18067d26-0d78-4762-a435-5e2455cb4e85",
-      "expiry_utc": "2025-07-20T19:02:17.853737+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-20T19:02:17.853833+00:00",
-      "auto_login": false
-    },
-    "360772825709019136": {
-      "username": "realyuuji",
-      "uuid": "ea4fe34a-89d7-4e9d-b631-39c44c881d57",
-      "expiry_utc": "2025-07-20T23:25:57.591488+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-20T23:25:57.591576+00:00",
-      "auto_login": false
-    },
-    "201863195491565569": {
-      "username": "darkstr",
-      "uuid": "5cda7cef-0de9-4288-9865-c2566604cda1",
-      "expiry_utc": "2052-11-04T23:42:02.767668+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-20T23:42:02.767740+00:00",
-      "auto_login": false
-    },
-    "936818670871670804": {
-      "username": "zurepayd",
-      "uuid": "9480ed13-6296-4ad8-ab1c-9e02f04f8b09",
-      "expiry_utc": "2052-11-05T01:08:44.614265+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-21T01:08:44.614360+00:00",
-      "auto_login": false
-    },
-    "140131679162466304": {
-      "username": "hollowtwin",
-      "uuid": "420e226f-562a-487f-b0d3-baad06cb7154",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-21T02:41:53.095947+00:00",
-      "auto_login": false
-    },
-    "1068668178336591932": {
-      "username": "goofyahhmoreuser",
-      "uuid": "eb8a8562-5213-4e42-95d9-ab93859cd6d7",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-21T03:33:28.584668+00:00",
-      "auto_login": false
-    },
-    "457743286254305282": {
-      "username": "ahjinnie",
-      "uuid": "0845e6d2-7268-42c7-af74-521a6a628d7f",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-21T04:36:13.821066+00:00",
-      "auto_login": false
-    },
-    "212622572880134145": {
-      "username": "isasharg",
-      "uuid": "4d2497a9-2368-42a5-ba23-972516be999a",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-21T14:56:33.670981+00:00",
-      "auto_login": false
-    },
-    "1242135045553127480": {
-      "username": "pissguzzler4",
-      "uuid": "d27ade97-a616-4bd2-9c10-bb9dd78e1d3a",
-      "expiry_utc": "2052-11-12T19:47:46.500092+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-28T19:47:46.500144+00:00",
-      "auto_login": false
-    },
-    "680414745790119999": {
-      "username": "nanguaxs",
-      "uuid": "20a75184-5377-4ba2-85a0-7a2eef7f2ebc",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-22T12:43:21.076834+00:00",
-      "auto_login": false
-    },
-    "1346043698017730601": {
-      "username": "thulean.perspective",
-      "uuid": "dad3ee91-4e79-4ef8-97be-623ded3db0a2",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-22T18:07:51.819070+00:00",
-      "auto_login": false
-    },
-    "336607752430288916": {
-      "username": "thggin",
-      "uuid": "bd2e5322-9589-4253-8902-8199057dd29e",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-23T02:11:34.149275+00:00",
-      "auto_login": false
-    },
-    "1111619524874207235": {
-      "username": "v77cki",
-      "uuid": "cd51e4b6-f4bf-44ad-9c68-5290f4ed8b3f",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-23T02:25:13.650144+00:00",
-      "auto_login": false
-    },
-    "1063675481754456224": {
-      "username": "valorfv",
-      "uuid": "05604b17-e5fa-441c-bc60-9c6ecdd215f8",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-23T02:43:56.223704+00:00",
-      "auto_login": false
-    },
-    "218978542166343682": {
-      "username": "sea.sea",
-      "uuid": "87ec747e-3ac9-4c8a-8798-0ea2f6d7620c",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-23T10:51:27.487855+00:00",
-      "auto_login": false
-    },
-    "1336489586276175902": {
-      "username": "mitch.mmm",
-      "uuid": "a1a0964d-2e31-4eae-a9d2-86447abeb3af",
-      "expiry_utc": "2052-11-07T13:28:46.691770+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-23T13:28:46.691855+00:00",
-      "auto_login": false
-    },
-    "1225860819754029087": {
-      "username": "wrxxfk",
-      "uuid": "443a82fb-4252-4960-848e-a7b11c74ec7f",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-23T13:34:26.427643+00:00",
-      "auto_login": false
-    },
-    "550475478549659649": {
-      "username": "0g2",
-      "uuid": "452b3947-fb94-487d-8971-6ae4e4498e85",
-      "expiry_utc": "2052-11-07T21:00:30.117227+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-23T21:00:30.117319+00:00",
-      "auto_login": false
-    },
-    "1210671640627904572": {
-      "username": "wydmaz",
-      "uuid": "de35a315-e7f7-4bf3-a0e6-a3c0c62b88f5",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-23T22:30:35.454873+00:00",
-      "auto_login": false
-    },
-    "125058581807497217": {
-      "username": "nice2228",
-      "uuid": "90cdebfc-692c-4601-937b-2c4f8d59d336",
-      "expiry_utc": "2052-11-08T01:05:12.442680+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-24T01:05:12.442739+00:00",
-      "auto_login": false
-    },
-    "664073125759156268": {
-      "username": "daisss.",
-      "uuid": "46f65f17-c911-49c9-b2ab-f93b9e213fd6",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-24T11:22:58.637048+00:00",
-      "auto_login": false
-    },
-    "1329921137324462212": {
-      "username": "keptlol",
-      "uuid": "0d26d20b-c19f-4c74-bc1d-f8127c04d0ee",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-24T12:33:11.735392+00:00",
-      "auto_login": false
-    },
-    "398845077847408643": {
-      "username": "moue",
-      "uuid": "37dfa019-2bbb-405b-8ff2-deb53edeb591",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-24T20:22:26.012811+00:00",
-      "auto_login": false
-    },
-    "1264678474874880161": {
-      "username": "zerkjez",
-      "uuid": "667ed809-434e-4463-a71a-32b58136c206",
-      "expiry_utc": "2025-07-24T20:35:27.929468+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-24T20:35:27.930042+00:00",
-      "auto_login": false
-    },
-    "1311139704800022549": {
-      "username": "aloneinromance",
-      "uuid": "ab6c1dc2-0f12-4be8-a5ce-e734c94af0fb",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-24T21:36:32.619949+00:00",
-      "auto_login": false
-    },
-    "1276224343222911087": {
-      "username": "kradzzoa",
-      "uuid": "3c42370b-2d4c-44fa-beba-8812b30ba1a4",
-      "expiry_utc": "2025-07-25T01:59:14.395680+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-25T01:59:14.395750+00:00",
-      "auto_login": false
-    },
-    "371739521307639808": {
-      "username": "chaqken",
-      "uuid": "28c989dc-46f4-4cf7-ba90-c1b20ec3cece",
-      "expiry_utc": "2052-11-09T04:29:34.823298+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-25T04:29:34.823416+00:00",
-      "auto_login": false
-    },
-    "1141902055359926312": {
-      "username": "fncs.rar",
-      "uuid": "550bdee4-9a79-4c32-a90f-767c64a70d15",
-      "expiry_utc": "2052-11-09T05:54:08.907323+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-25T05:54:08.907381+00:00",
-      "auto_login": false
-    },
-    "932262724258398219": {
-      "username": "rishaune",
-      "uuid": "c9aedea7-78ce-48e3-9bda-e74067259a50",
-      "expiry_utc": "2052-11-09T21:19:47.453011+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-25T21:19:47.453154+00:00",
-      "auto_login": false
-    },
-    "1045782328900857946": {
-      "username": "invokeserver",
-      "uuid": "dfa02a6a-c110-4aad-a9df-d72388e500eb",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-25T22:48:37.685191+00:00",
-      "auto_login": false
-    },
-    "705509771670847570": {
-      "username": ".jaukow",
-      "uuid": "a653651e-4e88-45cd-ba81-a6afb200b12c",
-      "expiry_utc": "2025-07-26T01:41:29.928812+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-26T01:41:29.928875+00:00",
-      "auto_login": false
-    },
-    "601019794451333122": {
-      "username": "takeablnker",
-      "uuid": "9046553a-8346-4f81-b8be-519538bec1d2",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-26T21:25:47.493805+00:00",
-      "auto_login": false
-    },
-    "920365558573183027": {
-      "username": "antespects",
-      "uuid": "a3c00905-c3c0-4b2a-81da-d51f1cb3a861",
-      "expiry_utc": "2025-07-27T01:29:30.520298+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-27T01:29:30.520380+00:00",
-      "auto_login": false
-    },
-    "708693430523658322": {
-      "username": "sjs7",
-      "uuid": "fc61deef-6217-4a2e-b098-61c42f756691",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-27T16:29:30.751948+00:00",
-      "auto_login": false
-    },
-    "925797698760753162": {
-      "username": ".yaddaa.",
-      "uuid": "825479c4-8c61-4119-99ca-18812f6ab917",
-      "expiry_utc": "2052-11-11T18:10:02.203506+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-27T18:10:02.203588+00:00",
-      "auto_login": false
-    },
-    "561414040190976020": {
-      "username": "isoogway",
-      "uuid": "bf3afd55-e6a0-4806-9ebf-5210198dde9c",
-      "expiry_utc": "2052-11-11T18:11:25.682373+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-27T18:11:25.682424+00:00",
-      "auto_login": false
-    },
-    "1277341255960891392": {
-      "username": "goonee54",
-      "uuid": "84a8def4-35ad-4c9e-b1e4-173ea4fa29c9",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-28T02:14:20.144771+00:00",
-      "auto_login": false
+        "uuid": "efb940e5-1709-4d30-b180-79901825d445",
+        "auto_login": false
     },
     "1041995735337537596": {
-      "username": "bloodonherkatana",
-      "uuid": "0a4ea8fc-ad88-404c-bf09-b8e1c2b54040",
-      "expiry_utc": "2052-11-14T02:24:10.291988+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-30T02:24:10.292089+00:00",
-      "auto_login": false
-    },
-    "1172954028569796639": {
-      "username": "restrain75",
-      "uuid": "a2e8f756-3ebb-4af5-9221-b85a9808d587",
-      "expiry_utc": "2025-07-28T14:48:30.794473+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-28T14:48:30.794575+00:00",
-      "auto_login": false
-    },
-    "992907832133419110": {
-      "username": ".mx5.",
-      "uuid": "b7539a2a-9a9c-4572-aa1f-ef0a505a1bc1",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-28T14:52:40.311446+00:00",
-      "auto_login": false
-    },
-    "936798935803105322": {
-      "username": "vastocard",
-      "uuid": "1ab3d2f8-5dcb-4d17-b169-10c103cda539",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-28T18:40:28.983012+00:00",
-      "auto_login": false
-    },
-    "932787735800983562": {
-      "username": "yav0",
-      "uuid": "65f4fd72-7f2c-47b0-a49a-68bfaa997a7f",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-28T18:40:44.440443+00:00",
-      "auto_login": false
-    },
-    "1154126083109699614": {
-      "username": "rexxaroonie",
-      "uuid": "1fa6982f-a0da-456f-8a5e-c64d7441ce6d",
-      "expiry_utc": "2025-07-29T01:30:25.502295+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-29T01:30:25.502439+00:00",
-      "auto_login": false
-    },
-    "1051681319110840360": {
-      "username": "rouster",
-      "uuid": "bf0fed38-5a7b-4a15-a86f-74639ec0a708",
-      "expiry_utc": "2025-07-29T03:09:56.435463+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-29T03:09:56.435526+00:00",
-      "auto_login": false
-    },
-    "1344501837835014207": {
-      "username": "caughtintheirdmsagain",
-      "uuid": "17a7bc86-516c-40c0-8100-4b9455a49d82",
-      "expiry_utc": "2050-02-17T03:35:39.501226+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-29T03:35:39.501279+00:00",
-      "auto_login": false
-    },
-    "834227641874776114": {
-      "username": "2wnis",
-      "uuid": "e78e1af8-9fbb-4412-bba3-c0f4dc2ff390",
-      "expiry_utc": "2052-11-13T06:00:42.894474+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-29T06:00:42.894710+00:00",
-      "auto_login": false
-    },
-    "626210136842698753": {
-      "username": "warlordberserk",
-      "uuid": "5211d71c-c7b7-4a45-9ecd-50b6d922af82",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-06-29T19:24:45.003990+00:00",
-      "auto_login": false
-    },
-    "1329798596106911860": {
-      "username": "k.e.y.y",
-      "uuid": "3d221114-5be8-420b-96e5-8a819e58c7fc",
-      "expiry_utc": "2052-11-14T06:55:07.673841+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-30T06:55:07.673905+00:00",
-      "auto_login": false
-    },
-    "832967744680624188": {
-      "username": "idaykz",
-      "uuid": "1eb83f62-5287-4221-ad36-0bead025f819",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-30T23:07:24.328581+00:00",
-      "auto_login": false
-    },
-    "1266586995124076585": {
-      "username": "4vasty",
-      "uuid": "6051b5fe-e2a0-4318-9fc0-056afeb38e4d",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-30T23:27:28.492168+00:00",
-      "auto_login": false
-    },
-    "795086021515018250": {
-      "username": "ttrunk",
-      "uuid": "9782d00e-09ca-43cf-916c-b0791e3418f9",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-06-30T23:56:47.515665+00:00",
-      "auto_login": false
-    },
-    "1304319348764180599": {
-      "username": "walkemdownnfuckem",
-      "uuid": "43f00339-4b2b-4569-8219-24395eda7c45",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-01T17:26:39.566274+00:00",
-      "auto_login": false
-    },
-    "918435351373160468": {
-      "username": "_kkaisen.",
-      "uuid": "1f90b298-242e-4c90-91da-529677a383f8",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-07-02T14:46:29.520360+00:00",
-      "auto_login": false
-    },
-    "879783301131423785": {
-      "username": "vz_0",
-      "uuid": "84acd6c6-58a6-4cb0-af46-235d32c1ee36",
-      "expiry_utc": "permanent",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-07-02T14:46:40.435363+00:00",
-      "auto_login": false
-    },
-    "836229084409364501": {
-      "username": "myth_5",
-      "uuid": "3d80a49a-5c72-482f-b42f-055c5c1f55bd",
-      "expiry_utc": "2025-08-02T14:49:40.789382+00:00",
-      "added_by": "1336489586276175902",
-      "timestamp_utc": "2025-07-03T14:49:40.789439+00:00",
-      "auto_login": false
-    },
-    "1333607218414878771": {
-      "username": "ygabsxxz",
-      "uuid": "6d9a5b3b-65d2-4326-aaaf-8d6353a66056",
-      "expiry_utc": "2052-11-17T17:00:39.356001+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-03T17:00:39.356112+00:00",
-      "auto_login": false
-    },
-    "1069391365668081684": {
-      "username": "long_legs102",
-      "uuid": "c91942ed-466f-4200-9548-a1427dc0af92",
-      "expiry_utc": "2052-11-18T04:48:42.119870+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-04T04:48:42.119920+00:00",
-      "auto_login": false
-    },
-    "310181985584676864": {
-      "username": ".ayoo",
-      "uuid": "e4cab510-1ede-4dd0-9bc8-b304330407bb",
-      "expiry_utc": "2052-11-18T20:33:28.613906+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-04T20:33:28.613955+00:00",
-      "auto_login": false
-    },
-    "1125635167126573071": {
-      "username": "unhonerable",
-      "uuid": "41e38df9-9504-413d-a74f-9324400e6e97",
-      "expiry_utc": "2052-11-18T22:02:33.686953+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-04T22:02:33.687047+00:00",
-      "auto_login": false
-    },
-    "673546519281926154": {
-      "username": "0napolianator0",
-      "uuid": "9b7f24e7-8642-43a8-96d5-d9a17d12ce3b",
-      "expiry_utc": "2025-08-04T03:19:52.887813+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-05T03:19:52.887861+00:00",
-      "auto_login": false
-    },
-    "416999611786592279": {
-      "username": "micerfat",
-      "uuid": "164f515d-f4e3-4b6d-8d8e-1471cf88b138",
-      "expiry_utc": "2025-08-05T20:19:06.899630+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-06T20:19:06.899696+00:00",
-      "auto_login": false
-    },
-    "1264863097261260824": {
-      "username": "clientv1",
-      "uuid": "7e57158c-2fe4-46c1-a03c-9fdbb74b0a9c",
-      "expiry_utc": "2025-08-06T03:56:48.761846+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-07T03:56:48.761956+00:00",
-      "auto_login": false
-    },
-    "1229120546034155641": {
-      "username": "igoontofemboys1",
-      "uuid": "9f1d18b2-e56f-407a-bb84-56b5f1620372",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-07T23:56:16.528189+00:00",
-      "auto_login": false
-    },
-    "749454293626650717": {
-      "username": "alldagames",
-      "uuid": "d374193e-c6c7-4435-a87a-b3620478e27c",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-07T23:56:21.763866+00:00",
-      "auto_login": false
-    },
-    "1251568164614180999": {
-      "username": "25ud",
-      "uuid": "8154566b-a62d-4efa-b45a-265f6e7cb151",
-      "expiry_utc": "2052-11-22T21:06:57.519578+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-08T21:06:57.519635+00:00",
-      "auto_login": false
-    },
-    "934805443660881951": {
-      "username": "syncrodin",
-      "uuid": "a22c4edd-d322-4c48-8e00-8b00532fb112",
-      "expiry_utc": "2025-08-07T23:58:02.130556+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-08T23:58:02.130664+00:00",
-      "auto_login": false
-    },
-    "936972534572781608": {
-      "username": "hitsyncings",
-      "uuid": "1f3ad17c-6e29-4bcc-8240-7dcc830224a3",
-      "expiry_utc": "2052-11-23T00:02:11.052406+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-09T00:02:11.052476+00:00",
-      "auto_login": false
-    },
-    "1043734384471179275": {
-      "username": "krieg7561",
-      "uuid": "66eb4847-98ab-4f7b-ab15-b5de1d5bac6c",
-      "expiry_utc": "2052-11-23T00:17:27.087911+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-09T00:17:27.087965+00:00",
-      "auto_login": false
-    },
-    "1226873672711671920": {
-      "username": "08pq",
-      "uuid": "75699782-14a7-4062-a1d0-13b681337e6d",
-      "expiry_utc": "2025-08-08T16:07:43.965898+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-09T16:07:43.965965+00:00",
-      "auto_login": false
-    },
-    "1186830095764160622": {
-      "username": "reverz.lol",
-      "uuid": "0e78f5a7-f090-4ee3-9050-f6225eb1e8d4",
-      "expiry_utc": "2052-11-23T20:52:46.261946+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-09T20:52:46.262013+00:00",
-      "auto_login": false
-    },
-    "1158085809400975411": {
-      "username": "mdibladi",
-      "uuid": "98163420-3202-49bb-9a23-244f931ca487",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-09T20:54:07.734147+00:00",
-      "auto_login": false
-    },
-    "1339300072621342852": {
-      "username": "ouziez",
-      "uuid": "3d043a50-200a-4bd2-8217-eaf73fe29d3a",
-      "expiry_utc": "2052-11-23T21:55:03.857578+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-09T21:55:03.857626+00:00",
-      "auto_login": false
-    },
-    "1109146253201260574": {
-      "username": "rxyishim",
-      "uuid": "bcb47723-0572-40ed-8519-4d176f0eb05b",
-      "expiry_utc": "2052-11-24T04:38:41.370124+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-10T04:38:41.370181+00:00",
-      "auto_login": false
-    },
-    "947204756898713721": {
-      "username": "12kg",
-      "uuid": "c990ecd1-a173-4982-8ab5-7b554b987361",
-      "expiry_utc": "2025-08-09T18:22:19.386147+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-10T18:22:19.386209+00:00",
-      "auto_login": false
-    },
-    "1241860982641262765": {
-      "username": "iwrmw.",
-      "uuid": "7f62ef34-f427-4236-9c90-abdb3377829c",
-      "expiry_utc": "2025-08-08T18:23:44.593686+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-10T18:23:44.593736+00:00",
-      "auto_login": false
-    },
-    "1252314999997862015": {
-      "username": "jahjahza",
-      "uuid": "a54adbbb-7fc4-4e46-8d09-8062381d4a9c",
-      "expiry_utc": "2052-11-24T18:24:02.454431+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-10T18:24:02.454511+00:00",
-      "auto_login": false
-    },
-    "1171554801071431852": {
-      "username": "evilsleepy",
-      "uuid": "820d5312-4562-4509-aecd-b8df7497615f",
-      "expiry_utc": "2025-08-09T19:16:01.906707+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-10T19:16:01.906780+00:00",
-      "auto_login": false
-    },
-    "1354560105726742608": {
-      "username": "rruels",
-      "uuid": "b09c9b14-564f-4128-b34d-5dcee69ff440",
-      "expiry_utc": "2052-11-24T21:50:12.141752+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-10T21:50:12.141812+00:00",
-      "auto_login": false
-    },
-    "933878585989668924": {
-      "username": "qputoo",
-      "uuid": "269f415a-e739-474a-b500-969776ee2149",
-      "expiry_utc": "permanent",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-11T02:08:08.957632+00:00",
-      "auto_login": false
-    },
-    "727281225982803972": {
-      "username": "bb8q",
-      "uuid": "075ad38e-e2db-4325-a1dc-2ec336afb7e8",
-      "expiry_utc": "2025-08-11T00:15:28.012282+00:00",
-      "added_by": "1158085809400975411",
-      "timestamp_utc": "2025-07-12T00:15:28.012353+00:00",
-      "auto_login": false
+        "uuid": "d6dc0fd2-f6b1-4002-ba31-0de0ab9fd2a7",
+        "auto_login": false
     }
-  },
-  "668873770697752647": {
-    "uuid": "efb940e5-1709-4d30-b180-79901825d445",
-    "auto_login": false
-  },
-  "1041995735337537596": {
-    "uuid": "d6dc0fd2-f6b1-4002-ba31-0de0ab9fd2a7",
-    "auto_login": false
-  }
 }
