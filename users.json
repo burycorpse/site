@@ -930,14 +930,6 @@
             "timestamp_utc": "2025-06-16T20:20:45.599346+00:00",
             "auto_login": true
         },
-        "1277101781725478912": {
-            "username": "somekinds",
-            "uuid": "b67118a5-5217-43a3-ad56-b204dfb9add0",
-            "expiry_utc": "permanent",
-            "added_by": "1158085809400975411",
-            "timestamp_utc": "2025-06-23T15:32:13.516555+00:00",
-            "auto_login": false
-        },
         "979733817755590676": {
             "username": "_.dollars",
             "uuid": "468b4ca0-7dda-4799-a2b2-9a25b0a183a7",
