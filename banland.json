@@ -331,6 +331,12 @@
             "expiry": "permanent",
             "moderator": 1336489586276175902,
             "timestamp": "2025-07-12T16:24:35.885470+00:00"
+        },
+        "1277101781725478912": {
+            "reason": "No reason provided",
+            "expiry": "permanent",
+            "moderator": 1158085809400975411,
+            "timestamp": "2025-07-12T17:35:02.273177+00:00"
         }
     }
 }
